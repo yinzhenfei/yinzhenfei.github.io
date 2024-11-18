@@ -43,7 +43,7 @@ Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl
 
 [The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, 2023
 
-[**Paper**](https://arxiv.org/pdf/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> <strong>[**Project Page**](https://openlamm.github.io/)</strong> <strong>[**Code**](https://github.com/OpenGVLab/LAMM)</strong>
+[**Paper**](https://arxiv.org/pdf/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> | [**Project Page**](https://openlamm.github.io/) | [**Code**](https://github.com/OpenGVLab/LAMM)
 <!-- - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. -->
 </div>
 </div>
