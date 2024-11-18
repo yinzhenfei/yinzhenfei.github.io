@@ -33,7 +33,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://proceedings.neurips.cc/paper_files/paper/2023/file/548a41b9cac6f50dccf7e63e9e1b1b9b-Paper-Datasets_and_Benchmarks.pdf)
 
-Zhenfei Yin, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai, Jing Shao, Wanli Ouyang
+**Zhenfei Yin**, Jiong Wang, Jianjian Cao, Zhelun Shi, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai, Jing Shao, Wanli Ouyang
 
 [**Project Page**](https://openlamm.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. 
