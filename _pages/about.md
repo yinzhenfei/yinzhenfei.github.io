@@ -26,10 +26,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📝 Publications 
+# 📝 Selected Publications 
 Topics: A / B / C
-(*: indicates equal contribution; ✉: indicates corresponding; †: indicates project lead)
 
+(*: indicates equal contribution; ✉: indicates corresponding; †: indicates project lead)
+Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 <!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
