@@ -30,6 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 Topics: A / B / C
 
 (*: indicates equal contribution; ✉: indicates corresponding; †: indicates project lead)
+
 Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 <!-- ------------------------------------------------------------- -->
 
