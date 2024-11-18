@@ -41,7 +41,9 @@ Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl
 
 **Zhenfei Yin<sup>*</sup>**, Jiong Wang<sup>*</sup>, Jianjian Cao<sup>*</sup>, Zhelun Shi<sup>*</sup>, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai<sup>✉</sup>, Jing Shao<sup>✉</sup>, Wanli Ouyang
 
-[**Project Page**](https://openlamm.github.io/) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong>
+[The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, 2023
+
+[**Paper**](https://arxiv.org/pdf/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> [**Project Page**](https://openlamm.github.io/) [**Code**](https://github.com/OpenGVLab/LAMM)
 <!-- - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. -->
 </div>
 </div>
