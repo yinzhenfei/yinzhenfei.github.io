@@ -23,7 +23,7 @@ Hi! I’m currently a Ph.D. student at [the University of Sydney](https://www.sy
 
 
 # News
-- To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d also be happy to help recommend some opportunities for internships or studies as well.
+- To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
 - *2024.12*: &nbsp; I will be giving a talk at the NeurIPS 2024 Workshop on [Open-World Agents](https://sites.google.com/view/open-world-agents), titled "Building AI Society with Foundation-Model Agents." 
 - *2024.11*: &nbsp; OASIS
 - *2024.11*: &nbsp; LAMM
