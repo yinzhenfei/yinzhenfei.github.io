@@ -31,7 +31,8 @@ Hi! I’m currently a Ph.D. student at [the University of Sydney](https://www.sy
 - *2024.07*: I co-organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
 - *2024.05*: I co-hosted the [EgoPlan](https://chenyi99.github.io/ego_plan_challenge/) Challenge to evaluate embodied agents' complex planning capabilities.
 - *2023.11*: Excited to release [LAMM](https://openlamm.github.io/), a comprehensive framework for VLM training, evaluation, and applications in embodied agents.
-- *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our solution is open-sourced.
+- *2021.11*: Excited to release [Intern](https://github.com/OpenGVLab), a series of multi-modal foundation models focusing on vision.
+- *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our [solution](https://github.com/yinzhenfei/RobustForensics) is open-sourced.
 - *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, achieving 31st place.
 
 # Research Highlights
@@ -46,7 +47,7 @@ Topics: A / B / C
 Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='/images/Octavius_1092x720_src.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='/images/LAMM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://proceedings.neurips.cc/paper_files/paper/2023/file/548a41b9cac6f50dccf7e63e9e1b1b9b-Paper-Datasets_and_Benchmarks.pdf)
@@ -57,6 +58,19 @@ Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl
 
 [**Paper**](https://arxiv.org/pdf/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> **|** [**Project Page**](https://openlamm.github.io/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 <!-- - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[INTERN: A New Learning Paradigm Towards General Vision](https://arxiv.org/abs/2111.08687)
+
+Jing Shao<sup>*</sup>, Siyu Chen<sup>*</sup>, Yangguang Li<sup>*</sup>, Kun Wang<sup>*</sup>, **Zhenfei Yin<sup>*</sup>**, Yinan He<sup>*</sup>, Jianing Teng<sup>*</sup>, Qinghong Sun<sup>*</sup>, Mengya Gao<sup>*</sup>, Jihao Liu<sup>*</sup>, Gengshi Huang<sup>*</sup>, Guanglu Song, Yichao Wu, Yuming Huang, Fenggang Liu, Huan Peng, Shuo Qin, Chengyu Wang, Yujie Wang, Conghui He, Ding Liang, Yu Liu, Fengwei Yu, Junjie Yan, Dahua Lin, Xiaogang Wang, Yu Qiao<sup>✉</sup>
+
+Technical Report, 2021
+
+[**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/OpenGVLab)
 </div>
 </div>
 
