@@ -47,24 +47,76 @@ Topics: A / B / C
 Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='/images/MP5_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**
+
+Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenfei Yin**, Lu Sheng<sup>✉</sup>, Ruimao Zhang<sup>✉</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+
+[The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024), CVPR 2024
+
+[**Paper**](https://arxiv.org/pdf/2312.07472) **|** [**Project Page**](https://iranqin.github.io/MP5.github.io/) **|** [**Code**]([https://github.com/XPixelGroup/DepictQA](https://github.com/IranQin/MP5))
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/DQA_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models**
+
+Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfei Yin**, Tianfan Xue<sup>✉</sup>, Chao Dong<sup>✉</sup>
+
+[The 18th European Conference on Computer Vision](https://eccv.ecva.net/Conferences/2024), ECCV 2024
+
+[**Paper**](https://arxiv.org/pdf/2312.08962) **|** [**Project Page**](https://depictqa.github.io/) **|** [**Code**](https://github.com/XPixelGroup/DepictQA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='/images/Octavius_1092x720_src.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE**
+
+Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>†</sup>**, Si Liu, Lu Sheng<sup>✉</sup>**, Wanli Ouyang, Jing Shao<sup>✉</sup>**
+
+[The Twelfth International Conference on Learning Representations](https://iclr.cc/Conferences/2024), ICLR 2024
+
+[**Paper**](https://openreview.net/pdf?id=rTDyN8yajn) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='/images/LAMM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark](https://proceedings.neurips.cc/paper_files/paper/2023/file/548a41b9cac6f50dccf7e63e9e1b1b9b-Paper-Datasets_and_Benchmarks.pdf)
+**LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**
 
 **Zhenfei Yin<sup>*</sup>**, Jiong Wang<sup>*</sup>, Jianjian Cao<sup>*</sup>, Zhelun Shi<sup>*</sup>, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai<sup>✉</sup>, Jing Shao<sup>✉</sup>, Wanli Ouyang
 
-[The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, 2023
+[The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, NeurIPS 2023
 
-[**Paper**](https://arxiv.org/pdf/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> **|** [**Project Page**](https://openlamm.github.io/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/file/548a41b9cac6f50dccf7e63e9e1b1b9b-Paper-Datasets_and_Benchmarks.pdf) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> **|** [**Project Page**](https://openlamm.github.io/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 <!-- - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. -->
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
+
+Yuanhan Zhang, Qinghong Sun, Yichun Zhou, Zexin He, **Zhenfei Yin**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao, Ziwei Liu<sup>✉</sup>
+
+Preprint, 2022
+
+[**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[INTERN: A New Learning Paradigm Towards General Vision](https://arxiv.org/abs/2111.08687)
+**INTERN: A New Learning Paradigm Towards General Vision**
 
 Jing Shao<sup>*</sup>, Siyu Chen<sup>*</sup>, Yangguang Li<sup>*</sup>, Kun Wang<sup>*</sup>, **Zhenfei Yin<sup>*</sup>**, Yinan He<sup>*</sup>, Jianing Teng<sup>*</sup>, Qinghong Sun<sup>*</sup>, Mengya Gao<sup>*</sup>, Jihao Liu<sup>*</sup>, Gengshi Huang<sup>*</sup>, Guanglu Song, Yichao Wu, Yuming Huang, Fenggang Liu, Huan Peng, Shuo Qin, Chengyu Wang, Yujie Wang, Conghui He, Ding Liang, Yu Liu, Fengwei Yu, Junjie Yan, Dahua Lin, Xiaogang Wang, Yu Qiao<sup>✉</sup>
 
