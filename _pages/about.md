@@ -23,13 +23,16 @@ Hi! I’m currently a Ph.D. student at [the University of Sydney](https://www.sy
 
 
 # News
+- I'm on the job market in 2025.
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
 - *2024.12*: &nbsp; I will be giving a talk at the NeurIPS 2024 Workshop on [Open-World Agents](https://sites.google.com/view/open-world-agents), titled "Building AI Society with Foundation-Model Agents." 
-- *2024.11*: &nbsp; OASIS
-- *2024.11*: &nbsp; LAMM
-- *2024.11*: &nbsp; DFDC
-- *2024.11*: &nbsp; world final
-- *2024.11*: &nbsp; ECL final
+- *2024.11*: Thrilled to announce [OASIS](https://oasis.camel-ai.org/), a simulation platform supporting interactions among over one million LLM agents.
+- *2024.07*: I co-organized the ICML 2024 workshop on [Multi-modal Foundation Models Meet Embodied AI (MFM-EAI)](https://icml-mfm-eai.github.io/).
+- *2024.07*: I co-organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
+- *2024.05*: I co-hosted the [EgoPlan](https://chenyi99.github.io/ego_plan_challenge/) Challenge to evaluate embodied agents' complex planning capabilities.
+- *2023.11*: Excited to release [LAMM](https://openlamm.github.io/), a comprehensive framework for VLM training, evaluation, and applications in embodied agents.
+- *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our solution is open-sourced.
+- *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, achieving 31st place.
 
 # Research Highlights
 
