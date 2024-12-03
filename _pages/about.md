@@ -78,7 +78,7 @@ Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfe
 
 **Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE**
 
-Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>†</sup>**, Si Liu, Lu Sheng<sup>✉</sup>**, Wanli Ouyang, Jing Shao<sup>✉</sup>**
+Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>†</sup>**, Si Liu, Lu Sheng<sup>✉</sup>, Wanli Ouyang, Jing Shao<sup>✉</sup>
 
 [The Twelfth International Conference on Learning Representations](https://iclr.cc/Conferences/2024), ICLR 2024
 
