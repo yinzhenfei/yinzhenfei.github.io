@@ -48,6 +48,84 @@ Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl
 
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/oasis_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OASIS: Open Agents Social Interaction Simulations on One Million Agents**
+
+Ziyi Yang<sup>*</sup>, Zaibin Zhang<sup>*</sup>, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, **Zhenfei Yin<sup>✉</sup>**, Guohao Li<sup>✉</sup>, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao<sup>✉</sup>
+
+Preprint, 2024
+
+[**Paper**](https://arxiv.org/pdf/2411.11581) **|** [**Project Page**](https://oasis.camel-ai.org/) **|** [**Code**](https://github.com/camel-ai/oasis)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/worldsimbench_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**WorldSimBench: Towards Video Generation Models as World Simulators**
+
+Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li,**Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>✉</sup>, Lei Bai<sup>✉</sup>, Wanli Ouyang, Ruimao Zhang<sup>✉</sup>
+
+Preprint, 2024
+
+[**Paper**](https://arxiv.org/pdf/2410.18072) **|** [**Project Page**](https://iranqin.github.io/WorldSimBench.github.io/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/sciteam_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**
+
+Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>✉</sup>, Xinzhe Zheng, Jingzhe Li, **Zhenfei Yin**, Wanli Ouyang, Nanqing Dong<sup>✉</sup>
+
+Preprint, 2024
+
+[**Paper**](https://arxiv.org/pdf/2410.09403) **|** [**Project Page**]((https://open-sciencelab.github.io/Social_Science/)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/spavl_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**
+
+Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, **Zhenfei Yin**, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui<sup>✉</sup>, Jing Shao<sup>✉</sup>
+
+Preprint, 2024
+
+[**Paper**](https://arxiv.org/pdf/2406.12030) **|** [**Code**](https://github.com/EchoseChen/SPA-VL-RLHF)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**
+
+Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<sup>*</sup>, Sucheng Qian, Hao Shu Fang, **Zhenfei Yin<sup>†</sup>**, Wanli Ouyang, Jing Shao<sup>✉</sup>, Yu Qiao, Cewu Lu, Lu Sheng<sup>✉</sup>
+
+[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+
+[**Paper**](https://arxiv.org/pdf/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='/images/tracing360_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**
+
+Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, **Zhenfei Yin**, Yu Qiao, Yong Liu<sup>✉</sup>, Jing Shao<sup>✉</sup>
+
+[The 62nd Annual Meeting of the Association for Computational Linguistics](https://2024.aclweb.org/), 2024
+
+[**Paper**](https://arxiv.org/pdf/2402.19465) **|** [**Code**](https://github.com/ChnQ/TracingLLM)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2025</div><img src='/images/MineDreamer_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -140,6 +218,19 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='/images/pointclip_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**
+
+Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huang<sup>✉</sup>
+
+[IEEE International Conference on Multimedia and Expo](https://2024.ieeeicme.org/), 2024
+
+[**Paper**](https://arxiv.org/pdf/2212.08974)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/OmniBenchmark_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -147,7 +238,7 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 
 Yuanhan Zhang, **Zhenfei Yin**, Jing Shao<sup>✉</sup>, Ziwei Liu
 
-[European Conference on Computer Vision](https://eccv2022.ecva.net/), 2024
+[European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
 
 [**Paper**](https://arxiv.org/pdf/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
 </div>
@@ -163,6 +254,19 @@ Yuanhan Zhang, Qinghong Sun, Yichun Zhou, Zexin He, **Zhenfei Yin**, Kun Wang, L
 Preprint, 2022
 
 [**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/xlearner_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation**
+
+Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing Teng<sup>*</sup>, Kun Wang, **Zhenfei Yin**, Lu Sheng, Ziwei Liu, Yu Qiao, Jing Shao<sup>✉</sup>
+
+[European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
+
+[**Paper**](https://arxiv.org/pdf/2203.08764)
 </div>
 </div>
 
