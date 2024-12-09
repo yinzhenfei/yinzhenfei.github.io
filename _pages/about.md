@@ -127,7 +127,7 @@ Yuanhan Zhang, **Zhenfei Yin**, Jing Shao<sup>✉</sup>, Ziwei Liu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
