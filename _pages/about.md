@@ -37,7 +37,7 @@ Hi! I’m currently a Ph.D. student at [the University of Sydney](https://www.sy
 
 # Research Highlights
 
-My long-term research goal is
+My research is driven by the ambition to develop AI agents capable of operating in both physical and virtual environments. To address this challenge, my work focuses on leveraging generative AI and is centered around two key areas. The first is multi-modal foundation models, encompassing topics such as multi-modal representation learning, architecture design, and multi-sensory alignment. The second is the systematic agents, with an emphasis on practical applications, including but not limited to embodied agents, multi-agent systems, and large-scale simulations.
 
 # Selected Publications 
 Topics: A / B / C
