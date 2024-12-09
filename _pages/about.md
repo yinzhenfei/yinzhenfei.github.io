@@ -100,7 +100,20 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Benchmarking Omni-Vision Representation Through the Lens of Visual Realms**
+
+Yuanhan Zhang, **Zhenfei Yin**, Jing Shao<sup>✉</sup>, Ziwei Liu
+
+European Conference on Computer Vision, 2024
+
+[**Paper**](https://arxiv.org/pdf/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
