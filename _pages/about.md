@@ -45,7 +45,21 @@ Topics: A / B / C
 (*: indicates equal contribution; ✉: indicates corresponding; †: indicates project lead)
 
 Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
+
 <!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2025</div><img src='/images/MineDreamer_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**
+
+Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, Ruimao Zhang<sup>✉</sup>, Lu Sheng<sup>✉</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+
+[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+
+[**Paper**](https://arxiv.org/pdf/2403.12037) **|** [**Project Page**](https://sites.google.com/view/minedreamer/main) **|** [**Code**](https://github.com/Zhoues/MineDreamer)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='/images/MP5_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -56,7 +70,7 @@ Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenf
 
 [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024), CVPR 2024
 
-[**Paper**](https://arxiv.org/pdf/2312.07472) **|** [**Project Page**](https://iranqin.github.io/MP5.github.io/) **|** [**Code**]([https://github.com/XPixelGroup/DepictQA](https://github.com/IranQin/MP5))
+[**Paper**](https://arxiv.org/pdf/2312.07472) **|** [**Project Page**](https://iranqin.github.io/MP5.github.io/) **|** [**Code**](https://github.com/IranQin/MP5)
 </div>
 </div>
 
@@ -100,14 +114,14 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/OmniBenchmark_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Benchmarking Omni-Vision Representation Through the Lens of Visual Realms**
 
 Yuanhan Zhang, **Zhenfei Yin**, Jing Shao<sup>✉</sup>, Ziwei Liu
 
-European Conference on Computer Vision, 2024
+[European Conference on Computer Vision](https://eccv2022.ecva.net/), 2024
 
 [**Paper**](https://arxiv.org/pdf/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
 </div>
