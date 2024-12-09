@@ -87,6 +87,8 @@ Technical Report, 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/CH^3EF_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 **Assessment of Multimodal Large Language Models in Alignment with Human Values**
 
