@@ -66,7 +66,7 @@ Preprint, 2024
 
 **WorldSimBench: Towards Video Generation Models as World Simulators**
 
-Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li,**Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>✉</sup>, Lei Bai<sup>✉</sup>, Wanli Ouyang, Ruimao Zhang<sup>✉</sup>
+Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li, **Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>✉</sup>, Lei Bai<sup>✉</sup>, Wanli Ouyang, Ruimao Zhang<sup>✉</sup>
 
 Preprint, 2024
 
@@ -83,7 +83,7 @@ Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>✉</sup>, Xin
 
 Preprint, 2024
 
-[**Paper**](https://arxiv.org/pdf/2410.09403) **|** [**Project Page**]((https://open-sciencelab.github.io/Social_Science/)
+[**Paper**](https://arxiv.org/pdf/2410.09403) **|** [**Project Page**](https://open-sciencelab.github.io/Social_Science/)
 </div>
 </div>
 
