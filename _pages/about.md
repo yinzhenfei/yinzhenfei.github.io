@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m currently a Ph.D. candidate at [the University of Sydney](https://www.sydney.edu.au/), working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. Zhiyong Wang. I’m also a researcher at the [Shanghai AI Lab](https://www.shlab.org.cn/en), where I collaborate with outstanding researchers like Dr. [Amanda Shao](https://amandajshao.github.io/). Before starting my Ph.D., I was part of [SenseTime](https://www.sensetime.com/en)’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from [HUST](https://www.hust.edu.cn/), where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun Hu](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
+Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https://www.sydney.edu.au/), working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. Zhiyong Wang. I’m also a researcher at the [Shanghai AI Lab](https://www.shlab.org.cn/en), where I collaborate with outstanding researchers like Dr. [Amanda Shao](https://amandajshao.github.io/). Before starting my Ph.D., I was part of [SenseTime](https://www.sensetime.com/en)’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from [HUST](https://www.hust.edu.cn/), where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun Hu](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # News
-- I'm on the job market in 2025.
+- I'm on the job market in 2025. [Curriculum Vitae](https://github.com/yinzhenfei/yinzhenfei.github.io/blob/main/_data/CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf)
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
 - *2024.12*: I gave a talk at the NeurIPS 2024 Workshop on [Open-World Agents](https://sites.google.com/view/open-world-agents), titled "Building AI Society with Foundation-Model Agents." 
 - *2024.11*: Thrilled to announce [OASIS](https://oasis.camel-ai.org/), a simulation platform supporting interactions among over one million LLM agents.
@@ -31,6 +31,7 @@ Hi! I’m currently a Ph.D. candidate at [the University of Sydney](https://www.
 - *2024.07*: I co-organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
 - *2024.05*: I co-hosted the [EgoPlan](https://chenyi99.github.io/ego_plan_challenge/) Challenge to evaluate embodied agents' complex planning capabilities.
 - *2023.11*: Excited to release [LAMM](https://openlamm.github.io/), a comprehensive framework for VLM training, evaluation, and applications in embodied agents.
+- *2023.08*: I began organizing a weekly academic talk series, [Echo AI Talk](https://www.echoaitalk.com/), inviting young researchers from around the world who are well-known for their work in generative AI and foundation models. Everyone is welcome to join!
 - *2021.11*: Excited to release [Intern](https://github.com/OpenGVLab), a series of multi-modal foundation models focusing on visual representation learning.
 - *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our [solution](https://github.com/yinzhenfei/RobustForensics) is open-sourced.
 - *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, achieving 31st place.
@@ -40,20 +41,33 @@ Hi! I’m currently a Ph.D. candidate at [the University of Sydney](https://www.
 My research is driven by the ambition to develop AI agents capable of operating in both physical and virtual environments. To address this challenge, my work focuses on leveraging generative AI and is centered around two key areas. The first is multi-modal foundation models, encompassing topics such as multi-modal representation learning, architecture design, and multi-sensory alignment. The second is the systematic agents, with an emphasis on practical applications, including but not limited to embodied agents, multi-agent systems, and large-scale simulations.
 
 # Selected Publications 
-Topics: Multi-Modal Representation Learning / Embodied Agents / Multi-Agent System
+Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
-(*: indicates equal contribution; ✉: indicates corresponding; †: indicates project lead)
+(*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
 
 Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 
 <!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review**
+
+Rui Ye<sup>*</sup>, Xianghe Pang<sup>*</sup>, Jingyi Chai, Jiaao Chen, **Zhenfei Yin**, Zhen Xiang, Xiaowen Dong, Jing Shao, Siheng Chen<sup>‡</sup>
+
+Preprint, 2024
+
+[**Paper**](https://arxiv.org/pdf/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/oasis_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OASIS: Open Agents Social Interaction Simulations on One Million Agents**
 
-Ziyi Yang<sup>*</sup>, Zaibin Zhang<sup>*</sup>, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, **Zhenfei Yin<sup>✉</sup>**, Guohao Li<sup>✉</sup>, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao<sup>✉</sup>
+Ziyi Yang<sup>*</sup>, Zaibin Zhang<sup>*</sup>, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, **Zhenfei Yin<sup>‡</sup>**, Guohao Li<sup>‡</sup>, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao<sup>‡</sup>
 
 Preprint, 2024
 
@@ -66,7 +80,7 @@ Preprint, 2024
 
 **WorldSimBench: Towards Video Generation Models as World Simulators**
 
-Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li, **Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>✉</sup>, Lei Bai<sup>✉</sup>, Wanli Ouyang, Ruimao Zhang<sup>✉</sup>
+Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li, **Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>, Lei Bai<sup>‡</sup>, Wanli Ouyang, Ruimao Zhang<sup>‡</sup>
 
 Preprint, 2024
 
@@ -79,7 +93,7 @@ Preprint, 2024
 
 **Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**
 
-Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>✉</sup>, Xinzhe Zheng, Jingzhe Li, **Zhenfei Yin**, Wanli Ouyang, Nanqing Dong<sup>✉</sup>
+Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>‡</sup>, Xinzhe Zheng, Jingzhe Li, **Zhenfei Yin**, Wanli Ouyang, Nanqing Dong<sup>‡</sup>
 
 Preprint, 2024
 
@@ -87,12 +101,26 @@ Preprint, 2024
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='images/GenderBiaVLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GenderBias-VL: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing**
+
+Yisong Xiao, Aishan Liu, QianJia Cheng, **Zhenfei Yin**, Siyuan Liang, Jiapeng Li, Jing Shao, Xianglong Liu<sup>‡</sup>, Dacheng Tao
+
+Preprint, 2024
+
+[**Paper**](https://arxiv.org/abs/2407.00600)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/spavl_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**
 
-Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, **Zhenfei Yin**, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui<sup>✉</sup>, Jing Shao<sup>✉</sup>
+Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, **Zhenfei Yin**, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
 Preprint, 2024
 
@@ -100,16 +128,16 @@ Preprint, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/CH^3EF_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**
+**Assessment of Multimodal Large Language Models in Alignment with Human Values**
 
-Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<sup>*</sup>, Sucheng Qian, Hao Shu Fang, **Zhenfei Yin<sup>†</sup>**, Wanli Ouyang, Jing Shao<sup>✉</sup>, Yu Qiao, Cewu Lu, Lu Sheng<sup>✉</sup>
+Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, Zaibin Zhang, Lijun Li, Yongting Zhang, **Zhenfei Yin**, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>‡</sup>
 
-[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+Preprint, 2024
 
-[**Paper**](https://arxiv.org/pdf/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
+[**Paper**](https://arxiv.org/pdf/2403.17830) **|** [**Project Page**](https://openlamm.github.io/ch3ef/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 </div>
 </div>
 
@@ -118,11 +146,50 @@ Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<
 
 **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**
 
-Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, **Zhenfei Yin**, Yu Qiao, Yong Liu<sup>✉</sup>, Jing Shao<sup>✉</sup>
+Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, **Zhenfei Yin**, Yu Qiao, Yong Liu<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
 [The 62nd Annual Meeting of the Association for Computational Linguistics](https://2024.aclweb.org/), 2024
 
 [**Paper**](https://arxiv.org/pdf/2402.19465) **|** [**Code**](https://github.com/ChnQ/TracingLLM)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report 2024</div><img src='/images/308p_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**
+
+Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jing Shao<sup>‡</sup>, Jingyi Deng, Jinlan Fu, Kexin Huang, Kunchang Li, Lijun Li, Limin Wang, Lu Sheng, Meiqi Chen, Ming Zhang, Qibing Ren, Sirui Chen, Tao Gui, Wanli Ouyang, Yali Wang, Yan Teng, Yaru Wang, Yi Wang, Yinan He, Yingchun Wang, Yixu Wang, Yongting Zhang, Yu Qiao<sup>‡</sup>, Yujiong Shen, Yurong Mou, Yuxi Chen, Zaibin Zhang, Zhelun Shi, **Zhenfei Yin<sup>†</sup>**, Zhipin Wang
+
+Technical Report, 2024
+
+[**Paper**](https://arxiv.org/pdf/2401.15071)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/DQA_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models**
+
+Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfei Yin**, Tianfan Xue<sup>‡</sup>, Chao Dong<sup>‡</sup>
+
+[The 18th European Conference on Computer Vision](https://eccv.ecva.net/Conferences/2024), ECCV 2024
+
+[**Paper**](https://arxiv.org/pdf/2312.08962) **|** [**Project Page**](https://depictqa.github.io/) **|** [**Code**](https://github.com/XPixelGroup/DepictQA)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**
+
+Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<sup>*</sup>, Sucheng Qian, Hao Shu Fang, **Zhenfei Yin<sup>†</sup>**, Wanli Ouyang, Jing Shao<sup>‡</sup>, Yu Qiao, Cewu Lu, Lu Sheng<sup>‡</sup>
+
+[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+
+[**Paper**](https://arxiv.org/pdf/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
 </div>
 </div>
 
@@ -131,7 +198,7 @@ Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, 
 
 **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**
 
-Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, Ruimao Zhang<sup>✉</sup>, Lu Sheng<sup>✉</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, Ruimao Zhang<sup>‡</sup>, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>†</sup>
 
 [NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
 
@@ -144,7 +211,7 @@ Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, R
 
 **MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**
 
-Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenfei Yin**, Lu Sheng<sup>✉</sup>, Ruimao Zhang<sup>✉</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenfei Yin**, Lu Sheng<sup>‡</sup>, Ruimao Zhang<sup>‡</sup>, Yu Qiao, Jing Shao<sup>†</sup>
 
 [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024), CVPR 2024
 
@@ -152,42 +219,16 @@ Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenf
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report 2024</div><img src='/images/308p_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/ChEF_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**
+**ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models**
 
-Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jing Shao<sup>✉</sup>, Jingyi Deng, Jinlan Fu, Kexin Huang, Kunchang Li, Lijun Li, Limin Wang, Lu Sheng, Meiqi Chen, Ming Zhang, Qibing Ren, Sirui Chen, Tao Gui, Wanli Ouyang, Yali Wang, Yan Teng, Yaru Wang, Yi Wang, Yinan He, Yingchun Wang, Yixu Wang, Yongting Zhang, Yu Qiao<sup>✉</sup>, Yujiong Shen, Yurong Mou, Yuxi Chen, Zaibin Zhang, Zhelun Shi, **Zhenfei Yin<sup>†</sup>**, Zhipin Wang
+Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, Zhenfei Yin, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>‡</sup>
 
 Technical Report, 2024
 
-[**Paper**](https://arxiv.org/pdf/2401.15071)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint 2024</div><img src='/images/CH^3EF_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Assessment of Multimodal Large Language Models in Alignment with Human Values**
-
-Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, Zaibin Zhang, Lijun Li, Yongting Zhang, **Zhenfei Yin**, Lu Sheng<sup>✉</sup>, Yu Qiao, Jing Shao<sup>✉</sup>
-
-Preprint, 2024
-
-[**Paper**](https://arxiv.org/pdf/2403.17830) **|** [**Project Page**](https://openlamm.github.io/ch3ef/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/DQA_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models**
-
-Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfei Yin**, Tianfan Xue<sup>✉</sup>, Chao Dong<sup>✉</sup>
-
-[The 18th European Conference on Computer Vision](https://eccv.ecva.net/Conferences/2024), ECCV 2024
-
-[**Paper**](https://arxiv.org/pdf/2312.08962) **|** [**Project Page**](https://depictqa.github.io/) **|** [**Code**](https://github.com/XPixelGroup/DepictQA)
+[**Paper**](https://arxiv.org/abs/2311.02692) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 </div>
 </div>
 
@@ -196,7 +237,7 @@ Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfe
 
 **Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE**
 
-Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>†</sup>**, Si Liu, Lu Sheng<sup>✉</sup>, Wanli Ouyang, Jing Shao<sup>✉</sup>
+Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>†</sup>**, Si Liu, Lu Sheng<sup>‡</sup>, Wanli Ouyang, Jing Shao<sup>‡</sup>
 
 [The Twelfth International Conference on Learning Representations](https://iclr.cc/Conferences/2024), ICLR 2024
 
@@ -209,7 +250,7 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 
 **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**
 
-**Zhenfei Yin<sup>*</sup>**, Jiong Wang<sup>*</sup>, Jianjian Cao<sup>*</sup>, Zhelun Shi<sup>*</sup>, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai<sup>✉</sup>, Jing Shao<sup>✉</sup>, Wanli Ouyang
+**Zhenfei Yin<sup>*</sup>**, Jiong Wang<sup>*</sup>, Jianjian Cao<sup>*</sup>, Zhelun Shi<sup>*</sup>, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai<sup>‡</sup>, Jing Shao<sup>‡</sup>, Wanli Ouyang
 
 [The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, NeurIPS 2023
 
@@ -223,7 +264,7 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 
 **3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**
 
-Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huang<sup>✉</sup>
+Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huang<sup>‡</sup>
 
 [IEEE International Conference on Multimedia and Expo](https://2024.ieeeicme.org/), 2024
 
@@ -236,24 +277,11 @@ Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huan
 
 **Benchmarking Omni-Vision Representation Through the Lens of Visual Realms**
 
-Yuanhan Zhang, **Zhenfei Yin**, Jing Shao<sup>✉</sup>, Ziwei Liu
+Yuanhan Zhang, **Zhenfei Yin<sup>†</sup>**, Jing Shao<sup>‡</sup>, Ziwei Liu
 
 [European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
 
 [**Paper**](https://arxiv.org/pdf/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
-
-Yuanhan Zhang, Qinghong Sun, Yichun Zhou, Zexin He, **Zhenfei Yin**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao, Ziwei Liu<sup>✉</sup>
-
-Preprint, 2022
-
-[**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
 </div>
 </div>
 
@@ -262,11 +290,37 @@ Preprint, 2022
 
 **X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation**
 
-Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing Teng<sup>*</sup>, Kun Wang, **Zhenfei Yin**, Lu Sheng, Ziwei Liu, Yu Qiao, Jing Shao<sup>✉</sup>
+Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing Teng<sup>*</sup>, Kun Wang, **Zhenfei Yin**, Lu Sheng, Ziwei Liu, Yu Qiao, Jing Shao<sup>‡</sup>
 
 [European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
 
 [**Paper**](https://arxiv.org/pdf/2203.08764)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
+
+Yuanhan Zhang<sup>*</sup>, Qinghong Sun<sup>*</sup>, Yichun Zhou<sup>*</sup>, Zexin He<sup>*</sup>, **Zhenfei Yin<sup>†</sup>**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao<sup>‡</sup>, Ziwei Liu
+
+Preprint, 2022
+
+[**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/12ALL_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**One to Transfer All: A Universal Transfer Framework for Vision Foundation Model with Few Data**
+
+Yujie Wang<sup>*</sup>, Junqin Huang<sup>*</sup>, Mengya Gao<sup>*</sup>, Yichao Wu<sup>*</sup>, **Zhenfei Yin**, Ding Liang, Junjie Yan
+
+Technical Report, 2021
+
+[**Paper**](https://arxiv.org/abs/2111.12386)
 </div>
 </div>
 
@@ -275,7 +329,7 @@ Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing 
 
 **INTERN: A New Learning Paradigm Towards General Vision**
 
-Jing Shao<sup>*</sup>, Siyu Chen<sup>*</sup>, Yangguang Li<sup>*</sup>, Kun Wang<sup>*</sup>, **Zhenfei Yin<sup>*</sup>**, Yinan He<sup>*</sup>, Jianing Teng<sup>*</sup>, Qinghong Sun<sup>*</sup>, Mengya Gao<sup>*</sup>, Jihao Liu<sup>*</sup>, Gengshi Huang<sup>*</sup>, Guanglu Song, Yichao Wu, Yuming Huang, Fenggang Liu, Huan Peng, Shuo Qin, Chengyu Wang, Yujie Wang, Conghui He, Ding Liang, Yu Liu, Fengwei Yu, Junjie Yan, Dahua Lin, Xiaogang Wang, Yu Qiao<sup>✉</sup>
+Jing Shao<sup>*</sup>, Siyu Chen<sup>*</sup>, Yangguang Li<sup>*</sup>, Kun Wang<sup>*</sup>, **Zhenfei Yin<sup>*</sup>**, Yinan He<sup>*</sup>, Jianing Teng<sup>*</sup>, Qinghong Sun<sup>*</sup>, Mengya Gao<sup>*</sup>, Jihao Liu<sup>*</sup>, Gengshi Huang<sup>*</sup>, Guanglu Song, Yichao Wu, Yuming Huang, Fenggang Liu, Huan Peng, Shuo Qin, Chengyu Wang, Yujie Wang, Conghui He, Ding Liang, Yu Liu, Fengwei Yu, Junjie Yan, Dahua Lin, Xiaogang Wang, Yu Qiao<sup>‡</sup>
 
 Technical Report, 2021
 
@@ -286,6 +340,7 @@ Technical Report, 2021
 <!-- ------------------------------------------------------------- -->
 
 # Professional Service
+- *2023.08-Present*, Academic-Talk Event Organizer, [Echo AI Talk](https://www.echoaitalk.com/)
 - *2024.07*, Workshop Organizer, ICML 2024 workshop on [Multi-modal Foundation Model meets Embodied AI (MFM-EAI)](https://icml-mfm-eai.github.io/)
 - *2024.07*, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
 - *2024 Spring*, Guest Lecture, [ELEC5304](https://www.sydney.edu.au/units/ELEC5304): Intelligent Visual Signal Understanding, USYD
