@@ -23,7 +23,7 @@ Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https:
 
 
 # News
-- I'm on the job market in 2025. <a href="[username.github.io/folder/document.pdf](https://yinzhenfei.github.io/CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf)" target="_blank">Curriculum Vitae</a>
+- I'm on the job market in 2025. <a href="[https://yinzhenfei.github.io/CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf]" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
 - *2024.12*: I gave a talk at the NeurIPS 2024 Workshop on [Open-World Agents](https://sites.google.com/view/open-world-agents), titled "Building AI Society with Foundation-Model Agents." 
 - *2024.11*: Thrilled to announce [OASIS](https://oasis.camel-ai.org/), a simulation platform supporting interactions among over one million LLM agents.
