@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Zhenfei (Jeremy) Yin"
+title                    : "Zhenfei Yin"
 description              : "Focusing on developing Foundation Models to build AI Agents in both physical and virtual world."
 repository               : "yinzhenfei/yinzhenfei.github.io" 
 google_scholar_stats_use_cdn : true
