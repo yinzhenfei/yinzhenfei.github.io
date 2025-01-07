@@ -45,7 +45,7 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
 (*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
 
-Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
+<!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
 
 <!-- ------------------------------------------------------------- -->
 
