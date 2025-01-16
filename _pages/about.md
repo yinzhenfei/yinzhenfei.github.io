@@ -48,7 +48,7 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
 (*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
 
-
+<!--
 <!-- 主模块布局 -->
 <div class="neuro-symbolic">
   <!-- 主模块1 -->
@@ -237,7 +237,7 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
     </div>
   </div>
 </div>
-
+-->
 
 <!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
 
