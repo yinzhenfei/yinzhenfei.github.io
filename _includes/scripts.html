@@ -2,3 +2,36 @@
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
+
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        const toggleButtons = document.querySelectorAll(".toggle-button");
+
+        toggleButtons.forEach(button => {
+            button.addEventListener("click", function () {
+                const targetId = this.getAttribute("data-target");
+                const content = document.getElementById(targetId);
+
+                if (content) {
+                    const subModuleContents = content.querySelectorAll(".sub-module-content");
+
+                    subModuleContents.forEach(subContent => {
+                        if (subContent.style.display === "none") {
+                            subContent.style.display = "block";
+                        } else {
+                            subContent.style.display = "none";
+                        }
+                    });
+                }
+            });
+        });
+    });
+    function toggleContent(id) {
+        var element = document.getElementById(id);
+        if (element.style.display === "none") {
+            element.style.display = "block";
+        } else {
+            element.style.display = "none";
+        }
+    }
+</script>

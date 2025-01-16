@@ -21,6 +21,7 @@ Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https:
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<span class='anchor' id='-news'></span>
 
 # News
 - I'm on the job market in 2025. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
@@ -40,10 +41,203 @@ Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https:
 
 My research is driven by the ambition to develop AI agents capable of operating in both physical and virtual environments. To address this challenge, my work focuses on leveraging generative AI and is centered around two key areas. The first is multi-modal foundation models, encompassing topics such as multi-modal representation learning, architecture design, and multi-sensory alignment. The second is the systematic agents, with an emphasis on practical applications, including but not limited to embodied agents, multi-agent systems, and large-scale simulations.
 
+<span class='anchor' id='-publications'></span>
+
 # Selected Publications 
 Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
 (*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
+
+
+<!-- 主模块布局 -->
+<div class="neuro-symbolic">
+  <!-- 主模块1 -->
+  <div class="module">
+    <h2>Neuro-Symbolic Concepts: Representations</h2>
+    <p class="description">How should we represent various types of concepts?<br>How to capture the programmatic structures underlying these concepts (<em>The Theory-Theory of Concepts</em>)?</p>
+    <button class="toggle-button" data-target="representations-content">Show Work on Representations</button>
+  </div>
+  <!-- 箭头与子模块1 -->
+  <div class="arrows">
+    <div class="arrow"></div>
+    <div class="arrow"></div>
+    <div class="arrow"></div>
+  </div>
+  <div id="representations-content" class="sub-modules">
+    <div class="sub-module">
+      <h3>Language Structures</h3>
+      <div class="sub-module-content" style="display: none;">
+        <p>Details about Language Structures:</p>
+        <ul class="custom-list">
+          <li>
+            <div class="list-item">
+              <div class="list-header">Phrase Structure from Grounding</div>
+              <div class="list-link"><a href="#">Visually-Grounded Neural Syntax</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Combinatory Categorial Grammar</div>
+              <div class="list-link"><a href="#">Grammar-Based Grounded Lexicon</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Logographic Structures</div>
+              <div class="list-link"><a href="#">Logographic Library Learning</a></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="sub-module">
+      <h3>Visual Concepts</h3>
+      <div class="sub-module-content" style="display: none;">
+        <p>Details about Visual Concepts:</p>
+        <ul class="custom-list">
+          <li>
+            <div class="list-item">
+              <div class="list-header">Object-Centric Concepts</div>
+              <div class="list-link"><a href="#">Neuro-Symbolic Concept Learner</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">3D Concepts</div>
+              <div class="list-link"><a href="#">Neuro-Symbolic 3D</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Metaconcepts</div>
+              <div class="list-link"><a href="#">Visual Concept & Metaconcept</a></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="sub-module">
+      <h3>Action Concepts</h3>
+      <div class="sub-module-content" style="display: none;">
+        <p>Details about Action Concepts:</p>
+        <ul class="custom-list">
+          <li>
+            <div class="list-item">
+              <div class="list-header">Neuro-Symbolic Policies</div>
+              <div class="list-link"><a href="#">NSPort</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Part-Centric Skill Modeling</div>
+              <div class="list-link"><a href="#">Composable Part-Based Policy</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Hierarchical Task and Motion</div>
+              <div class="list-link"><a href="#">Modes from Language</a></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- 主模块2 -->
+  <div class="module">
+    <h2>Learning, Reasoning and Planning Theories and Algorithms</h2>
+    <p class="description">How can we efficiently learn these concepts from natural supervisions (e.g., language, videos)?<br>How can we leverage the structures of these concepts to make inference and planning faster?</p>
+    <button class="toggle-button" data-target="algorithms-content">Show Work on Algorithms</button>
+  </div>
+  <!-- 箭头与子模块2 -->
+  <div class="arrows">
+    <div class="arrow"></div>
+    <div class="arrow"></div>
+    <div class="arrow"></div>
+  </div>
+  <div id="algorithms-content" class="sub-modules">
+    <div class="sub-module">
+      <h3>Learning and Decision Theory</h3>
+      <div class="sub-module-content" style="display: none;">
+        <p>Details about Learning and Decision Theory:</p>
+        <ul class="custom-list">
+          <li>
+            <div class="list-item">
+              <div class="list-header">Relational Neural Network Learning</div>
+              <div class="list-link"><a href="#">Neural Logic Machines</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">PAC Learning and Sample Complexity</div>
+              <div class="list-link"><a href="#">Polynomial MHLA</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Planning Complexity</div>
+              <div class="list-link"><a href="#">Regression Width</a></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="sub-module">
+      <h3>Differentiable Concept Learning</h3>
+      <div class="sub-module-content" style="display: none;">
+        <p>Details about Differentiable Concept Learning:</p>
+        <ul class="custom-list">
+          <li>
+            <div class="list-item">
+              <div class="list-header">Differentiable Reasoning</div>
+              <div class="list-link"><a href="#">Neuro-Symbolic Concept Learner</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">First-Order Logic Rules and Policies</div>
+              <div class="list-link"><a href="#">Neural Logic Machines</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Temporal Logic Rules</div>
+              <div class="list-link"><a href="#">TOQ Networks</a></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+    <div class="sub-module">
+      <h3>Planning and Inference Algorithms</h3>
+      <div class="sub-module-content" style="display: none;">
+        <p>Details about Planning and Inference Algorithms:</p>
+        <ul class="custom-list">
+          <li>
+            <div class="list-item">
+              <div class="list-header">Planning with Hybrid Representations</div>
+              <div class="list-link"><a href="#">CROW</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Planner with Domain Models</div>
+              <div class="list-link"><a href="#">PDSketch</a></div>
+            </div>
+          </li>
+          <li>
+            <div class="list-item">
+              <div class="list-header">Optimization as Inference</div>
+              <div class="list-link"><a href="#">Diffusion-as-Adaptive-Reasoning</a></div>
+            </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
 
 <!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
 
@@ -336,8 +530,9 @@ Technical Report, 2021
 [**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/OpenGVLab)
 </div>
 </div>
-
 <!-- ------------------------------------------------------------- -->
+
+<span class='anchor' id='-professional-service'></span>
 
 # Professional Service
 - *2023.08-Present*, Academic-Talk Event Organizer, [Echo AI Talk](https://www.echoaitalk.com/)
@@ -347,17 +542,17 @@ Technical Report, 2021
 - *2024 Spring*, Teaching Assistant, [COMP 5425](https://www.sydney.edu.au/units/COMP5425): Multimedia Retrieval, USYD
 - Peer Review and Program Committee, [ICLR](https://iclr.cc/), [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [AAAI](https://aaai.org/), [ECCV](https://eccv.ecva.net/), [CVPR](https://cvpr.thecvf.com/), and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
-<!-- # 🎖 Honors and Awards
+<!-- #  Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+#  Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 💬 Invited Talks
+#  Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
+#  Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

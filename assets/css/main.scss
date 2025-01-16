@@ -107,3 +107,144 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+
+
+
+
+
+
+
+
+
+
+/* 渐入动画（显示状态） */
+#publications-content.fade-in {
+    opacity: 1;
+    transition: opacity 0.5s ease;
+}
+
+/* 渐出动画（隐藏状态） */
+#publications-content.fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease;
+}
+
+/* 默认隐藏状态 */
+#publications-content {
+    opacity: 0;
+}
+
+
+
+
+
+
+
+.neuro-symbolic {
+    margin: 20px auto;
+    width: 90%;
+    text-align: center;
+}
+.module {
+    margin: 20px auto;
+    padding: 20px;
+    border: 2px solid #7d99b1;
+    border-radius: 5px;
+    background: #ffffff;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    width: 80%;
+}
+.module h2 {
+    margin: 0 0 10px 0;
+    font-size: 24px;
+    color: #225573;
+    font-weight: bold;
+}
+.description {
+    font-size: 16px;
+    color: #666;
+    margin-bottom: 15px;
+}
+.toggle-button {
+    background: #fafdff;
+    padding: 10px 20px;
+    color: #225573;
+    font-weight: 500;
+    border: 2px solid #7d99b1;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.sub-modules {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 0px;
+}
+.sub-module {
+    width: 25%;
+    padding: 20px;
+    border: 2px solid #7d99b1;
+    border-radius: 5px;
+    background: #f9f9f9;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+.sub-module h3 {
+    margin: 0;
+    font-size: 18px;
+    color: #444;
+}
+.sub-module-content {
+    margin-top: 10px;
+    font-size: 14px;
+    color: #555;
+    display: none;
+}
+.list-item {
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    padding: 10px;
+    background: #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.list-header {
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+.list-link a {
+    color: #225573;
+    text-decoration: none;
+    font-size: 14px;
+}
+.list-link a:hover {
+    text-decoration: underline;
+}
+.custom-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.arrows {
+    display: flex;
+    justify-content: space-around;
+    margin: 10px 0 0 0;
+    position: relative;
+}
+.arrow {
+    width: 0;
+    height: 0;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    border-top: 20px solid #225573;
+    position: relative;
+}
+.arrow::after {
+    content: '';
+    position: absolute;
+    top: -40px;
+    width: 2px;
+    height: 20px;
+    background: #225573;
+}
