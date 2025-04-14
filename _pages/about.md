@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html). I'm also an incoming visiting research fellow at Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/). Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Amanda Shao](https://amandajshao.github.io/). Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
+Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html). I'm also a visiting research fellow at Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/). Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Amanda Shao](https://amandajshao.github.io/). I also had a wonderful time as a visitor at the Chinese University of Hong Kong. Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -26,13 +26,14 @@ Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working
 # News
 - I'm on the job market in 2025. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
+- *2025.07*: I'm organizing the ICML 2025 workshop on [Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges, and Futures (MAS-2025)](https://mas-2025.github.io/MAS-2025/), logistics are not fixed yet, welcome to reach out for submissions, keynotes, social events or fundings!
 - *2024.12*: I gave a talk at the NeurIPS 2024 Workshop on [Open-World Agents](https://sites.google.com/view/open-world-agents), titled "Building AI Society with Foundation-Model Agents." 
 - *2024.11*: Thrilled to announce [OASIS](https://oasis.camel-ai.org/), a simulation platform supporting interactions among over one million LLM agents.
-- *2024.07*: I co-organized the ICML 2024 workshop on [Multi-modal Foundation Models Meet Embodied AI (MFM-EAI)](https://icml-mfm-eai.github.io/).
-- *2024.07*: I co-organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
+- *2024.07*: I organized the ICML 2024 workshop on [Multi-modal Foundation Models Meet Embodied AI (MFM-EAI)](https://icml-mfm-eai.github.io/).
+- *2024.07*: I organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
 - *2024.05*: I co-hosted the [EgoPlan](https://chenyi99.github.io/ego_plan_challenge/) Challenge to evaluate embodied agents' complex planning capabilities.
 - *2023.11*: Excited to release [LAMM](https://openlamm.github.io/), a comprehensive framework for VLM training, evaluation, and applications in embodied agents.
-- *2023.08*: I began organizing a weekly academic talk series, [Echo AI Talk](https://www.echoaitalk.com/), inviting young researchers from around the world who are well-known for their work in generative AI and foundation models. Everyone is welcome to join!
+- *2023.08*: I began organizing a weekly academic talk series, [Echo AI Talk](https://www.echoaitalk.com/), inviting young researchers from around the world who are well-known for their work in generative AI, foundation models, and AI agents. Everyone is welcome to join!
 - *2021.11*: Excited to release [Intern](https://github.com/OpenGVLab), a series of multi-modal foundation models focusing on visual representation learning.
 - *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our [solution](https://github.com/yinzhenfei/RobustForensics) is open-sourced.
 - *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, achieving 31st place.
@@ -56,6 +57,77 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**
+
+Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Xiaohong Liu, Xihui Liu, Ruimao Zhang<sup>‡</sup>, Lei Bai<sup>‡</sup>
+
+Preprint, 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.16408) **|** [**Project Page**](https://iranqin.github.io/robofactory/)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
+
+Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>
+
+Preprint, 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.02390) **|** [**Code**](https://github.com/hengzzzhou/ReSo)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLR</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An AI researchers' perspective: At the crossroad of LLMs, agent-based modeling, and complex systems: Comment on "LLMs and generative agent-based models for complex systems research**
+
+Siyue Ren, Ziyue Gan, **Zhenfei Yin**, Jing Shao, Shuyue Hu
+
+Physics of Life Reviews 53, 215-217, 2025
+
+[**Paper**](https://pubmed.ncbi.nlm.nih.gov/40120400/)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**
+
+Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu Jia<sup>‡</sup>
+
+Preprint, 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-W 2025</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**
+
+Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin**, Siheng Chen<sup>‡</sup>, Jing Shao<sup>‡</sup>
+
+[ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io/), 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.03686)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review**
 
 Rui Ye<sup>*</sup>, Xianghe Pang<sup>*</sup>, Jingyi Chai, Jiaao Chen, **Zhenfei Yin**, Zhen Xiang, Xiaowen Dong, Jing Shao, Siheng Chen<sup>‡</sup>
@@ -65,6 +137,8 @@ Preprint, 2024
 [**Paper**](https://arxiv.org/pdf/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/oasis_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
