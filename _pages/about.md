@@ -82,7 +82,7 @@ Preprint, 2025
 </div>
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PLR</div><img src='images/AI researcer perspective_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics of Life Reviews 53</div><img src='images/AI researcer perspective_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **An AI researchers' perspective: At the crossroad of LLMs, agent-based modeling, and complex systems: Comment on "LLMs and generative agent-based models for complex systems research**
