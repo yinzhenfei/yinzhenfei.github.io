@@ -54,7 +54,7 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**
@@ -96,7 +96,7 @@ Physics of Life Reviews 53, 215-217, 2025
 </div>
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VLIPP_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**
@@ -110,7 +110,7 @@ Preprint, 2025
 </div>
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-W 2025</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-W 2025</div><img src='images/masgpt_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**
