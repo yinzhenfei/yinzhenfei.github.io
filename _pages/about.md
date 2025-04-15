@@ -424,7 +424,7 @@ Technical Report, 2021
 - *2024.07*, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
 - *2024 Spring*, Guest Lecture, [ELEC5304](https://www.sydney.edu.au/units/ELEC5304): Intelligent Visual Signal Understanding, USYD
 - *2024 Spring*, Teaching Assistant, [COMP 5425](https://www.sydney.edu.au/units/COMP5425): Multimedia Retrieval, USYD
-- Peer Review and Program Committee, [ICLR](https://iclr.cc/), [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [ARR](https://aclrollingreview.org/), [AAAI](https://aaai.org/), [ICCV](https://iccv.thecvf.com/), [ECCV](https://eccv.ecva.net/), [CVPR](https://cvpr.thecvf.com/), and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+- Peer Review and Program Committee, [ICLR](https://iclr.cc/), [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [ARR](https://aclrollingreview.org/), [AAAI](https://aaai.org/), [ICCV](https://iccv.thecvf.com/), [ECCV](https://eccv.ecva.net/), [CVPR](https://cvpr.thecvf.com/), [ACMMM](https://acmmm2025.org/), and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
 <!-- #  Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
