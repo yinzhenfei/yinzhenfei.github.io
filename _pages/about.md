@@ -23,6 +23,18 @@ Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https:
 
 <span class='anchor' id='-news'></span>
 
+<a href="/scoreboard.html" style="
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+  margin-top: 20px;">
+  View Scoreboard
+</a>
+
+
 # News
 - I'm on the job market in 2025. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
