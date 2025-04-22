@@ -64,6 +64,8 @@ include:
   - .htaccess
   - _pages
   - files
+  - scoreboard.html
+  - Scoreboard_files
 exclude:
   - docs
   - google_scholar_crawler
