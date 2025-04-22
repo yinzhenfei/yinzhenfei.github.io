@@ -23,17 +23,6 @@ Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working
 
 <span class='anchor' id='-news'></span>
 
-<a href="/Scoreboard.html" style="
-  display: inline-block;
-  padding: 10px 20px;
-  background-color: #007bff;
-  color: white;
-  text-decoration: none;
-  border-radius: 5px;
-  margin-top: 20px;">
-  View Scoreboard
-</a>
-
 
 # News
 - I'm on the job market in 2025. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
@@ -48,7 +37,7 @@ Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working
 - *2023.08*: I began organizing a weekly academic talk series, [Echo AI Talk](https://www.echoaitalk.com/), inviting young researchers from around the world who are well-known for their work in generative AI, foundation models, and AI agents. Everyone is welcome to join!
 - *2021.11*: Excited to release [Intern](https://github.com/OpenGVLab), a series of multi-modal foundation models focusing on visual representation learning.
 - *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our [solution](https://github.com/yinzhenfei/RobustForensics) is open-sourced.
-- *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, achieving 31st place.
+- *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, [achieving 31st place](/Scoreboard.html).
 
 # Research Highlights
 
