@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https://www.sydney.edu.au/), working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. Zhiyong Wang. I’m also a researcher at the [Shanghai AI Lab](https://www.shlab.org.cn/en), where I collaborate with outstanding researchers like Dr. [Amanda Shao](https://amandajshao.github.io/). Before starting my Ph.D., I was part of [SenseTime](https://www.sensetime.com/en)’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from [HUST](https://www.hust.edu.cn/), where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun Hu](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
+Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html). I'm also a visiting research fellow at Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/). Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Lei Bai](http://leibai.site/), and Dr. [Amanda Shao](https://amandajshao.github.io/). I also had a wonderful time as a visitor at the Chinese University of Hong Kong. Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -38,13 +38,14 @@ Hi there! I’m currently a Ph.D. candidate at [the University of Sydney](https:
 # News
 - I'm on the job market in 2025. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
+- *2025.07*: I'm organizing the ICML 2025 workshop on [Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges, and Futures (MAS-2025)](https://mas-2025.github.io/MAS-2025/), logistics are not fixed yet, welcome to reach out for submissions, keynotes, social events or fundings!
 - *2024.12*: I gave a talk at the NeurIPS 2024 Workshop on [Open-World Agents](https://sites.google.com/view/open-world-agents), titled "Building AI Society with Foundation-Model Agents." 
 - *2024.11*: Thrilled to announce [OASIS](https://oasis.camel-ai.org/), a simulation platform supporting interactions among over one million LLM agents.
-- *2024.07*: I co-organized the ICML 2024 workshop on [Multi-modal Foundation Models Meet Embodied AI (MFM-EAI)](https://icml-mfm-eai.github.io/).
-- *2024.07*: I co-organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
+- *2024.07*: I organized the ICML 2024 workshop on [Multi-modal Foundation Models Meet Embodied AI (MFM-EAI)](https://icml-mfm-eai.github.io/).
+- *2024.07*: I organized the ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-mfm-eai.github.io/).
 - *2024.05*: I co-hosted the [EgoPlan](https://chenyi99.github.io/ego_plan_challenge/) Challenge to evaluate embodied agents' complex planning capabilities.
 - *2023.11*: Excited to release [LAMM](https://openlamm.github.io/), a comprehensive framework for VLM training, evaluation, and applications in embodied agents.
-- *2023.08*: I began organizing a weekly academic talk series, [Echo AI Talk](https://www.echoaitalk.com/), inviting young researchers from around the world who are well-known for their work in generative AI and foundation models. Everyone is welcome to join!
+- *2023.08*: I began organizing a weekly academic talk series, [Echo AI Talk](https://www.echoaitalk.com/), inviting young researchers from around the world who are well-known for their work in generative AI, foundation models, and AI agents. Everyone is welcome to join!
 - *2021.11*: Excited to release [Intern](https://github.com/OpenGVLab), a series of multi-modal foundation models focusing on visual representation learning.
 - *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our [solution](https://github.com/yinzhenfei/RobustForensics) is open-sourced.
 - *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, achieving 31st place.
@@ -61,197 +62,78 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 (*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
 
 
-<!-- 主模块布局 -->
-<div class="neuro-symbolic">
-  <!-- 主模块1 -->
-  <div class="module">
-    <h2>Neuro-Symbolic Concepts: Representations</h2>
-    <p class="description">How should we represent various types of concepts?<br>How to capture the programmatic structures underlying these concepts (<em>The Theory-Theory of Concepts</em>)?</p>
-    <button class="toggle-button" data-target="representations-content">Show Work on Representations</button>
-  </div>
-  <!-- 箭头与子模块1 -->
-  <div class="arrows">
-    <div class="arrow"></div>
-    <div class="arrow"></div>
-    <div class="arrow"></div>
-  </div>
-  <div id="representations-content" class="sub-modules">
-    <div class="sub-module">
-      <h3>Language Structures</h3>
-      <div class="sub-module-content" style="display: none;">
-        <p>Details about Language Structures:</p>
-        <ul class="custom-list">
-          <li>
-            <div class="list-item">
-              <div class="list-header">Phrase Structure from Grounding</div>
-              <div class="list-link"><a href="#">Visually-Grounded Neural Syntax</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Combinatory Categorial Grammar</div>
-              <div class="list-link"><a href="#">Grammar-Based Grounded Lexicon</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Logographic Structures</div>
-              <div class="list-link"><a href="#">Logographic Library Learning</a></div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="sub-module">
-      <h3>Visual Concepts</h3>
-      <div class="sub-module-content" style="display: none;">
-        <p>Details about Visual Concepts:</p>
-        <ul class="custom-list">
-          <li>
-            <div class="list-item">
-              <div class="list-header">Object-Centric Concepts</div>
-              <div class="list-link"><a href="#">Neuro-Symbolic Concept Learner</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">3D Concepts</div>
-              <div class="list-link"><a href="#">Neuro-Symbolic 3D</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Metaconcepts</div>
-              <div class="list-link"><a href="#">Visual Concept & Metaconcept</a></div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="sub-module">
-      <h3>Action Concepts</h3>
-      <div class="sub-module-content" style="display: none;">
-        <p>Details about Action Concepts:</p>
-        <ul class="custom-list">
-          <li>
-            <div class="list-item">
-              <div class="list-header">Neuro-Symbolic Policies</div>
-              <div class="list-link"><a href="#">NSPort</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Part-Centric Skill Modeling</div>
-              <div class="list-link"><a href="#">Composable Part-Based Policy</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Hierarchical Task and Motion</div>
-              <div class="list-link"><a href="#">Modes from Language</a></div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <!-- 主模块2 -->
-  <div class="module">
-    <h2>Learning, Reasoning and Planning Theories and Algorithms</h2>
-    <p class="description">How can we efficiently learn these concepts from natural supervisions (e.g., language, videos)?<br>How can we leverage the structures of these concepts to make inference and planning faster?</p>
-    <button class="toggle-button" data-target="algorithms-content">Show Work on Algorithms</button>
-  </div>
-  <!-- 箭头与子模块2 -->
-  <div class="arrows">
-    <div class="arrow"></div>
-    <div class="arrow"></div>
-    <div class="arrow"></div>
-  </div>
-  <div id="algorithms-content" class="sub-modules">
-    <div class="sub-module">
-      <h3>Learning and Decision Theory</h3>
-      <div class="sub-module-content" style="display: none;">
-        <p>Details about Learning and Decision Theory:</p>
-        <ul class="custom-list">
-          <li>
-            <div class="list-item">
-              <div class="list-header">Relational Neural Network Learning</div>
-              <div class="list-link"><a href="#">Neural Logic Machines</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">PAC Learning and Sample Complexity</div>
-              <div class="list-link"><a href="#">Polynomial MHLA</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Planning Complexity</div>
-              <div class="list-link"><a href="#">Regression Width</a></div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="sub-module">
-      <h3>Differentiable Concept Learning</h3>
-      <div class="sub-module-content" style="display: none;">
-        <p>Details about Differentiable Concept Learning:</p>
-        <ul class="custom-list">
-          <li>
-            <div class="list-item">
-              <div class="list-header">Differentiable Reasoning</div>
-              <div class="list-link"><a href="#">Neuro-Symbolic Concept Learner</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">First-Order Logic Rules and Policies</div>
-              <div class="list-link"><a href="#">Neural Logic Machines</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Temporal Logic Rules</div>
-              <div class="list-link"><a href="#">TOQ Networks</a></div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-    <div class="sub-module">
-      <h3>Planning and Inference Algorithms</h3>
-      <div class="sub-module-content" style="display: none;">
-        <p>Details about Planning and Inference Algorithms:</p>
-        <ul class="custom-list">
-          <li>
-            <div class="list-item">
-              <div class="list-header">Planning with Hybrid Representations</div>
-              <div class="list-link"><a href="#">CROW</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Planner with Domain Models</div>
-              <div class="list-link"><a href="#">PDSketch</a></div>
-            </div>
-          </li>
-          <li>
-            <div class="list-item">
-              <div class="list-header">Optimization as Inference</div>
-              <div class="list-link"><a href="#">Diffusion-as-Adaptive-Reasoning</a></div>
-            </div>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 <!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**
+
+Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Xiaohong Liu, Xihui Liu, Ruimao Zhang<sup>‡</sup>, Lei Bai<sup>‡</sup>
+
+Preprint, 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.16408) **|** [**Project Page**](https://iranqin.github.io/robofactory/)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ReSo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
+
+Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>
+
+Preprint, 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.02390) **|** [**Code**](https://github.com/hengzzzhou/ReSo)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics of Life Reviews 53</div><img src='images/AI researcer perspective_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**An AI researchers' perspective: At the crossroad of LLMs, agent-based modeling, and complex systems: Comment on "LLMs and generative agent-based models for complex systems research**
+
+Siyue Ren, Ziyue Gan, **Zhenfei Yin**, Jing Shao, Shuyue Hu
+
+Physics of Life Reviews 53, 215-217, 2025
+
+[**Paper**](https://pubmed.ncbi.nlm.nih.gov/40120400/)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VLIPP_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**
+
+Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu Jia<sup>‡</sup>
+
+Preprint, 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
+</div>
+</div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-W 2025</div><img src='images/masgpt_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**
+
+Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin**, Siheng Chen<sup>‡</sup>, Jing Shao<sup>‡</sup>
+
+[ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io/), 2025
+
+[**Paper**](https://arxiv.org/pdf/2503.03686)
+</div>
+</div>
 
 <!-- ------------------------------------------------------------- -->
 
@@ -267,6 +149,8 @@ Preprint, 2024
 [**Paper**](https://arxiv.org/pdf/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/oasis_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -504,14 +388,14 @@ Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
 
 Yuanhan Zhang<sup>*</sup>, Qinghong Sun<sup>*</sup>, Yichun Zhou<sup>*</sup>, Zexin He<sup>*</sup>, **Zhenfei Yin<sup>†</sup>**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao<sup>‡</sup>, Ziwei Liu
 
-Preprint, 2022
+International Journal of Computer Vision, 2022
 
 [**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
 </div>
@@ -552,7 +436,7 @@ Technical Report, 2021
 - *2024.07*, Workshop Organizer, ICML 2024 workshop on [Trustworthy Multi-modal Foundation Models and AI Agents (TiFA)](https://icml-tifa.github.io/)
 - *2024 Spring*, Guest Lecture, [ELEC5304](https://www.sydney.edu.au/units/ELEC5304): Intelligent Visual Signal Understanding, USYD
 - *2024 Spring*, Teaching Assistant, [COMP 5425](https://www.sydney.edu.au/units/COMP5425): Multimedia Retrieval, USYD
-- Peer Review and Program Committee, [ICLR](https://iclr.cc/), [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [AAAI](https://aaai.org/), [ECCV](https://eccv.ecva.net/), [CVPR](https://cvpr.thecvf.com/), and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
+- Peer Review and Program Committee, [ICLR](https://iclr.cc/), [NeurIPS](https://neurips.cc/), [ICML](https://icml.cc/), [ARR](https://aclrollingreview.org/), [AAAI](https://aaai.org/), [ICCV](https://iccv.thecvf.com/), [ECCV](https://eccv.ecva.net/), [CVPR](https://cvpr.thecvf.com/), [ACMMM](https://acmmm2025.org/), and [TPAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)
 
 <!-- #  Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
