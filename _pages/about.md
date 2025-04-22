@@ -23,7 +23,7 @@ Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working
 
 <span class='anchor' id='-news'></span>
 
-<a href="/scoreboard.html" style="
+<a href="/Scoreboard.html" style="
   display: inline-block;
   padding: 10px 20px;
   background-color: #007bff;
