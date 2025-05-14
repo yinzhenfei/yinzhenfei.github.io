@@ -387,9 +387,9 @@ Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing 
 
 Yuanhan Zhang<sup>*</sup>, Qinghong Sun<sup>*</sup>, Yichun Zhou<sup>*</sup>, Zexin He<sup>*</sup>, **Zhenfei Yin<sup>†</sup>**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao<sup>‡</sup>, Ziwei Liu
 
-International Journal of Computer Vision, 2022
+International Journal of Computer Vision 10.1007/s11263-025-02450-2
 
-[**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
+[**Paper**](https://trebuchet.public.springernature.app/get_content/f6c2cce9-bed1-45ab-a1c5-c8650505d84a?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250513&utm_content=10.1007/s11263-025-02450-2) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
 </div>
 </div>
 
