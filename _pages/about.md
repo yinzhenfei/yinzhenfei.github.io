@@ -113,13 +113,14 @@ Preprint, 2025
 </div>
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR-W 2025</div><img src='images/masgpt_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/masgpt_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**
 
 Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin**, Siheng Chen<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
+[Forty-Second International Conference on Machine Learning](https://icml.cc/), ICML 2025
 [ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io/), 2025
 
 [**Paper**](https://arxiv.org/pdf/2503.03686)
@@ -156,14 +157,14 @@ Ziyi Yang<sup>*</sup>, Zaibin Zhang<sup>*</sup>, Zirui Zheng, Yuxian Jiang, Ziyu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/worldsimbench_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/worldsimbench_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **WorldSimBench: Towards Video Generation Models as World Simulators**
 
 Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li, **Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>, Lei Bai<sup>‡</sup>, Wanli Ouyang, Ruimao Zhang<sup>‡</sup>
 
-Preprint, 2024
+[Forty-Second International Conference on Machine Learning](https://icml.cc/), ICML 2025
 
 [**Paper**](https://arxiv.org/pdf/2410.18072) **|** [**Project Page**](https://iranqin.github.io/WorldSimBench.github.io/)
 </div>
@@ -196,14 +197,14 @@ Preprint, 2024
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/spavl_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='/images/spavl_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**
 
 Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, **Zhenfei Yin**, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
-Preprint, 2024
+[The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), CVPR 2025
 
 [**Paper**](https://arxiv.org/pdf/2406.12030) **|** [**Code**](https://github.com/EchoseChen/SPA-VL-RLHF)
 </div>
