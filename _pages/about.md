@@ -62,15 +62,121 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**
+
+Sha Zhang, Suorong Yang, Tong Xie, Xiangyuan Xue, Zixuan Hu, Rui Li, Wenxi Qu, **Zhenfei Yin**, Tianfan Fu, Di Hu, Andres M Bran, Nian Ran, Bram Hoex, Wangmeng Zuo, Philippe Schwaller, Wanli Ouyang, Lei Bai, Yanyong Zhang, Lingyu Duan, Shixiang Tang<sup>‡</sup>, Dongzhan Zhou<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2506.19613)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**
+
+Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, Heng Zhou<sup>*</sup>, Yiran Qin<sup>‡</sup>, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2506.09049)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**
+
+Shengyuan Liu<sup>*</sup>, Boyun Zheng<sup>*</sup>, Wenting Chen<sup>*</sup>, Zhihao Peng, Zhenfei Yin, Jing Shao, Jiancong Hu, Yixuan Yuan<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2505.23601)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**
+
+Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou<sup>‡</sup>, Shixiang Tang<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2505.22634)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**
+
+Rui Ye<sup>*</sup>, Xiangrui Liu<sup>*</sup>, Qimin Wu, Xianghe Pang, Zhenfei Yin, Lei Bai, Siheng Chen<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2505.16997)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**
+
+Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, Jiaqi Su, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, Zhenfei Yin, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai<sup>‡</sup>, Siheng Chen<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2505.16988)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research**
+
+Renqi Chen<sup>*</sup>, Haoyang Su<sup>*</sup>, Shixiang Tang, Zhenfei Yin, Qi Wu, Hui Li, Ye Sun, Nanqing Dong<sup>‡</sup>, Wanli Ouyang, Philip Torr
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2505.12039)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/RoboFactory_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**
 
 Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Xiaohong Liu, Xihui Liu, Ruimao Zhang<sup>‡</sup>, Lei Bai<sup>‡</sup>
 
-Preprint, 2025
+[International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
 
 [**Paper**](https://arxiv.org/pdf/2503.16408) **|** [**Project Page**](https://iranqin.github.io/robofactory/)
 </div>
 </div>
+
 <!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ReSo_2000x1200_src.png' alt="sym" width="100%"></div></div>
@@ -101,14 +207,14 @@ Physics of Life Reviews 53, 215-217, 2025
 </div>
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VLIPP_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VLIPP_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**
 
 Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu Jia<sup>‡</sup>
 
-Preprint, 2025
+[International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
 
 [**Paper**](https://arxiv.org/pdf/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
 </div>
@@ -123,6 +229,7 @@ Preprint, 2025
 Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin**, Siheng Chen<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
 [Forty-Second International Conference on Machine Learning](https://icml.cc/), ICML 2025
+
 [ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io/), 2025
 
 [**Paper**](https://arxiv.org/pdf/2503.03686)
@@ -141,6 +248,21 @@ Rui Ye<sup>*</sup>, Xianghe Pang<sup>*</sup>, Jingyi Chai, Jiaao Chen, **Zhenfei
 Preprint, 2024
 
 [**Paper**](https://arxiv.org/pdf/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
+
+Zhuqiang Lu, **Zhenfei Yin<sup>‡</sup>**, Mengwei He, Zhihui Wang, Zicheng Liu, Zhiyong Wang, Kun Hu<sup>‡</sup>
+
+[International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
+
+[**Paper**](https://arxiv.org/pdf/2412.09919) **|** [**Code**](https://github.com/zhuqiangLu/B-VLLM)
 </div>
 </div>
 
@@ -172,14 +294,14 @@ Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/sciteam_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='/images/sciteam_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**
 
 Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>‡</sup>, Xinzhe Zheng, Jingzhe Li, **Zhenfei Yin**, Wanli Ouyang, Nanqing Dong<sup>‡</sup>
 
-Preprint, 2024
+[The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/), Main Conference, ACL 2025
 
 [**Paper**](https://arxiv.org/pdf/2410.09403) **|** [**Project Page**](https://open-sciencelab.github.io/Social_Science/)
 </div>
@@ -219,6 +341,8 @@ Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui 
 
 Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<sup>*</sup>, Sucheng Qian, Hao Shu Fang, **Zhenfei Yin<sup>†</sup>**, Wanli Ouyang, Jing Shao<sup>‡</sup>, Yu Qiao, Cewu Lu, Lu Sheng<sup>‡</sup>
 
+[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.iros25.org/), IROS 2025
+
 [NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
 
 [**Paper**](https://arxiv.org/pdf/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
@@ -238,12 +362,14 @@ Preprint, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/MineDreamer_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='/images/MineDreamer_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**
 
 Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, Ruimao Zhang<sup>‡</sup>, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+
+[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.iros25.org/), IROS 2025
 
 [NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
 
@@ -258,7 +384,7 @@ Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, R
 
 Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, **Zhenfei Yin**, Yu Qiao, Yong Liu<sup>‡</sup>, Jing Shao<sup>‡</sup>
 
-[The 62nd Annual Meeting of the Association for Computational Linguistics](https://2024.aclweb.org/), 2024
+[The 62nd Annual Meeting of the Association for Computational Linguistics](https://2024.aclweb.org/), Findings, ACL 2024
 
 [**Paper**](https://arxiv.org/pdf/2402.19465) **|** [**Code**](https://github.com/ChnQ/TracingLLM)
 </div>
