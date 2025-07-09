@@ -219,6 +219,7 @@ Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>â€¡</sup>**, Lei Bai<sup>â
 [**Paper**](https://arxiv.org/pdf/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
 </div>
 </div>
+
 <!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/masgpt_2000x1200_src.png' alt="sym" width="100%"></div></div>
@@ -334,7 +335,7 @@ Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**
