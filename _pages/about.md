@@ -94,7 +94,7 @@ Preprint 2025
 
 **A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**
 
-Shengyuan Liu<sup>*</sup>, Boyun Zheng<sup>*</sup>, Wenting Chen<sup>*</sup>, Zhihao Peng, Zhenfei Yin, Jing Shao, Jiancong Hu, Yixuan Yuan<sup>‡</sup>
+Shengyuan Liu<sup>*</sup>, Boyun Zheng<sup>*</sup>, Wenting Chen<sup>*</sup>, Zhihao Peng, **Zhenfei Yin**, Jing Shao, Jiancong Hu, Yixuan Yuan<sup>‡</sup>
 
 Preprint 2025
 
@@ -109,7 +109,7 @@ Preprint 2025
 
 **LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**
 
-Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang, Zhenfei Yin, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou<sup>‡</sup>, Shixiang Tang<sup>‡</sup>
+Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang, **Zhenfei Yin**, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou<sup>‡</sup>, Shixiang Tang<sup>‡</sup>
 
 Preprint 2025
 
@@ -124,7 +124,7 @@ Preprint 2025
 
 **X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**
 
-Rui Ye<sup>*</sup>, Xiangrui Liu<sup>*</sup>, Qimin Wu, Xianghe Pang, Zhenfei Yin, Lei Bai, Siheng Chen<sup>‡</sup>
+Rui Ye<sup>*</sup>, Xiangrui Liu<sup>*</sup>, Qimin Wu, Xianghe Pang, **Zhenfei Yin**, Lei Bai, Siheng Chen<sup>‡</sup>
 
 Preprint 2025
 
@@ -139,7 +139,7 @@ Preprint 2025
 
 **MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**
 
-Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, Jiaqi Su, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, Zhenfei Yin, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai<sup>‡</sup>, Siheng Chen<sup>‡</sup>
+Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, Jiaqi Su, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, **Zhenfei Yin**, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai<sup>‡</sup>, Siheng Chen<sup>‡</sup>
 
 Preprint 2025
 
@@ -154,7 +154,7 @@ Preprint 2025
 
 **AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research**
 
-Renqi Chen<sup>*</sup>, Haoyang Su<sup>*</sup>, Shixiang Tang, Zhenfei Yin, Qi Wu, Hui Li, Ye Sun, Nanqing Dong<sup>‡</sup>, Wanli Ouyang, Philip Torr
+Renqi Chen<sup>*</sup>, Haoyang Su<sup>*</sup>, Shixiang Tang, **Zhenfei Yin**, Qi Wu, Hui Li, Ye Sun, Nanqing Dong<sup>‡</sup>, Wanli Ouyang, Philip Torr
 
 Preprint 2025
 
