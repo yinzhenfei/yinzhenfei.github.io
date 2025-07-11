@@ -89,21 +89,6 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EndoscopyMLLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**
-
-Shengyuan Liu<sup>*</sup>, Boyun Zheng<sup>*</sup>, Wenting Chen<sup>*</sup>, Zhihao Peng, **Zhenfei Yin**, Jing Shao, Jiancong Hu, Yixuan Yuan<sup>‡</sup>
-
-Preprint 2025
-
-[**Paper**](https://arxiv.org/pdf/2505.23601)
-</div>
-</div>
-
-<!-- ------------------------------------------------------------- -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LabUtopia_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
