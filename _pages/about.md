@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working under the guidance of Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html). I'm also a visiting research fellow at Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/). Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Lei Bai](http://leibai.site/), and Dr. [Amanda Shao](https://amandajshao.github.io/). I also had a wonderful time as a visitor at the Chinese University of Hong Kong. Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
+Hi there! I'm currently a visiting research fellow and incoming postdoctoral researcher at the University of Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/). I’m also a Ph.D. candidate at the University of Sydney, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html).  Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Lei Bai](http://leibai.site/), and Dr. [Amanda Shao](https://amandajshao.github.io/). I also had a wonderful time as a visitor at the Chinese University of Hong Kong. Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -25,7 +25,7 @@ Hi there! I’m currently a Ph.D. candidate at the University of Sydney, working
 
 
 # News
-- I'm on the job market in 2025. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
+- I'm on the academic job market in 2026. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
 - *2025.10*: I'm organizing the ICCV 2025 workshop on [Reliable and Interactable World Models: Geometry, Physics, Interactivity and Real-World Generalization](https://riwm-2025.github.io/RIWM-2025/), stay tuned for updates!
 - *2025.10*: I'm organizing the ICCV 2025 workshop on [Multi-Modal Reasoning for Agentic Intelligence](https://agent-intelligence.github.io/agent-intelligence/), logistics are not fixed yet, welcome to reach out for submissions, keynotes, social events or fundings!
@@ -56,6 +56,51 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
 
 <!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BMMR_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset**
+
+Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Guo<sup>*</sup>, Yufang Liu, Xiaoran Fan, Jiaqi Liu, Jingchao Ding, Wangmeng Zuo, **Zhenfei Yin<sup>‡</sup>**, Lei Bai, Tao Ji, Tao Gui<sup>‡</sup>, Qi Zhang, Philip Torr, Xuanjing Huang
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/abs/2507.03483) **|** [**Project Page**](https://bmmr.pages.dev/) **|** [**Code**](https://github.com/WooooDyy/BMMR/)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MA4Collision_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems**
+
+Qibing Ren, Sitao Xie, Longxuan Wei, **Zhenfei Yin**, Junchi Yan, Lizhuang Ma, Jing Shao
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/abs/2507.14660) **|** [**Code**](https://github.com/renqibing/MultiAgent4Collusion/)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VeriGUI_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VeriGUI: Verifiable Long-Chain GUI Dataset**
+
+Shunyu Liu, Minghao Liu, Huichi Zhou, Zhenyu Cui, Yang Zhou, Yuhao Zhou, Wendong Fan, Ge Zhang, Jiajun Shi, Weihao Xuan, Jiaxing Huang, Shuang Luo, Fang Wu, Heli Qi, Qingcheng Zeng, Ziqi Ren, Jialiang Gao, Jindi Lv, Junjie Wang, Aosong Feng, Heng Zhou, Wangchunshu Zhou, **Zhenfei Yin**, Wenlong Zhang, Guohao Li, Wenhao Yu, Irene Li, Lei Ma, Lei Bai, Qunshu Lin, Mingli Song, Dacheng Tao
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/abs/2508.04026) **|** [**Code**](https://github.com/VeriGUI-Team/VeriGUI)
+</div>
+</div>
 
 <!-- ------------------------------------------------------------- -->
 
