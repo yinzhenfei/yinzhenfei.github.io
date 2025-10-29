@@ -61,14 +61,44 @@ Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BMMR_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SecureWebArena_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents**
+
+Zonghao Ying<sup>*</sup>, Yangguang Shao<sup>*</sup>, Jianle Gan, Gan Xu, Junjie Shen, Wenxin Zhang, Quanchen Zou, Junzheng Shi, **Zhenfei Yin**, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2510.10073)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CoMAS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards**
+
+Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Wanli Ouyang, Lei Bai<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2510.08529)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/BMMR_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset**
 
 Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Guo<sup>*</sup>, Yufang Liu, Xiaoran Fan, Jiaqi Liu, Jingchao Ding, Wangmeng Zuo, **Zhenfei Yin<sup>‡</sup>**, Lei Bai, Tao Ji, Tao Gui<sup>‡</sup>, Qi Zhang, Philip Torr, Xuanjing Huang
 
-Preprint 2025
+NeurIPS 2025
 
 [**Paper**](https://arxiv.org/abs/2507.03483) **|** [**Project Page**](https://bmmr.pages.dev/) **|** [**Code**](https://github.com/WooooDyy/BMMR/)
 </div>
