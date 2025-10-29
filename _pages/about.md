@@ -91,6 +91,21 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/A-MemGuard_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory**
+
+Qianshan Wei<sup>*</sup>, Tengchao Yang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Xinfeng Li<sup>‡</sup>, Lijun Li, Zhenfei Yin, Yi Zhan, Thorsten Holz, Zhiqiang Lin, XiaoFeng Wang
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2510.02373)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/BMMR_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
