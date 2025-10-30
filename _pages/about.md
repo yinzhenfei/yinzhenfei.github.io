@@ -28,9 +28,10 @@ Hi there! I'm currently a visiting research fellow and incoming postdoctoral res
 - I'm on the academic job market in 2026. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to help recommend some opportunities for internships or studies as well.
 - *2025.08*: I’m looking for motivated students to work with me on topics such as agentic AI, multi-agent systems, embodied agents, post-training of multi-modal large language models, and related areas. A strong background in these fields is a plus but not a must — curiosity, commitment, and a willingness to learn are what matter most. If you’re interested, please email me with your CV and a short note about your research interests.
+- 
 - *2025.08*: We are organizing a competition on multi-agent embodied intelligence. All relevant details, datasets, and the platform have been released — please visit the [official website](https://mars-eai.github.io/MARS-Challenge-Webpage/) for further information.
-- *2025.10*: I'm organizing the ICCV 2025 workshop on [Reliable and Interactable World Models: Geometry, Physics, Interactivity and Real-World Generalization](https://riwm-2025.github.io/RIWM-2025/), stay tuned for updates!
-- *2025.10*: I'm organizing the ICCV 2025 workshop on [Multi-Modal Reasoning for Agentic Intelligence](https://agent-intelligence.github.io/agent-intelligence/), logistics are not fixed yet, welcome to reach out for submissions, keynotes, social events, or funding!
+- *2025.10*: I organized the ICCV 2025 workshop on [Reliable and Interactable World Models: Geometry, Physics, Interactivity and Real-World Generalization](https://riwm-2025.github.io/RIWM-2025/).
+- *2025.10*: I organized the ICCV 2025 workshop on [Multi-Modal Reasoning for Agentic Intelligence](https://agent-intelligence.github.io/agent-intelligence/).
 - *2025.07*: I organized the ICML 2025 workshop on [Multi-Agent Systems in the Era of Foundation Models: Opportunities, Challenges, and Futures (MAS-2025)](https://mas-2025.github.io/MAS-2025/), which was one of the most well-attended events of the entire conference!
 - 2025.04: Thrilled to release [MARS (Multi-Agent Robotics System)](https://mars-eai.github.io/MARS-System/), an open-source framework focusing on embodied intelligence in multi-agent settings. MARS aims to support almost all approaches based on foundation model embodied agents, spatial intelligence, and compositional intelligence (generalization and constraints). You're welcome to follow and contribute!
 - 2025.04: Excited to announce [MASWorks/MASLab](https://github.com/MASWorks/MASLab) (a nod to MathWorks/Matlab!), an open-source framework dedicated to multi-agent systems based on LLM agents, providing all essential components for MAS research—datasets, benchmarks, codebases, and more. We’ll also be releasing a series of new research projects based on this platform. Join us in building the community!
@@ -96,11 +97,101 @@ Preprint 2025
 
 **A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory**
 
-Qianshan Wei<sup>*</sup>, Tengchao Yang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Xinfeng Li<sup>‡</sup>, Lijun Li, Zhenfei Yin, Yi Zhan, Thorsten Holz, Zhiqiang Lin, XiaoFeng Wang
+Qianshan Wei<sup>*</sup>, Tengchao Yang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Xinfeng Li<sup>‡</sup>, Lijun Li, **Zhenfei Yin**, Yi Zhan, Thorsten Holz, Zhiqiang Lin, XiaoFeng Wang
 
 Preprint 2025
 
 [**Paper**](https://arxiv.org/pdf/2510.02373)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LatentEvolve_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**
+
+Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, Zhenfei Yin, Lei Bai, Shuicheng Yan
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2509.24771)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ScalingRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning**
+
+Zelin Tan, Hejia Geng, Mulei Zhang, Xiaohang Yu, Guancheng Wan, Yifan Zhou, Qiang He, Xiangyuan Xue, Heng Zhou, Yutao Fan, Zhongzhi Li, Zaibin Zhang, Guibin Zhang, Chen Zhang<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**, Lei Bai
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2509.25300)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DLAMAS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts**
+
+Guancheng Wan<sup>*</sup>, Leixin Sun<sup>*</sup>, Longxu Dou, Zitong Shi, Fang Wu, Eric Hanchen Jiang, Wenke Huang, Guibin Zhang, Hejia Geng, Xiangru Tang, **Zhenfei Yin<sup>‡</sup>**, Yizhou Sun, Wei Wang
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2509.23188)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Eigen-1_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning**
+
+Xiangru Tang<sup>*</sup>, Wanghan Xu<sup>*</sup>, Yujie Wang<sup>*</sup>, Zijie Guo<sup>*</sup>, Daniel Shao, Jiapeng Chen, Cixuan Zhang, Ziyi Wang, Lixin Zhang, Guancheng Wan, Wenlong Zhang, Lei Bai, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Hanrui Wang, Di Jin
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2509.21193)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IRG_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Interleaving Reasoning for Better Text-to-Image Generation**
+
+Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao<sup>‡</sup>, Shixiang Tang, Yufan Shen, Qingyu Yin, Wenbo Hu, Xiaoman Wang, Yuntian Tang, Junbo Qiao, Yue Guo, Yao Hu, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Yu Cheng, Wanli Ouyang, Shaohui Lin<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2509.06945)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgenticRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**
+
+Guibin Zhang<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiaohang Yu<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai<sup>‡</sup>
+
+Preprint 2025
+
+[**Paper**](https://arxiv.org/pdf/2509.02547)
 </div>
 </div>
 
@@ -113,7 +204,7 @@ Preprint 2025
 
 Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Guo<sup>*</sup>, Yufang Liu, Xiaoran Fan, Jiaqi Liu, Jingchao Ding, Wangmeng Zuo, **Zhenfei Yin<sup>‡</sup>**, Lei Bai, Tao Ji, Tao Gui<sup>‡</sup>, Qi Zhang, Philip Torr, Xuanjing Huang
 
-NeurIPS 2025
+[The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
 
 [**Paper**](https://arxiv.org/abs/2507.03483) **|** [**Project Page**](https://bmmr.pages.dev/) **|** [**Code**](https://github.com/WooooDyy/BMMR/)
 </div>
@@ -141,7 +232,7 @@ Preprint 2025
 
 **VeriGUI: Verifiable Long-Chain GUI Dataset**
 
-Shunyu Liu, Minghao Liu, Huichi Zhou, Zhenyu Cui, Yang Zhou, Yuhao Zhou, Wendong Fan, Ge Zhang, Jiajun Shi, Weihao Xuan, Jiaxing Huang, Shuang Luo, Fang Wu, Heli Qi, Qingcheng Zeng, Ziqi Ren, Jialiang Gao, Jindi Lv, Junjie Wang, Aosong Feng, Heng Zhou, Wangchunshu Zhou, **Zhenfei Yin**, Wenlong Zhang, Guohao Li, Wenhao Yu, Irene Li, Lei Ma, Lei Bai, Qunshu Lin, Mingli Song, Dacheng Tao
+Shunyu Liu<sup>*</sup>, Minghao Liu<sup>*</sup>, Huichi Zhou, Zhenyu Cui, Yang Zhou, Yuhao Zhou, Wendong Fan, Ge Zhang, Jiajun Shi, Weihao Xuan, Jiaxing Huang, Shuang Luo, Fang Wu, Heli Qi, Qingcheng Zeng, Ziqi Ren, Jialiang Gao, Jindi Lv, Junjie Wang, Aosong Feng, Heng Zhou, Wangchunshu Zhou, **Zhenfei Yin**, Wenlong Zhang, Guohao Li, Wenhao Yu, Irene Li, Lei Ma, Lei Bai, Qunshu Lin, Mingli Song, Dacheng Tao
 
 Preprint 2025
 
@@ -166,14 +257,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VIKI-R_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/VIKI-R_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**
 
 Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, Heng Zhou<sup>*</sup>, Yiran Qin<sup>‡</sup>, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**
 
-Preprint 2025
+[The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
 
 [**Paper**](https://arxiv.org/pdf/2506.09049)
 </div>
@@ -181,14 +272,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LabUtopia_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/LabUtopia_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**
 
 Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang, **Zhenfei Yin**, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou<sup>‡</sup>, Shixiang Tang<sup>‡</sup>
 
-Preprint 2025
+[The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
 
 [**Paper**](https://arxiv.org/pdf/2505.22634)
 </div>
