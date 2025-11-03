@@ -116,7 +116,7 @@ Preprint 2025
 
 **LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**
 
-Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, Zhenfei Yin, Lei Bai, Shuicheng Yan
+Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, **Zhenfei Yin**, Lei Bai, Shuicheng Yan
 
 Preprint 2025
 
