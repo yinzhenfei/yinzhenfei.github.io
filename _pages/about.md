@@ -81,6 +81,21 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge**
+
+Heng Zhou<sup>*</sup>, Ao Yu<sup>*</sup>, Yuchen Fan<sup>*</sup>, Jianing Shi, Li Kang, Hejia Geng, Yongting Zhang, Yutao Fan, Yuhao Wu, Tiancheng He, Yiran Qin, Lei Bai<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2511.01409)
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SecureWebArena_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -164,6 +179,8 @@ Preprint 2025
 Guancheng Wan<sup>*</sup>, Leixin Sun<sup>*</sup>, Longxu Dou, Zitong Shi, Fang Wu, Eric Hanchen Jiang, Wenke Huang, Guibin Zhang, Hejia Geng, Xiangru Tang, **Zhenfei Yin<sup>‡</sup>**, Yizhou Sun, Wei Wang
 
 Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2509.23188)
 
 </div>
 </div>
