@@ -57,12 +57,27 @@ My research is driven by the ambition to develop AI agents capable of operating 
 <span class='anchor' id='-publications'></span>
 
 # Selected Publications 
-Topics: Multi-Modal Representation Learning / Multi-Agent System / Embodied AI
+Topics: Foundation Model Agents / Robotics / AI Scientists
 
 (*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
 
 
 <!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Memory in the Age of AI Agents**
+
+Yuyang Hu<sup>*</sup>, Shichun Liu<sup>*</sup>, Yanwei Yue<sup>*</sup>, Guibin Zhang<sup>*</sup>, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, Shihan Dou, Zhiheng Xi, Senjie Jin, Jiejun Tan, Yanbin Yin, Jiongnan Liu, Zeyu Zhang, Zhongxiang Sun, Yutao Zhu, Hao Sun, Boci Peng, Zhenrong Cheng, Xuanbo Fan, Jiaxin Guo, Xinlei Yu, Zhenhong Zhou, Zewen Hu, Jiahao Huo, Junhao Wang, Yuwei Niu, Yu Wang, **Zhenfei Yin**, Xiaobin Hu, Yue Liao, Qiankun Li, Kun Wang, Wangchunshu Zhou, Yixin Liu, Dawei Cheng, Qi Zhang, Tao Gui, Shirui Pan, Yan Zhang, Philip Torr, Zhicheng Dou, Ji-Rong Wen, Xuanjing Huang, Yu-Gang Jiang, Shuicheng Yan
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2512.13564)
+</div>
+</div>
 
 <!-- ------------------------------------------------------------- -->
 
@@ -75,7 +90,7 @@ Zonghao Ying<sup>*</sup>, Yangguang Shao<sup>*</sup>, Jianle Gan, Gan Xu, Junjie
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2510.10073)
+[**PDF**](https://arxiv.org/abs/2510.10073)
 </div>
 </div>
 
@@ -90,7 +105,7 @@ Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, *
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2510.08529)
+[**PDF**](https://arxiv.org/abs/2510.08529)
 </div>
 </div>
 
@@ -105,7 +120,7 @@ Qianshan Wei<sup>*</sup>, Tengchao Yang<sup>*</sup>, Yaochen Wang<sup>*</sup>, X
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2510.02373)
+[**PDF**](https://arxiv.org/abs/2510.02373)
 </div>
 </div>
 
@@ -120,7 +135,7 @@ Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, **Zhenfei Yin**, L
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2509.24771)
+[**PDF**](https://arxiv.org/abs/2509.24771)
 </div>
 </div>
 
@@ -135,7 +150,7 @@ Zelin Tan, Hejia Geng, Mulei Zhang, Xiaohang Yu, Guancheng Wan, Yifan Zhou, Qian
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2509.25300)
+[**PDF**](https://arxiv.org/abs/2509.25300)
 </div>
 </div>
 
@@ -150,7 +165,6 @@ Guancheng Wan<sup>*</sup>, Leixin Sun<sup>*</sup>, Longxu Dou, Zitong Shi, Fang 
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2509.23188)
 </div>
 </div>
 
@@ -165,7 +179,7 @@ Xiangru Tang<sup>*</sup>, Wanghan Xu<sup>*</sup>, Yujie Wang<sup>*</sup>, Zijie 
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2509.21193)
+[**PDF**](https://arxiv.org/abs/2509.21193)
 </div>
 </div>
 
@@ -180,7 +194,7 @@ Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao<sup>‡</sup>, Shixiang T
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2509.06945)
+[**PDF**](https://arxiv.org/abs/2509.06945)
 </div>
 </div>
 
@@ -195,7 +209,7 @@ Guibin Zhang<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiaohang Yu<sup>*</sup>, **Zhe
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2509.02547)
+[**PDF**](https://arxiv.org/abs/2509.02547)
 </div>
 </div>
 
@@ -210,7 +224,7 @@ Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Gu
 
 [The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
 
-[**Paper**](https://arxiv.org/abs/2507.03483) **|** [**Project Page**](https://bmmr.pages.dev/) **|** [**Code**](https://github.com/WooooDyy/BMMR/)
+[**PDF**](https://arxiv.org/abs/2507.03483) **|** [**Project Page**](https://bmmr.pages.dev/) **|** [**Code**](https://github.com/WooooDyy/BMMR/)
 </div>
 </div>
 
@@ -225,7 +239,7 @@ Qibing Ren, Sitao Xie, Longxuan Wei, **Zhenfei Yin**, Junchi Yan, Lizhuang Ma, J
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/abs/2507.14660) **|** [**Code**](https://github.com/renqibing/MultiAgent4Collusion/)
+[**PDF**](https://arxiv.org/abs/2507.14660) **|** [**Code**](https://github.com/renqibing/MultiAgent4Collusion/)
 </div>
 </div>
 
@@ -240,7 +254,7 @@ Shunyu Liu<sup>*</sup>, Minghao Liu<sup>*</sup>, Huichi Zhou, Zhenyu Cui, Yang Z
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/abs/2508.04026) **|** [**Code**](https://github.com/VeriGUI-Team/VeriGUI)
+[**PDF**](https://arxiv.org/abs/2508.04026) **|** [**Code**](https://github.com/VeriGUI-Team/VeriGUI)
 </div>
 </div>
 
@@ -255,7 +269,7 @@ Sha Zhang, Suorong Yang, Tong Xie, Xiangyuan Xue, Zixuan Hu, Rui Li, Wenxi Qu, *
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2506.19613)
+[**PDF**](https://arxiv.org/abs/2506.19613)
 </div>
 </div>
 
@@ -270,7 +284,7 @@ Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, Heng Zhou<sup>*</sup>, Yiran Qin<
 
 [The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
 
-[**Paper**](https://arxiv.org/pdf/2506.09049)
+[**PDF**](https://arxiv.org/abs/2506.09049)
 </div>
 </div>
 
@@ -285,7 +299,7 @@ Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang,
 
 [The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
 
-[**Paper**](https://arxiv.org/pdf/2505.22634)
+[**PDF**](https://arxiv.org/abs/2505.22634)
 </div>
 </div>
 
@@ -300,7 +314,7 @@ Rui Ye<sup>*</sup>, Xiangrui Liu<sup>*</sup>, Qimin Wu, Xianghe Pang, **Zhenfei 
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2505.16997)
+[**PDF**](https://arxiv.org/abs/2505.16997)
 </div>
 </div>
 
@@ -315,7 +329,7 @@ Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu,
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2505.16988)
+[**PDF**](https://arxiv.org/abs/2505.16988)
 </div>
 </div>
 
@@ -330,7 +344,7 @@ Renqi Chen<sup>*</sup>, Haoyang Su<sup>*</sup>, Shixiang Tang, **Zhenfei Yin**, 
 
 Preprint 2025
 
-[**Paper**](https://arxiv.org/pdf/2505.12039)
+[**PDF**](https://arxiv.org/abs/2505.12039)
 </div>
 </div>
 
@@ -345,7 +359,7 @@ Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei 
 
 [International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
 
-[**Paper**](https://arxiv.org/pdf/2503.16408) **|** [**Project Page**](https://iranqin.github.io/robofactory/)
+[**PDF**](https://arxiv.org/abs/2503.16408) **|** [**Project Page**](https://iranqin.github.io/robofactory/)
 </div>
 </div>
 
@@ -358,9 +372,9 @@ Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei 
 
 Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>
 
-Preprint, 2025
+[Empirical Methods in Natural Language Processing](https://2025.emnlp.org/), EMNLP 2025, Oral Presentation, SAC Highlight Award, Outstanding Paper Candidates(Top 1%)
 
-[**Paper**](https://arxiv.org/pdf/2503.02390) **|** [**Code**](https://github.com/hengzzzhou/ReSo)
+[**PDF**](https://arxiv.org/abs/2503.02390) **|** [**Code**](https://github.com/hengzzzhou/ReSo)
 </div>
 </div>
 <!-- ------------------------------------------------------------- -->
@@ -374,7 +388,7 @@ Siyue Ren, Ziyue Gan, **Zhenfei Yin**, Jing Shao, Shuyue Hu
 
 Physics of Life Reviews 53, 215-217, 2025
 
-[**Paper**](https://pubmed.ncbi.nlm.nih.gov/40120400/)
+[**PDF**](https://pubmed.ncbi.nlm.nih.gov/40120400/)
 </div>
 </div>
 <!-- ------------------------------------------------------------- -->
@@ -388,7 +402,7 @@ Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>�
 
 [International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
 
-[**Paper**](https://arxiv.org/pdf/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
+[**PDF**](https://arxiv.org/abs/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
 </div>
 </div>
 
@@ -405,7 +419,7 @@ Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin**, Siheng Chen<sup>‡</sup>,
 
 [ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io/), 2025
 
-[**Paper**](https://arxiv.org/pdf/2503.03686)
+[**PDF**](https://arxiv.org/abs/2503.03686)
 </div>
 </div>
 
@@ -420,7 +434,7 @@ Rui Ye<sup>*</sup>, Xianghe Pang<sup>*</sup>, Jingyi Chai, Jiaao Chen, **Zhenfei
 
 Preprint, 2024
 
-[**Paper**](https://arxiv.org/pdf/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
+[**PDF**](https://arxiv.org/abs/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
 </div>
 </div>
 
@@ -435,7 +449,7 @@ Zhuqiang Lu, **Zhenfei Yin<sup>‡</sup>**, Mengwei He, Zhihui Wang, Zicheng Liu
 
 [International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
 
-[**Paper**](https://arxiv.org/pdf/2412.09919) **|** [**Code**](https://github.com/zhuqiangLu/B-VLLM)
+[**PDF**](https://arxiv.org/abs/2412.09919) **|** [**Code**](https://github.com/zhuqiangLu/B-VLLM)
 </div>
 </div>
 
@@ -450,7 +464,7 @@ Ziyi Yang<sup>*</sup>, Zaibin Zhang<sup>*</sup>, Zirui Zheng, Yuxian Jiang, Ziyu
 
 [NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
 
-[**Paper**](https://arxiv.org/pdf/2411.11581) **|** [**Project Page**](https://oasis.camel-ai.org/) **|** [**Code**](https://github.com/camel-ai/oasis)
+[**PDF**](https://arxiv.org/abs/2411.11581) **|** [**Project Page**](https://oasis.camel-ai.org/) **|** [**Code**](https://github.com/camel-ai/oasis)
 </div>
 </div>
 
@@ -463,7 +477,7 @@ Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou
 
 [Forty-Second International Conference on Machine Learning](https://icml.cc/), ICML 2025
 
-[**Paper**](https://arxiv.org/pdf/2410.18072) **|** [**Project Page**](https://iranqin.github.io/WorldSimBench.github.io/)
+[**PDF**](https://arxiv.org/abs/2410.18072) **|** [**Project Page**](https://iranqin.github.io/WorldSimBench.github.io/)
 </div>
 </div>
 
@@ -476,7 +490,7 @@ Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>‡</sup>, Xin
 
 [The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/), Main Conference, ACL 2025
 
-[**Paper**](https://arxiv.org/pdf/2410.09403) **|** [**Project Page**](https://open-sciencelab.github.io/Social_Science/)
+[**PDF**](https://arxiv.org/abs/2410.09403) **|** [**Project Page**](https://open-sciencelab.github.io/Social_Science/)
 </div>
 </div>
 
@@ -489,7 +503,7 @@ Yisong Xiao, Aishan Liu, QianJia Cheng, **Zhenfei Yin**, Siyuan Liang, Jiapeng L
 
 Preprint, 2024
 
-[**Paper**](https://arxiv.org/abs/2407.00600)
+[**PDF**](https://arxiv.org/abs/2407.00600)
 </div>
 </div>
 
@@ -503,7 +517,7 @@ Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui 
 
 [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), CVPR 2025
 
-[**Paper**](https://arxiv.org/pdf/2406.12030) **|** [**Code**](https://github.com/EchoseChen/SPA-VL-RLHF)
+[**PDF**](https://arxiv.org/abs/2406.12030) **|** [**Code**](https://github.com/EchoseChen/SPA-VL-RLHF)
 </div>
 </div>
 
@@ -518,7 +532,7 @@ Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<
 
 [NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
 
-[**Paper**](https://arxiv.org/pdf/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
+[**PDF**](https://arxiv.org/abs/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
 </div>
 </div>
 
@@ -531,7 +545,7 @@ Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, Zaibi
 
 Preprint, 2024
 
-[**Paper**](https://arxiv.org/pdf/2403.17830) **|** [**Project Page**](https://openlamm.github.io/ch3ef/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2403.17830) **|** [**Project Page**](https://openlamm.github.io/ch3ef/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 </div>
 </div>
 
@@ -546,7 +560,7 @@ Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, R
 
 [NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
 
-[**Paper**](https://arxiv.org/pdf/2403.12037) **|** [**Project Page**](https://sites.google.com/view/minedreamer/main) **|** [**Code**](https://github.com/Zhoues/MineDreamer)
+[**PDF**](https://arxiv.org/abs/2403.12037) **|** [**Project Page**](https://sites.google.com/view/minedreamer/main) **|** [**Code**](https://github.com/Zhoues/MineDreamer)
 </div>
 </div>
 
@@ -559,7 +573,7 @@ Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, 
 
 [The 62nd Annual Meeting of the Association for Computational Linguistics](https://2024.aclweb.org/), Findings, ACL 2024
 
-[**Paper**](https://arxiv.org/pdf/2402.19465) **|** [**Code**](https://github.com/ChnQ/TracingLLM)
+[**PDF**](https://arxiv.org/abs/2402.19465) **|** [**Code**](https://github.com/ChnQ/TracingLLM)
 </div>
 </div>
 
@@ -572,7 +586,7 @@ Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jin
 
 Technical Report, 2024
 
-[**Paper**](https://arxiv.org/pdf/2401.15071)
+[**PDF**](https://arxiv.org/abs/2401.15071)
 </div>
 </div>
 
@@ -585,7 +599,7 @@ Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfe
 
 [The 18th European Conference on Computer Vision](https://eccv.ecva.net/Conferences/2024), ECCV 2024
 
-[**Paper**](https://arxiv.org/pdf/2312.08962) **|** [**Project Page**](https://depictqa.github.io/) **|** [**Code**](https://github.com/XPixelGroup/DepictQA)
+[**PDF**](https://arxiv.org/abs/2312.08962) **|** [**Project Page**](https://depictqa.github.io/) **|** [**Code**](https://github.com/XPixelGroup/DepictQA)
 </div>
 </div>
 
@@ -598,7 +612,7 @@ Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenf
 
 [The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024), CVPR 2024
 
-[**Paper**](https://arxiv.org/pdf/2312.07472) **|** [**Project Page**](https://iranqin.github.io/MP5.github.io/) **|** [**Code**](https://github.com/IranQin/MP5)
+[**PDF**](https://arxiv.org/abs/2312.07472) **|** [**Project Page**](https://iranqin.github.io/MP5.github.io/) **|** [**Code**](https://github.com/IranQin/MP5)
 </div>
 </div>
 
@@ -611,7 +625,7 @@ Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, **Zhe
 
 Technical Report, 2024
 
-[**Paper**](https://arxiv.org/abs/2311.02692) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2311.02692) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 </div>
 </div>
 
@@ -624,7 +638,7 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 
 [The Twelfth International Conference on Learning Representations](https://iclr.cc/Conferences/2024), ICLR 2024
 
-[**Paper**](https://openreview.net/pdf?id=rTDyN8yajn) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2311.02684) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 </div>
 </div>
 
@@ -637,7 +651,7 @@ Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfe
 
 [The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, NeurIPS 2023
 
-[**Paper**](https://proceedings.neurips.cc/paper_files/paper/2023/file/548a41b9cac6f50dccf7e63e9e1b1b9b-Paper-Datasets_and_Benchmarks.pdf) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> **|** [**Project Page**](https://openlamm.github.io/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> **|** [**Project Page**](https://openlamm.github.io/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
 <!-- - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. -->
 </div>
 </div>
@@ -651,7 +665,7 @@ Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huan
 
 [IEEE International Conference on Multimedia and Expo](https://2024.ieeeicme.org/), 2024
 
-[**Paper**](https://arxiv.org/pdf/2212.08974)
+[**PDF**](https://arxiv.org/abs/2212.08974)
 </div>
 </div>
 
@@ -664,7 +678,7 @@ Yuanhan Zhang, **Zhenfei Yin<sup>†</sup>**, Jing Shao<sup>‡</sup>, Ziwei Liu
 
 [European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
 
-[**Paper**](https://arxiv.org/pdf/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
+[**PDF**](https://arxiv.org/abs/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
 </div>
 </div>
 
@@ -677,7 +691,7 @@ Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing 
 
 [European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
 
-[**Paper**](https://arxiv.org/pdf/2203.08764)
+[**PDF**](https://arxiv.org/abs/2203.08764)
 </div>
 </div>
 
@@ -690,7 +704,7 @@ Yuanhan Zhang<sup>*</sup>, Qinghong Sun<sup>*</sup>, Yichun Zhou<sup>*</sup>, Ze
 
 International Journal of Computer Vision 10.1007/s11263-025-02450-2
 
-[**Paper**](https://trebuchet.public.springernature.app/get_content/f6c2cce9-bed1-45ab-a1c5-c8650505d84a?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250513&utm_content=10.1007/s11263-025-02450-2) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
+[**PDF**](https://arxiv.org/abs/2203.07845) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
 </div>
 </div>
 
@@ -703,7 +717,7 @@ Yujie Wang<sup>*</sup>, Junqin Huang<sup>*</sup>, Mengya Gao<sup>*</sup>, Yichao
 
 Technical Report, 2021
 
-[**Paper**](https://arxiv.org/abs/2111.12386)
+[**PDF**](https://arxiv.org/abs/2111.12386)
 </div>
 </div>
 
@@ -716,7 +730,7 @@ Jing Shao<sup>*</sup>, Siyu Chen<sup>*</sup>, Yangguang Li<sup>*</sup>, Kun Wang
 
 Technical Report, 2021
 
-[**Paper**](https://arxiv.org/pdf/2111.08687) **|** [**Code**](https://github.com/OpenGVLab)
+[**PDF**](https://arxiv.org/abs/2111.08687) **|** [**Code**](https://github.com/OpenGVLab)
 </div>
 </div>
 <!-- ------------------------------------------------------------- -->
