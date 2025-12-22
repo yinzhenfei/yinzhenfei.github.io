@@ -382,12 +382,12 @@ Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei 
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ReSo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/ReSo_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
 
-Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>
+Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, Li Kang, Yiran Qin, Zhiyong Wang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>
 
 [Empirical Methods in Natural Language Processing](https://2025.emnlp.org/), EMNLP 2025, Oral Presentation, SAC Highlight Award, Outstanding Paper Candidates(Top 1%)
 
