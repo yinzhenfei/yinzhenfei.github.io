@@ -25,7 +25,7 @@ Hi there! I'm currently a visiting research fellow and incoming postdoctoral res
 
 
 # News
-- I'm on the academic job market in 2026. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2501.pdf" target="_blank">Curriculum Vitae</a>
+- I'm on the academic job market in 2026. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2601.pdf" target="_blank">Curriculum Vitae</a>
 - To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to recommend some internship or study opportunities as well.
 - I’m looking for motivated students to work with me on topics such as agentic AI, multi-agent systems, embodied agents, post-training of multi-modal large language models, and related areas. A strong background in these fields is a plus, but not a must; curiosity, commitment, and a willingness to learn matter most. If you’re interested, please email me with your CV and a short note about your research interests.
 - *2025.10*: We are organizing the [SFE Challenge](https://prismax-team.github.io/sfe-competition-2025/), focusing on advancing the capabilities of foundation models as AI Scientist base models. The competition has just begun, and everyone is warmly invited to participate and contribute innovative ideas!
