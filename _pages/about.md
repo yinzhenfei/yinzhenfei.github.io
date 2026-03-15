@@ -52,7 +52,9 @@ Hi there! I'm currently a visiting research fellow and incoming postdoctoral res
 
 # Research Highlights
 
-My research is driven by the ambition to develop AI agents capable of operating in both physical and virtual environments. To address this challenge, my work focuses on leveraging generative AI and is centered around two key areas. The first is multi-modal foundation models, encompassing topics such as multi-modal representation learning, architecture design, and multi-sensory alignment. The second is the systematic agents, with an emphasis on practical applications, including but not limited to embodied agents, multi-agent systems, and large-scale simulations.
+My research aims to develop general-purpose AI agents capable of operating in both physical and virtual environments. My work primarily focuses on foundation model post-training, multi-agent systems, self-evolving agents, and embodied agents and robotics, with the goal of improving the autonomy, adaptability, and coordination capabilities of intelligent systems in complex environments.
+
+A central application of this research is the development of a General AI Scientist for scientific discovery across both natural sciences and social sciences. These systems leverage AI agents and embodied robotic agents to autonomously explore research problems, generate hypotheses, conduct simulations or experiments, and discover new knowledge. Through this framework, my research aims to uncover new scaling laws of agent-based intelligence and automated scientific discovery in large-scale interactive environments.
 
 <span class='anchor' id='-publications'></span>
 
