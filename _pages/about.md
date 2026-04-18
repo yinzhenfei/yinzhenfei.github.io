@@ -482,21 +482,6 @@ Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Gu
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MA4Collision_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems**
-
-Qibing Ren, Sitao Xie, Longxuan Wei, **Zhenfei Yin**, Junchi Yan, Lizhuang Ma, Jing Shao
-
-Preprint 2025
-
-[**PDF**](https://arxiv.org/abs/2507.14660) **|** [**Code**](https://github.com/renqibing/MultiAgent4Collusion/)
-</div>
-</div>
-
-<!-- ------------------------------------------------------------- -->
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VeriGUI_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -510,20 +495,6 @@ Preprint 2025
 </div>
 </div>
 
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/PositionSciLab_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**
-
-Sha Zhang, Suorong Yang, Tong Xie, Xiangyuan Xue, Zixuan Hu, Rui Li, Wenxi Qu, **Zhenfei Yin**, Tianfan Fu, Di Hu, Andres M Bran, Nian Ran, Bram Hoex, Wangmeng Zuo, Philippe Schwaller, Wanli Ouyang, Lei Bai, Yanyong Zhang, Lingyu Duan, Shixiang Tang<sup>‡</sup>, Dongzhan Zhou<sup>‡</sup>
-
-Preprint 2025
-
-[**PDF**](https://arxiv.org/abs/2506.19613)
-</div>
-</div>
 
 <!-- ------------------------------------------------------------- -->
 
@@ -627,20 +598,6 @@ Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, Li Kang, Yiran Qin
 [Empirical Methods in Natural Language Processing](https://2025.emnlp.org/), EMNLP 2025, Oral Presentation, SAC Highlight Award, Outstanding Paper Candidates(Top 1%)
 
 [**PDF**](https://arxiv.org/abs/2503.02390) **|** [**Code**](https://github.com/hengzzzhou/ReSo)
-</div>
-</div>
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Physics of Life Reviews 53</div><img src='images/AI researcer perspective_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**An AI researchers' perspective: At the crossroad of LLMs, agent-based modeling, and complex systems: Comment on "LLMs and generative agent-based models for complex systems research**
-
-Siyue Ren, Ziyue Gan, **Zhenfei Yin**, Jing Shao, Shuyue Hu
-
-Physics of Life Reviews 53, 215-217, 2025
-
-[**PDF**](https://pubmed.ncbi.nlm.nih.gov/40120400/)
 </div>
 </div>
 <!-- ------------------------------------------------------------- -->
@@ -957,19 +914,6 @@ Yuanhan Zhang<sup>*</sup>, Qinghong Sun<sup>*</sup>, Yichun Zhou<sup>*</sup>, Ze
 International Journal of Computer Vision 10.1007/s11263-025-02450-2
 
 [**PDF**](https://arxiv.org/abs/2203.07845) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/12ALL_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**One to Transfer All: A Universal Transfer Framework for Vision Foundation Model with Few Data**
-
-Yujie Wang<sup>*</sup>, Junqin Huang<sup>*</sup>, Mengya Gao<sup>*</sup>, Yichao Wu<sup>*</sup>, **Zhenfei Yin**, Ding Liang, Junjie Yan
-
-Technical Report, 2021
-
-[**PDF**](https://arxiv.org/abs/2111.12386)
 </div>
 </div>
 
