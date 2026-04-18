@@ -67,8 +67,237 @@ Topics: Foundation Model Agents / Robotics / AI Scientists
 
 (*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
 
+Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 
-<!-- Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications. -->
+<!-- ===================== 2026 Papers ===================== -->
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**
+
+Yujiong Shen, Yajie Yang, Zhiheng Xi, Binze Hu, Huayu Sha, Jiazheng Zhang, Qiyuan Peng, Junlin Shang, Jixuan Huang, Yutao Fan, Jingqi Tong, Shihan Dou, Ming Zhang, Lei Bai, **Zhenfei Yin<sup>‡</sup>**, Tao Gui, Xingjun Ma, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2602.12984)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Charting Empirical Laws for LLM Fine-Tuning in Scientific Multi-Discipline Learning**
+
+Lintao Wang, Zhuqiang Lu, Yilin Zhu, Kun Hu, **Zhenfei Yin<sup>‡</sup>**, Shixiang Tang, Zhiyong Wang, Wanli Ouyang, Xinzhu Ma
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2602.11215)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TodoEvolve: Learning to Architect Agent Planning Systems**
+
+Jiaxi Liu, Yanzuo Jiang, Guibin Zhang, Zihan Zhang, Heng Chang, **Zhenfei Yin<sup>‡</sup>**, Qibing Ren, Junchi Yan
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2602.07839)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning**
+
+Xinwu Ye, Yicheng Mao, Jia Zhang, Yimeng Liu, Li Hao, Fang Wu, Zhiwei Li, Yuxuan Liao, Zehong Wang, Zhiyuan Liu, **Zhenfei Yin<sup>‡</sup>**, Li Yuan, Philip Torr, Huan Sun, Xiangxiang Zeng, Mengdi Wang, Le Cong, Shenghua Gao, Xiangru Tang
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2602.07075)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Behavioral Consistency Validation for LLM Agents: An Analysis of Trading-Style Switching through Stock-Market Simulation**
+
+Zeping Li, Guancheng Wan, Keyang Chen, Yu Chen, Yiwen Zhao, Philip Torr, Guangnan Ye, **Zhenfei Yin<sup>‡</sup>**, Hongfeng Chai
+
+[Findings of the Association for Computational Linguistics](https://2026.aclweb.org/), ACL 2026
+
+[**PDF**](https://arxiv.org/abs/2602.07023)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Vision-deepresearch benchmark: Rethinking visual and textual search for multimodal large language models**
+
+Yu Zeng, Wenxuan Huang, Zhen Fang, Shuang Chen, Yufan Shen, Yishuo Cai, Xiaoman Wang, **Zhenfei Yin**, Lin Chen, Zehui Chen, Shiting Huang, Yiming Zhao, Xu Tang, Yao Hu, Philip Torr, Wanli Ouyang, Shaosheng Cao
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2602.02185)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+
+**Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**
+
+Zeping Li, Hongru Wang, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, **Zhenfei Yin<sup>‡</sup>**
+
+[The 64th Annual Meeting of the Association for Computational Linguistics](https://2026.aclweb.org/), Main Conference, ACL 2026
+
+[**PDF**](https://arxiv.org/abs/2602.02050)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents**
+
+Zehong Wang, Fang Wu, Hongru Wang, Xiangru Tang, Bolian Li, **Zhenfei Yin**, Yijun Ma, Yiyang Li, Weixiang Sun, Xiusi Chen, Yanfang Ye
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2601.22311)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Vision-deepresearch: Incentivizing deepresearch capability in multimodal large language models**
+
+Wenxuan Huang, Yu Zeng, Qiuchen Wang, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, **Zhenfei Yin**, Lin Chen, Zehui Chen, Xu Tang, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2601.22060)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance**
+
+Zhemeng Zhang, Jiahua Ma, Xincheng Yang, Xin Wen, Yuzhi Zhang, Boyan Li, Yiran Qin, Jin Liu, Can Zhao, Li Kang, Haoqin Hong, **Zhenfei Yin**, Philip Torr, Hao Su, Ruimao Zhang, Daolin Ma
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2601.20239)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**
+
+Li Kang, Heng Zhou, Xiufeng Song, Rui Li, Bruno NY Chen, Ziye Wang, Ximeng Meng, Stone Tao, Yiran Qin, Xiaohong Liu, Ruimao Zhang, Lei Bai, Yilun Du, Hao Su, Philip Torr, **Zhenfei Yin<sup>‡</sup>**
+
+Technical Report, 2026
+
+[**PDF**](https://arxiv.org/abs/2601.18733)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Think3D: Thinking with Space for Spatial Reasoning**
+
+Zaibin Zhang, Yuhan Wu, Lianjie Jia, Yifan Wang, Zhongbo Zhang, Yijiang Li, Binghao Ran, Fuxi Zhang, Zhuohan Sun, **Zhenfei Yin<sup>‡</sup>**, Lijun Wang, Huchuan Lu
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2601.13029)
+
+</div>
+</div>
+
+<!-- ===================== 2025 Papers ===================== -->
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Workshop</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**
+
+Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, **Zhenfei Yin**, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu
+
+[The First Workshop on Efficient Spatial Reasoning](https://sites.google.com/ucsd.edu/efficient-spatial-reasoning/home), ICLR 2026, Oral Presentation, Best Paper Award
+
+[**PDF**](https://arxiv.org/abs/2512.21220)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**From Word to World: Can Large Language Models be Implicit Text-based World Models?**
+
+Yixia Li, Hongru Wang, Jiahao Qiu, **Zhenfei Yin**, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, Guanhua Chen, Heng Ji, Mengdi Wang
+
+[The 64th Annual Meeting of the Association for Computational Linguistics](https://2026.aclweb.org/), Main Conference, ACL 2026
+
+[**PDF**](https://arxiv.org/abs/2512.18832)
+
+</div>
+</div>
 
 <!-- ------------------------------------------------------------- -->
 
@@ -102,14 +331,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SecureWebArena_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/SecureWebArena_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents**
 
 Zonghao Ying<sup>*</sup>, Yangguang Shao<sup>*</sup>, Jianle Gan, Gan Xu, Junjie Shen, Wenxin Zhang, Quanchen Zou, Junzheng Shi, **Zhenfei Yin**, Mingchuan Zhang, Aishan Liu, Xianglong Liu
 
-Preprint 2025
+[Findings of the Association for Computational Linguistics](https://2026.aclweb.org/), ACL 2026
 
 [**PDF**](https://arxiv.org/abs/2510.10073)
 </div>
@@ -117,14 +346,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CoMAS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/CoMAS_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards**
 
 Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Wanli Ouyang, Lei Bai<sup>‡</sup>
 
-Preprint 2025
+[The Fourteenth International Conference on Learning Representations](https://iclr.cc/Conferences/2026), ICLR 2026
 
 [**PDF**](https://arxiv.org/abs/2510.08529)
 </div>
@@ -162,14 +391,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ScalingRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ScalingRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning**
 
 Zelin Tan, Hejia Geng, Mulei Zhang, Xiaohang Yu, Guancheng Wan, Yifan Zhou, Qiang He, Xiangyuan Xue, Heng Zhou, Yutao Fan, Zhongzhi Li, Zaibin Zhang, Guibin Zhang, Chen Zhang<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**, Lei Bai
 
-Preprint 2025
+[The 64th Annual Meeting of the Association for Computational Linguistics](https://2026.aclweb.org/), Main Conference, ACL 2026, Oral Presentation
 
 [**PDF**](https://arxiv.org/abs/2509.25300)
 </div>
@@ -193,14 +422,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Eigen-1_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Eigen-1_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning**
+**Eigen-Agent: Adaptive Multi-Agent Scientific Reasoning with Monitor-Based RAG**
 
 Xiangru Tang<sup>*</sup>, Wanghan Xu<sup>*</sup>, Yujie Wang<sup>*</sup>, Zijie Guo<sup>*</sup>, Daniel Shao, Jiapeng Chen, Cixuan Zhang, Ziyi Wang, Lixin Zhang, Guancheng Wan, Wenlong Zhang, Lei Bai, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Hanrui Wang, Di Jin
 
-Preprint 2025
+[The Fourteenth International Conference on Learning Representations](https://iclr.cc/Conferences/2026), ICLR 2026
 
 [**PDF**](https://arxiv.org/abs/2509.21193)
 </div>
@@ -208,14 +437,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/IRG_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/IRG_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interleaving Reasoning for Better Text-to-Image Generation**
 
 Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao<sup>‡</sup>, Shixiang Tang, Yufan Shen, Qingyu Yin, Wenbo Hu, Xiaoman Wang, Yuntian Tang, Junbo Qiao, Yue Guo, Yao Hu, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Yu Cheng, Wanli Ouyang, Shaohui Lin<sup>‡</sup>
 
-Preprint 2025
+[The Fourteenth International Conference on Learning Representations](https://iclr.cc/Conferences/2026), ICLR 2026
 
 [**PDF**](https://arxiv.org/abs/2509.06945)
 </div>
@@ -223,14 +452,14 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AgenticRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/AgenticRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**
 
 Guibin Zhang<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiaohang Yu<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai<sup>‡</sup>
 
-Preprint 2025
+[Transactions on Machine Learning Research](https://jmlr.org/tmlr/), TMLR 2026
 
 [**PDF**](https://arxiv.org/abs/2509.02547)
 </div>
