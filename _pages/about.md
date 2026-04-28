@@ -648,7 +648,7 @@ Zhuqiang Lu, **Zhenfei Yin<sup>‡</sup>**, Mengwei He, Zhihui Wang, Zicheng Liu
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/oasis_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/OASIS_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OASIS: Open Agents Social Interaction Simulations on One Million Agents**
