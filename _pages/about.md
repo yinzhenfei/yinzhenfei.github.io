@@ -572,7 +572,7 @@ Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei 
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/ReSo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Reso_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
