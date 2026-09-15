@@ -25,9 +25,8 @@ Hi there! I'm currently a postdoctoral researcher at the University of Oxford, s
 
 
 # News
-- I'm on the academic job market in 2026. <a href="CV_Zhenfei%20(Jeremy)%20Yin_2601.pdf" target="_blank">Curriculum Vitae</a>
-- To junior students seeking advice on early academic careers: If you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’d be happy to recommend some internship or study opportunities as well.
-- I’m looking for motivated students to work with me on topics such as agentic AI, multi-agent systems, embodied agents, post-training of multi-modal large language models, and related areas. A strong background in these fields is a plus, but not a must; curiosity, commitment, and a willingness to learn matter most. If you’re interested, please email me with your CV and a short note about your research interests.
+- **Recruiting.** I am recruiting **PhD students, master's students, postdocs, and research interns (on-site or remote)** at the [Shanghai Innovation Institute](https://www.sii.edu.cn/) and at Oxford, working on agentic AI, embodied agents and robotics, and discovery intelligence. See [Join Us](#-join-us) for what the group works on and how to apply.
+- To junior students seeking advice on early academic careers: if you’d like to chat about your career, research ideas, or potential collaborations, feel free to email me to schedule a meeting. I’m also happy to recommend internship or study opportunities.
 - *2026.10*: I am organizing one COLM 2026 workshop: [The 2nd Workshop on Lifelong Agents: Learning, Aligning, Evolving](https://lifelongagent.github.io/).
 - *2026.06*: I am organizing one ICRA 2026 workshop: [Multi-Agent Robotic Systems: Real-World Collaboration and Interaction](https://mars-eai.github.io/ICRA-SCI-MARS-Webpage/), and five CVPR 2026 workshops: [2nd Workshop on Multi-Modal Reasoning for Agentic Intelligence (MMRAgI)](https://mmragi.github.io/mmragi/), [Multi-Agent Robotic Systems: Scaling with Compositional Intelligence](https://mars-eai.github.io/CVPR-SCI-MARS-Webpage), [ScaleBot: The First Workshop on Scalable Robot Learning Systems](https://scalebot-workshop.github.io/), [Agentic AI for Visual Media](https://agentic-visual-media.insait.ai/), and the [6th Workshop on Adversarial Machine Learning on Computer Vision: Safety of Vision-Language Agents](https://cvpr26-advml.github.io/).
 - *2026.04*: I am organizing two ICLR 2026 workshops: [Lifelong Agents: Learning, Aligning, Evolving](https://lifelongagent.github.io/) and the [First Workshop on Efficient Spatial Reasoning](https://sites.google.com/ucsd.edu/efficient-spatial-reasoning/home).
@@ -1511,6 +1510,27 @@ Technical Report 2021
 
 </div>
 </div>
+
+<span class='anchor' id='-join-us'></span>
+
+# Join Us
+
+I am recruiting **PhD students, master's students, postdoctoral researchers, and research interns (on-site or remote)**, based either at the Shanghai Innovation Institute or at Oxford. Remote supervision works too.
+
+**What the group works on.** We build AI systems that do not stop at answering questions, but act, adapt, and take part in discovery:
+
+- **Agentic AI and post-training** &mdash; reinforcement learning for agents, self-evolving memory and skills, multi-agent systems, long-horizon reliability.
+- **Embodied agents and robotics** &mdash; multi-arm and multi-robot collaboration, world models, spatial reasoning, simulation-to-reality transfer.
+- **Discovery intelligence** &mdash; AI scientists that read, plan, run real experiments and revise their own hypotheses, with the life sciences as the first proving ground.
+
+**What I offer.**
+
+- **Frontier problems.** You work on questions at the edge of what current models can do, not on incremental variants.
+- **Real mentorship.** We start from executing well-defined research and move towards defining your own problems and leading a direction.
+- **Systems and open source.** Our work ships as paper plus system plus community: MARS, LabUtopia, OASIS, MASLab, CAMEL and others total 60,000+ GitHub stars.
+- **A global network.** Long-running collaborations with groups at Oxford, Stanford, Princeton, UIUC, UCL, CUHK, Peking University and Fudan, plus industry ties through [PhAI Labs](https://phai-labs.com/en/). Strong students get support for international visits, internship referrals, and PhD or postdoc applications.
+
+**How to apply.** Email me at [jeremyyin@robots.ox.ac.uk](mailto:jeremyyin@robots.ox.ac.uk) with your CV and a short note on what you want to work on and why. A strong background helps but is not required; curiosity, persistence and the willingness to go deep matter more.
 
 <span class='anchor' id='-professional-service'></span>
 
