@@ -21,6 +21,37 @@ Hi there! I'm currently a postdoctoral researcher at the University of Oxford, s
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+<span class='anchor' id='-join-us'></span>
+
+# Join Us
+
+I am recruiting across three places at once, and the same people often move between them.
+
+- **Academic group &mdash; Shanghai Innovation Institute and Oxford.** PhD students, master's students, postdoctoral researchers, and research interns, on-site or remote.
+- **[PhAI Labs](https://phai-labs.com/en/) &mdash; research scientists, research engineers and interns.** We build discovery foundation models and the data and robotic infrastructure behind them. Full-time and internship roles, and research collaborations with academic groups.
+- **[AItonomy](https://aitonomy.org) &mdash; contributors.** A non-profit research community measuring how far AI can actually push the scientific frontier. Open to anyone who wants to build benchmarks and evaluation in the open, alongside a degree or a job.
+
+**What the group works on.** We build AI systems that do not stop at answering questions, but act, adapt, and take part in discovery:
+
+- **Agentic AI and post-training** &mdash; reinforcement learning for agents, self-evolving memory and skills, multi-agent systems, long-horizon reliability.
+- **Embodied agents and robotics** &mdash; multi-arm and multi-robot collaboration, world models, spatial reasoning, simulation-to-reality transfer.
+- **Discovery intelligence** &mdash; AI scientists that read, plan, run real experiments and revise their own hypotheses, with the life sciences as the first proving ground.
+
+**What I offer.**
+
+- **Frontier problems.** You work on questions at the edge of what current models can do, not on incremental variants.
+- **Real mentorship.** We start from executing well-defined research and move towards defining your own problems and leading a direction.
+- **Systems and open source.** Our work ships as paper plus system plus community: MARS, LabUtopia, OASIS, MASLab, CAMEL and others total 60,000+ GitHub stars.
+- **A global network.** Long-running collaborations with groups at Oxford, Stanford, Princeton, UIUC, UCL, CUHK, Peking University and Fudan, plus industry ties through [PhAI Labs](https://phai-labs.com/en/). Strong students get support for international visits, internship referrals, and PhD or postdoc applications.
+
+**How to apply.** Email me at [jeremyyin@robots.ox.ac.uk](mailto:jeremyyin@robots.ox.ac.uk) with your CV and a short note on what you want to work on and why, and say which of the three you have in mind. A strong background helps but is not required; curiosity, persistence and the willingness to go deep matter more.
+
+# Research Highlights & Profile
+
+Zhenfei (Jeremy) Yin is a postdoctoral researcher at the University of Oxford, supervised by Prof. Philip Torr, and an incoming Assistant Professor and independent principal investigator at the Shanghai Innovation Institute. He is the founder and president of PhAI Labs, building Science Intelligence for autonomous scientific discovery, and the founder and chairman of AItonomy, a non-profit research community measuring how AI and science advance each other. He received his Ph.D. from the University of Sydney. His research focuses on advancing the next generation of AI: systems that can not only understand and generate, but also act, adapt, and drive discovery in the real world. His work spans foundation model agents, multi-agent systems, self-evolving agents, embodied agents and robotics, and AI Scientist systems, with the goal of building general-purpose AI agents that can operate across both physical and virtual worlds and uncover new scaling laws for agent-based intelligence and automated scientific discovery.
+
+Dr. Yin has authored 100+ papers including preprints, with 60+ papers published at top AI conferences and journals, and his work has received 3,400+ citations. He has also contributed to open-source AI projects with 60,000+ GitHub stars in total. Across agentic AI, multi-agent systems, embodied intelligence, and AI scientists, he has built research and open-source efforts that help push AI beyond passive assistance toward execution, continual learning, and innovation. His representative efforts include open platforms and systems for multimodal foundation models, large-scale agent societies, multi-agent systems, and embodied intelligence. His work has also received broader recognition beyond academia, including coverage by Nature and The Washington Post.
+
 <span class='anchor' id='-news'></span>
 
 
@@ -53,12 +84,6 @@ Hi there! I'm currently a postdoctoral researcher at the University of Oxford, s
 - *2021.11*: Excited to release [Intern](https://github.com/OpenGVLab), a series of multi-modal foundation models focusing on visual representation learning.
 - *2020.07*: Achieved Rank 4 of 2265 in Meta's [DFDC](https://www.kaggle.com/competitions/deepfake-detection-challenge) competition, which focused on identifying videos with facial or voice manipulations. Our [solution](https://github.com/yinzhenfei/RobustForensics) is open-sourced.
 - *2018.05*: As a student coach, I led a team to the ACM-ICPC World Finals, [achieving 31st place](/Scoreboard.html).
-
-# Research Highlights & Profile
-
-Zhenfei (Jeremy) Yin is a postdoctoral researcher at the University of Oxford, supervised by Prof. Philip Torr, and an incoming Assistant Professor and independent principal investigator at the Shanghai Innovation Institute. He is the founder and president of PhAI Labs, building Science Intelligence for autonomous scientific discovery, and the founder and chairman of AItonomy, a non-profit research community measuring how AI and science advance each other. He received his Ph.D. from the University of Sydney. His research focuses on advancing the next generation of AI: systems that can not only understand and generate, but also act, adapt, and drive discovery in the real world. His work spans foundation model agents, multi-agent systems, self-evolving agents, embodied agents and robotics, and AI Scientist systems, with the goal of building general-purpose AI agents that can operate across both physical and virtual worlds and uncover new scaling laws for agent-based intelligence and automated scientific discovery.
-
-Dr. Yin has authored 100+ papers including preprints, with 60+ papers published at top AI conferences and journals, and his work has received 3,400+ citations. He has also contributed to open-source AI projects with 60,000+ GitHub stars in total. Across agentic AI, multi-agent systems, embodied intelligence, and AI scientists, he has built research and open-source efforts that help push AI beyond passive assistance toward execution, continual learning, and innovation. His representative efforts include open platforms and systems for multimodal foundation models, large-scale agent societies, multi-agent systems, and embodied intelligence. His work has also received broader recognition beyond academia, including coverage by Nature and The Washington Post.
 
 <span class='anchor' id='-publications'></span>
 
@@ -1510,27 +1535,6 @@ Technical Report 2021
 
 </div>
 </div>
-
-<span class='anchor' id='-join-us'></span>
-
-# Join Us
-
-I am recruiting **PhD students, master's students, postdoctoral researchers, and research interns (on-site or remote)**, based either at the Shanghai Innovation Institute or at Oxford. Remote supervision works too.
-
-**What the group works on.** We build AI systems that do not stop at answering questions, but act, adapt, and take part in discovery:
-
-- **Agentic AI and post-training** &mdash; reinforcement learning for agents, self-evolving memory and skills, multi-agent systems, long-horizon reliability.
-- **Embodied agents and robotics** &mdash; multi-arm and multi-robot collaboration, world models, spatial reasoning, simulation-to-reality transfer.
-- **Discovery intelligence** &mdash; AI scientists that read, plan, run real experiments and revise their own hypotheses, with the life sciences as the first proving ground.
-
-**What I offer.**
-
-- **Frontier problems.** You work on questions at the edge of what current models can do, not on incremental variants.
-- **Real mentorship.** We start from executing well-defined research and move towards defining your own problems and leading a direction.
-- **Systems and open source.** Our work ships as paper plus system plus community: MARS, LabUtopia, OASIS, MASLab, CAMEL and others total 60,000+ GitHub stars.
-- **A global network.** Long-running collaborations with groups at Oxford, Stanford, Princeton, UIUC, UCL, CUHK, Peking University and Fudan, plus industry ties through [PhAI Labs](https://phai-labs.com/en/). Strong students get support for international visits, internship referrals, and PhD or postdoc applications.
-
-**How to apply.** Email me at [jeremyyin@robots.ox.ac.uk](mailto:jeremyyin@robots.ox.ac.uk) with your CV and a short note on what you want to work on and why. A strong background helps but is not required; curiosity, persistence and the willingness to go deep matter more.
 
 <span class='anchor' id='-professional-service'></span>
 
