@@ -241,6 +241,22 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AIforProductivityintheAgeofA_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AI for Productivity in the Age of Agentic AI**
+
+Zhiheng Xi, Enyu Zhou, Xinyu Fang, Zhe Sun, Baodai Huang, Jiajun Sun, Bicheng Deng, Zhihao Zhang, Wenxiang Chen, Jiazheng Zhang, Shichun Liu, Xin Guo, Zhikai Lei, Junke Wang, Senjie Jin, Yang Nan, Yajie Yang, Rui Zheng, Hang Yan, Yuchen Tian, Mengyue Yang, Yinghui He, Fang Wu, Cheng Qian, Xuandong Zhao, Yingcheng Wu, Mingchen Zhuge, **Zhenfei Yin**, Ling Yang, Jun Wang, Kejun Ying, Philip Torr, Tao Gui, Zuxuan Wu, Xipeng Qiu, Yu-Gang Jiang, Qi Zhang, Xuanjing Huang
+
+Preprint 2026
+
+[**PDF**](https://doi.org/10.20944/preprints202608.1248.v1)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SciOrch_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -283,6 +299,38 @@ Yixuan Yang*, Sha Zhang*, Rui Li*, **Zhenfei Yin**, Xinzhu Ma, Yiran Qin, Lei Ba
 Preprint 2026
 
 [**PDF**](https://arxiv.org/abs/2606.01777)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MedGenesis_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MedGenesis: Toward a World Model for Autonomous Clinical and Translational Research**
+
+Hao Xiao*, Nan Jiang*, Tiancheng Zhang*, **Zhenfei Yin**, Tao Gui, Zhongyue Zhang, Ke Shao, Jiacheng Ge, Rongyuan Wei, Jiaomeng Pan, Jiaqiang Ma, Ling Yang, Zhe Zhao, Jian Zhou, Jia Fan, Yugang Jiang, Philip Torr<sup>†</sup>, Shuangjia Zheng<sup>†</sup>, Yingcheng Wu<sup>†</sup>, Qiang Gao<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://www.medrxiv.org/content/10.64898/2026.06.14.26355612v1)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GALILEO_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**GALILEO: Embodied AI Scientist for Autonomous Therapeutic Discovery in Dynamic Membrane Systems**
+
+Nan Jiang, Rongyuan Wei, Hao Xiao, **Zhenfei Yin**, Xi Wang, Taoyong Cui, Ke Shao, Jian Zhou, Jia Fan<sup>†</sup>, Philip Torr<sup>†</sup>, Yingcheng Wu<sup>†</sup>, Qiang Gao<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://www.biorxiv.org/content/10.64898/2026.06.10.731360v1)
 
 </div>
 </div>
@@ -465,7 +513,7 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SciMMFM_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ChartingEmpiricalLawsforLLMF_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Charting Empirical Laws for LLM Fine-Tuning in Scientific Multi-Discipline Learning**
@@ -529,7 +577,7 @@ International Conference on Machine Learning, ICML 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/TradingAgents_Behavior_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/BehavioralConsistencyValidat_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Behavioral Consistency Validation for LLM Agents: An Analysis of Trading-Style Switching through Stock-Market Simulation**
@@ -561,7 +609,7 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/Tool_Mem_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/RethinkingtheRoleofEntropyin_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**
@@ -577,7 +625,7 @@ Zeping Li, Hongru Wang<sup>†</sup>, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ReasonFailsPlan_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/WhyReasoningFailstoPlan_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents**
@@ -625,7 +673,7 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop</div><img src='images/MARS_Challenge_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop</div><img src='images/AdvancesandInnovationsintheM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**
@@ -673,7 +721,7 @@ International Conference on Learning Representations Workshop, ICLR-W 2026, Oral
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/WordWorld_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/FromWordtoWorld_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From Word to World: Can Large Language Models be Implicit Text-based World Models?**
@@ -689,7 +737,7 @@ Annual Meeting of the Association for Computational Linguistics, ACL 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Memory_Survey_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/MemoryintheAgeofAIAgents_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Memory in the Age of AI Agents**
@@ -785,7 +833,7 @@ International Conference on Learning Representations, ICLR 2026, pp. 32373-32394
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/A-MemGuard_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AMemGuard_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory**
@@ -801,7 +849,7 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ScalingRL_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/ScalingBehaviorsofLLMReinfor_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning**
@@ -865,7 +913,7 @@ Preprint 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Eigen-1_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Eigen1_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning**
@@ -881,7 +929,7 @@ International Conference on Learning Representations, ICLR 2026, pp. 20711-20751
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/IRG_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/InterleavingReasoningforBett_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Interleaving Reasoning for Better Text-to-Image Generation**
@@ -897,7 +945,7 @@ International Conference on Learning Representations, ICLR 2026, pp. 106153-1061
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/AgenticRL_Survey_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMLR</div><img src='images/TheLandscapeofAgenticReinfor_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**
@@ -913,7 +961,7 @@ Transactions on Machine Learning Research, TMLR 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VeriGUI_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VeriWeb_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking**
@@ -993,7 +1041,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B</div><img src='images/VIKI-R_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B</div><img src='images/VIKIR_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**
@@ -1041,7 +1089,7 @@ Neural Information Processing Systems, NeurIPS 2025, Datasets and Benchmarks Tra
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/X-MAS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/XMAS_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**
@@ -1089,7 +1137,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/PositionAISoS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AIDrivenAutomationCanBecomet_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research**
@@ -1137,7 +1185,7 @@ International Conference on Computer Vision, ICCV 2025, pp. 10075-10085
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/masgpt_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/MASGPT_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**
@@ -1153,7 +1201,7 @@ International Conference on Machine Learning, ICML 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Reso_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/ReSo_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
@@ -1169,7 +1217,7 @@ Conference on Empirical Methods in Natural Language Processing, EMNLP 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/B-VLLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/BVLLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
@@ -1185,7 +1233,7 @@ International Conference on Computer Vision, ICCV 2025, pp. 24549-24559
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AreWeThereYetRevealingtheRis_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review**
@@ -1201,7 +1249,7 @@ Preprint 2024
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='/images/OASIS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='images/OASIS_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OASIS: Open Agent Social Interaction Simulations with One Million Agents**
@@ -1217,7 +1265,7 @@ Neural Information Processing Systems Workshop on Open-World Agents, NeurIPS-W 2
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/worldsimbench_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/WorldSimBench_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **WorldSimBench: Towards Video Generation Models as World Simulators**
@@ -1233,7 +1281,7 @@ International Conference on Machine Learning, ICML 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='/images/sciteam_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/ManyHeadsAreBetterThanOne_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Many Heads Are Better Than One: Improved Scientific Idea Generation by a LLM-Based Multi-Agent System**
@@ -1249,7 +1297,7 @@ Annual Meeting of the Association for Computational Linguistics, ACL 2025, Main 
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/GenderBiaVLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/GenderBiasVL_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GenderBias-VL: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing**
@@ -1265,7 +1313,7 @@ International Journal of Computer Vision, Vol. 133, No. 12, pp. 8332-8355
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='/images/spavl_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/SPAVL_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**
@@ -1281,7 +1329,7 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/RH20TP_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**
@@ -1297,7 +1345,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/CH^3EF_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/AssessmentofMultimodalLargeL_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Assessment of Multimodal Large Language Models in Alignment with Human Values**
@@ -1313,7 +1361,7 @@ Preprint 2024
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='/images/MineDreamer_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='images/ChainofImaginationforReliabl_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Chain-of-Imagination for Reliable Instruction Following in Decision Making**
@@ -1329,7 +1377,7 @@ IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='/images/tracing360_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='images/TowardsTracingTrustworthines_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**
@@ -1345,7 +1393,7 @@ Findings of the Association for Computational Linguistics, ACL 2024, pp. 4864-48
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/308p_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/FromGPT4toGeminiandBeyond_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**
@@ -1361,7 +1409,7 @@ Technical Report 2024
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/DQA_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/DepictingBeyondScores_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-Modal Language Models**
@@ -1377,7 +1425,7 @@ European Conference on Computer Vision, ECCV 2024, pp. 259-276
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='/images/MP5_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='images/MP5_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **MP5: A Multi-Modal Open-Ended Embodied System in Minecraft via Active Perception**
@@ -1409,7 +1457,7 @@ Technical Report 2023
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='/images/Octavius_1092x720_src.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/Octavius_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE**
@@ -1425,7 +1473,7 @@ International Conference on Learning Representations, ICLR 2024
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='/images/LAMM_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='images/LAMM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**
@@ -1441,7 +1489,7 @@ Advances in Neural Information Processing Systems, NeurIPS 2023, Vol. 36, pp. 26
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='/images/pointclip_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='images/3DPointCloudPreTrainingwithK_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**
@@ -1457,7 +1505,7 @@ IEEE International Conference on Multimedia and Expo, ICME 2024, pp. 1-6
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/OmniBenchmark_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/BenchmarkingOmniVisionRepres_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Benchmarking Omni-Vision Representation through the Lens of Visual Realms**
@@ -1473,7 +1521,7 @@ European Conference on Computer Vision, ECCV 2022, pp. 594-611
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/xlearner_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/XLearner_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation**
@@ -1489,7 +1537,7 @@ European Conference on Computer Vision, ECCV 2022, pp. 509-528
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
@@ -1521,7 +1569,7 @@ Technical Report 2021
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **INTERN: A New Learning Paradigm Towards General Vision**
