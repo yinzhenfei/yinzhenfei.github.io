@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi there! I'm currently a postdoctoral researcher at the University of Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/). I did my Ph.D. at the University of Sydney, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html).  Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Lei Bai](http://leibai.site/), and Dr. [Amanda Shao](https://amandajshao.github.io/). I also had a wonderful time as a visitor at the Chinese University of Hong Kong. Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
+Hi there! I'm currently a postdoctoral researcher at the University of Oxford, supervised by Prof. [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/), and an incoming Assistant Professor and independent principal investigator at the [Shanghai Innovation Institute](https://www.sii.edu.cn/). I am also the founder and president of [PhAI Labs](https://phai-labs.com/en/), where we build Science Intelligence: discovery foundation models for autonomous scientific discovery, and the founder and chairman of [AItonomy](https://aitonomy.org), a non-profit research community measuring how AI and science advance each other. I did my Ph.D. at the University of Sydney, working with Prof. [Wanli Ouyang](https://wlouyang.github.io/) and Prof. [Zhiyong Wang](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html).  Previously, I was a rising star research fellow at the Shanghai AI Lab selected by Prof. [Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/tang-xiaoou-sean/), where I collaborated with outstanding researchers like Dr. [Lei Bai](http://leibai.site/), and Dr. [Amanda Shao](https://amandajshao.github.io/). I also had a wonderful time as a visitor at the Chinese University of Hong Kong. Before starting my Ph.D., I was part of SenseTime’s AGI group, working closely with Dr. [Junjie Yan](https://scholar.google.com/citations?user=rEYarG0AAAAJ&hl=zh-CN). I earned my bachelor’s degree from HUST, where I had the honor of being the [ACM-ICPC](https://icpc.global/) team captain, guided by Prof. [Kun He](https://scholar.google.com/citations?user=YTQnGJsAAAAJ&hl=en).
 
 <!-- My research interest includes multi-modal foundation models and embodied agents. I have published 10+ papers at the top international AI conferences and journals such as NeurIPS, ICLR, ECCV, and CVPR, with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -57,20 +57,372 @@ Hi there! I'm currently a postdoctoral researcher at the University of Oxford, s
 
 # Research Highlights & Profile
 
-Zhenfei (Jeremy) Yin is a postdoctoral researcher at the University of Oxford, supervised by Prof. Philip Torr, and a visiting researcher at Stanford and Princeton. He received his Ph.D. from the University of Sydney. His research focuses on advancing the next generation of AI: systems that can not only understand and generate, but also act, adapt, and drive discovery in the real world. His work spans foundation model agents, multi-agent systems, self-evolving agents, embodied agents and robotics, and AI Scientist systems, with the goal of building general-purpose AI agents that can operate across both physical and virtual worlds and uncover new scaling laws for agent-based intelligence and automated scientific discovery.
+Zhenfei (Jeremy) Yin is a postdoctoral researcher at the University of Oxford, supervised by Prof. Philip Torr, and an incoming Assistant Professor and independent principal investigator at the Shanghai Innovation Institute. He is the founder and president of PhAI Labs, building Science Intelligence for autonomous scientific discovery, and the founder and chairman of AItonomy, a non-profit research community measuring how AI and science advance each other. He received his Ph.D. from the University of Sydney. His research focuses on advancing the next generation of AI: systems that can not only understand and generate, but also act, adapt, and drive discovery in the real world. His work spans foundation model agents, multi-agent systems, self-evolving agents, embodied agents and robotics, and AI Scientist systems, with the goal of building general-purpose AI agents that can operate across both physical and virtual worlds and uncover new scaling laws for agent-based intelligence and automated scientific discovery.
 
-Dr. Yin has authored 90+ papers including preprints, with 50+ papers published at top AI conferences and journals, and his work has received 2,000+ citations. He has also contributed to open-source AI projects with 20,000+ GitHub stars in total. Across agentic AI, multi-agent systems, embodied intelligence, and AI scientists, he has built research and open-source efforts that help push AI beyond passive assistance toward execution, continual learning, and innovation. His representative efforts include open platforms and systems for multimodal foundation models, large-scale agent societies, multi-agent systems, and embodied intelligence. His work has also received broader recognition beyond academia, including coverage by Nature and The Washington Post.
+Dr. Yin has authored 100+ papers including preprints, with 60+ papers published at top AI conferences and journals, and his work has received 3,400+ citations. He has also contributed to open-source AI projects with 60,000+ GitHub stars in total. Across agentic AI, multi-agent systems, embodied intelligence, and AI scientists, he has built research and open-source efforts that help push AI beyond passive assistance toward execution, continual learning, and innovation. His representative efforts include open platforms and systems for multimodal foundation models, large-scale agent societies, multi-agent systems, and embodied intelligence. His work has also received broader recognition beyond academia, including coverage by Nature and The Washington Post.
 
 <span class='anchor' id='-publications'></span>
 
 # Selected Publications 
 Topics: Foundation Model Agents / Robotics / AI Scientists
 
-(*: indicates equal contribution; ‡: indicates corresponding; †: indicates project lead)
+(*: indicates equal contribution; †: indicates corresponding author; ‡: indicates equal advising)
 
 Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl) for the complete list of publications.
 
-<!-- ===================== 2026 Papers ===================== -->
+<!-- ===================== Papers ===================== -->
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2026</div><img src='images/MAVLA_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization**
+
+Zaibin Zhang*, Junlan Xiao*, Zhongbo Zhang*, Yifan Wang, Li Kang, Yiran Qin<sup>‡</sup>, Changxing Xia, Heng Zhou, Talas Fu, Enshen Zhou, Ruimao Zhang, **Zhenfei Yin<sup>‡</sup>**, Huchuan Lu, Lijun Wang<sup>†‡</sup>
+
+European Conference on Computer Vision, ECCV 2026
+
+[**PDF**](https://arxiv.org/abs/2608.25864)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/RecursiveExperientialWorking_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses**
+
+Zhaochen Yu, Yingcheng Wu, **Zhenfei Yin**, Kaiyuan Chen, Zhe Zhao, Mengdi Wang<sup>†</sup>, Shuicheng Yan<sup>†</sup>, Ling Yang<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.24876)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SelfSupervisedVisualOnPolicy_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Self-Supervised Visual On-Policy Distillation**
+
+Yijiang Li, Yijun Liang, Yunjie Tian, Bingyang Wang, Ke Zhang, **Zhenfei Yin**, Di Fu, Philip Torr, Nuno Vasconcelos
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.14144)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LatticeMind_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LatticeMind: A Conflict-Aware Memory Primitive for Multi-Agent Systems**
+
+Heng Zhou*, Lian Zhang*, Yutao Fan*, Tiancheng He, Siki Chen, Hejia Geng, Philip Torr, **Zhenfei Yin<sup>†</sup>**
+
+\emph{LatticeMind: A Conflict-Aware Memory Primitive for Multi-Agent Systems. Preprint
+
+[**PDF**](https://arxiv.org/abs/2608.08236)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TowardSkillNativeLLMs_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning**
+
+Yinghui He*<sup>†</sup>, Ling Yang*, Jiarui Liu, Yongjin Yang, Lechen Zhang, Yingcheng Wu, **Zhenfei Yin**, Mengdi Wang, Sanjeev Arora
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.05139)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/PASTBench_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents**
+
+Shuhan Xue*, Zixin Ding*, Yichen Shen*, Yinjie Wang, **Zhenfei Yin**, Yingcheng Wu, Yuxin Chen, Mengdi Wang<sup>†</sup>, Ling Yang<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.04003)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VideoDeepResearch_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent**
+
+Zhen Fang*, Yu Zeng*<sup>‡</sup>, Wenxuan Huang*<sup>†‡</sup>, Yiming Zhao*, Shiting Huang, Tianfei Ren, Qi Lu, Qingnan Ren, Qisheng Su, Lionel Z. Wang, Qingyu Yin, Shuang Chen, Zehui Chen, Lin Chen, **Zhenfei Yin**, Yao Hu, Shaohui Lin, Wanli Ouyang, Shaosheng Cao<sup>†</sup>, Feng Zhao<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.03979)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SparseWeightDecompositionfor_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Sparse Weight Decomposition for Efficient Circuit Extraction**
+
+Chuanhao Yan*, Xuhan Huang*, Yawen Duan, **Zhenfei Yin**, Hang Zhao, Bryan Dai<sup>†</sup>, Jie Fu<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.03913)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SKT_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation**
+
+Zelin Tan, Yiqun Zhang, Hao Li, Zhiyao Cui, Hejia Geng, Shao Zhang, Hangfan Zhang, Yang Chen, Xiaosong Wang, Lilong Wang, **Zhenfei Yin**, Shuyue Hu<sup>‡</sup>, Chen Zhang<sup>†</sup>, Lei Bai<sup>†‡</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2608.02287)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SciOrch_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks**
+
+Jingru Guo, Xiangyuan Xue, Lian Zhang, Wanghan Xu, Siki Chen, Philip Torr, Wanli Ouyang, Lei Bai<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**
+
+\emph{SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks. Preprint
+
+[**PDF**](https://arxiv.org/abs/2606.15872)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ResearchClawBench_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ResearchClawBench: A Benchmark for End-to-End Autonomous Scientific Research**
+
+Wanghan Xu*, Shuo Li*, Tianlin Ye, Qinglong Cao, Yixin Chen, Hengjian Gao, Yiheng Wang, Qi Li, Kun Li, Sheng Xu, Shengdu Chai, Fangchen Yu, Xiangyu Zhao, Zhangrui Zhao, Weijie Ma, Zijie Guo, Koutian Wu, Haoyu Zhou, Haoxiang Yin, Lixue Cheng, Chaofan Hu, Haoxuan Li, Lu Mi, Xuxuan Xie, Yifan Zhou, Ruizhe Chen, Zhiwang Zhou, Xingjian Guo, Yuhao Zhou, Xuming He, Shengyuan Xu, Xinyu Gu, Jiamin Wu, Mianxin Liu, Chunfeng Song, Fenghua Ling, Dongzhan Zhou, Shixiang Tang, Yuqiang Li, Mao Su, Peng Ye, Siqi Sun, Bin Wang, Xue Yang, **Zhenfei Yin<sup>‡</sup>**, Tianfan Fu, Guangtao Zhai, Wanli Ouyang, Bo Zhang, Lei Bai<sup>†</sup>, Wenlong Zhang<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2606.07591)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Trans2Occ_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Trans2Occ: Voxel Occupancy Estimation and Grasp for Transparent Objects from Simulation to Reality**
+
+Yixuan Yang*, Sha Zhang*, Rui Li*, **Zhenfei Yin**, Xinzhu Ma, Yiran Qin, Lei Bai, Xudong Xu, Shilin Shan, Wangmeng Zuo, Yanyong Zhang, Wanli Ouyang, Feng Zheng<sup>†</sup>, Shixiang Tang<sup>†</sup>, Dongzhan Zhou<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2606.01777)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DynamicMixtureofLatentMemori_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Dynamic Mixture of Latent Memories for Self-Evolving Agents**
+
+Dianzhi Yu, Vireo Zhang, Hongru Wang, Yanyu Chen, Minda Hu, Wanghan Xu, Siki Chen, Philip Torr, **Zhenfei Yin<sup>†</sup>**, Irwin King<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2605.21951)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ReCrit_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ReCrit: Transition-Aware Reinforcement Learning for Scientific Critic Reasoning**
+
+Wanghan Xu, Yuhao Zhou, Hengyuan Zhao, Shuo Li, Dianzhi Yu, **Zhenfei Yin**, Yaowen Hu, Fengli Xu, Wanli Ouyang, Wenlong Zhang<sup>†</sup>, Lei Bai<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2605.18799)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CreFlow_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CreFlow: Corrective Reflow for Sparse-Reward Embodied Video Diffusion RL**
+
+Zhenyang Ni, Yijiang Li, Ruochen Jiao, Simon Sinong Zhan, Sipeng Chen, **Zhenfei Yin**, Minshuo Chen, Philip Torr, Zhaoran Wang, Qi Zhu
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2605.14274)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/StrategicExploitationinLLMAg_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Strategic Exploitation in LLM Agent Markets: A Simulation Framework for E-Commerce Trust**
+
+Shijun Lei*, Quang Nguyen*, Swapneel S. Mehta, Zeping Li, Huichuan Fu, Xiaolong Zheng, Siki Chen, Yunji Liang<sup>†</sup>, Philip Torr, **Zhenfei Yin<sup>†</sup>**
+
+\emph{Strategic Exploitation in LLM Agent Markets: A Simulation Framework for E-Commerce Trust. Preprint
+
+[**PDF**](https://arxiv.org/abs/2605.10059)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/StraTA_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction**
+
+Xiangyuan Xue*, Yifan Zhou*, Zidong Wang, Shengji Tang, Philip Torr, Wanli Ouyang<sup>†</sup>, Lei Bai<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**
+
+\emph{StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction. Preprint
+
+[**PDF**](https://arxiv.org/abs/2605.06642)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/ComSim_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**ComSim: Building Scalable Real-World Robot Data Generation via Compositional Simulation**
+
+Yiran Qin*, Jiahua Ma*, Li Kang*, Wenzhan Li*, Yihang Jiao, Xin Wen, Xiufeng Song, Heng Zhou, Jiwen Yu, **Zhenfei Yin**, Xihui Liu, Philip Torr, Yilun Du, Ruimao Zhang<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2604.11386)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SelectthenSolve_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents**
+
+Heng Zhou, Zelin Tan, Zhemeng Zhang, Yutao Fan, Yibing Lin, Li Kang, Xiufeng Song, Rui Li, Songtao Huang, Ao Yu, Yuchen Fan, Yanxu Chen, Kaixin Xu, Xiaohong Liu, Yiran Qin, Philip Torr, Chen Zhang, **Zhenfei Yin<sup>†</sup>**
+
+\emph{Select-then-Solve: Paradigm Routing as Inference-Time Optimization for LLM Agents. Preprint
+
+[**PDF**](https://arxiv.org/abs/2604.06753)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/CoEnv_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CoEnv: Driving Embodied Multi-Agent Collaboration via Compositional Environment**
+
+Li Kang*, Yutao Fan*, Rui Li*, Heng Zhou*, Yiran Qin, Zhemeng Zhang, Songtao Huang, Xiufeng Song, Zaibin Zhang, Bruno N.Y. Chen, **Zhenfei Yin**, Dongzhan Zhou<sup>†</sup>, Wangmeng Zuo<sup>†</sup>, Lei Bai<sup>†</sup>
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2604.05484)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div><img src='images/PAPO_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PAPO: Stabilizing Rubric Integration Training via Decoupled Advantage Normalization**
+
+Zelin Tan, Zhouliang Yu, Bohan Lin, Zijie Geng, Hejia Geng, Yudong Zhang, Mulei Zhang, Yang Chen, Shuyue Hu, **Zhenfei Yin<sup>†</sup>**, Chen Zhang<sup>†</sup>, Lei Bai
+
+Conference on Empirical Methods in Natural Language Processing, EMNLP 2026, Main Conference
+
+[**PDF**](https://arxiv.org/abs/2603.26535)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/EgotoWorld_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning**
+
+Heng Zhou*, Li Kang*, Yiran Qin<sup>‡</sup>, Xiufeng Song, Ao Yu, Zilu Zhang, Haoming Song, Kaixin Xu, Yuchen Fan, Dongzhan Zhou, Xiaohong Liu, Ruimao Zhang, Philip Torr, Lei Bai<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**
+
+\emph{Ego to World: Collaborative Spatial Reasoning in Embodied Systems via Reinforcement Learning. Preprint
+
+[**PDF**](https://arxiv.org/abs/2603.14811)
+
+</div>
+</div>
 
 <!-- ------------------------------------------------------------- -->
 
@@ -79,7 +431,7 @@ Visit [Google Scholar](https://scholar.google.com/citations?user=ngPR1dIAAAAJ&hl
 
 **SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents**
 
-Yujiong Shen, Yajie Yang, Zhiheng Xi, Binze Hu, Huayu Sha, Jiazheng Zhang, Qiyuan Peng, Junlin Shang, Jixuan Huang, Yutao Fan, Jingqi Tong, Shihan Dou, Ming Zhang, Lei Bai, **Zhenfei Yin<sup>‡</sup>**, Tao Gui, Xingjun Ma, Qi Zhang, Xuanjing Huang, Yu-Gang Jiang
+Yujiong Shen*, Yajie Yang*, Zhiheng Xi*, Binze Hu, Huayu Sha, Jiazheng Zhang, Qiyuan Peng, Junlin Shang, Jixuan Huang, Yutao Fan, Jingqi Tong, Shihan Dou, Ming Zhang, Lei Bai, **Zhenfei Yin<sup>†</sup>**, Tao Gui<sup>†</sup>, Xingjun Ma, Qi Zhang, Xuanjing Huang<sup>†</sup>, Yu-Gang Jiang
 
 Preprint 2026
 
@@ -95,7 +447,7 @@ Preprint 2026
 
 **Charting Empirical Laws for LLM Fine-Tuning in Scientific Multi-Discipline Learning**
 
-Lintao Wang, Zhuqiang Lu, Yilin Zhu, Kun Hu, **Zhenfei Yin<sup>‡</sup>**, Shixiang Tang, Zhiyong Wang, Wanli Ouyang, Xinzhu Ma
+Lintao Wang*, Zhuqiang Lu*, Yilin Zhu*, Kun Hu, **Zhenfei Yin**, Shixiang Tang, Zhiyong Wang, Wanli Ouyang, Xinzhu Ma<sup>†</sup>
 
 Preprint 2026
 
@@ -111,7 +463,7 @@ Preprint 2026
 
 **TodoEvolve: Learning to Architect Agent Planning Systems**
 
-Jiaxi Liu, Yanzuo Jiang, Guibin Zhang, Zihan Zhang, Heng Chang, **Zhenfei Yin<sup>‡</sup>**, Qibing Ren, Junchi Yan
+Jiaxi Liu*, Yanzuo Jiang*, Guibin Zhang<sup>‡</sup>, Zihan Zhang, Heng Chang, **Zhenfei Yin<sup>†</sup>**, Qibing Ren<sup>†</sup>, Junchi Yan<sup>†</sup>
 
 Preprint 2026
 
@@ -122,14 +474,30 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TermiGen_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**TermiGen: High-Fidelity Environment and Robust Trajectory Synthesis for Terminal Agents**
+
+Kaijie Zhu<sup>†</sup>, Yuzhou Nie, Yijiang Li, Yiming Huang, Jialian Wu, Jiang Liu, Ximeng Sun, **Zhenfei Yin**, Lun Wang, Zicheng Liu, Emad Barsoum, William Yang Wang, Wenbo Guo
+
+Preprint 2026
+
+[**PDF**](https://arxiv.org/abs/2602.07274)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/LatentChem_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning**
 
-Xinwu Ye, Yicheng Mao, Jia Zhang, Yimeng Liu, Li Hao, Fang Wu, Zhiwei Li, Yuxuan Liao, Zehong Wang, Zhiyuan Liu, **Zhenfei Yin<sup>‡</sup>**, Li Yuan, Philip Torr, Huan Sun, Xiangxiang Zeng, Mengdi Wang, Le Cong, Shenghua Gao, Xiangru Tang
+Xinwu Ye*, Yicheng Mao*, Yuxuan Liao, Jia Zhang, Yimeng Liu, Li Hao, Fang Wu, Zhiwei Li, Zehong Wang, Zhiyuan Liu, **Zhenfei Yin<sup>‡</sup>**, Li Yuan, Philip Torr, Huan Sun, Xiangxiang Zeng, Mengdi Wang, Le Cong, Shenghua Gao, Xiangru Tang
 
-Preprint 2026
+International Conference on Machine Learning, ICML 2026
 
 [**PDF**](https://arxiv.org/abs/2602.07075)
 
@@ -143,9 +511,9 @@ Preprint 2026
 
 **Behavioral Consistency Validation for LLM Agents: An Analysis of Trading-Style Switching through Stock-Market Simulation**
 
-Zeping Li, Guancheng Wan, Keyang Chen, Yu Chen, Yiwen Zhao, Philip Torr, Guangnan Ye, **Zhenfei Yin<sup>‡</sup>**, Hongfeng Chai
+Zeping Li, Guancheng Wan, Keyang Chen, Yu Chen, Yiwen Zhao, Philip Torr, Guangnan Ye, **Zhenfei Yin<sup>†</sup>**, Hongfeng Chai<sup>†</sup>
 
-[Findings of the Association for Computational Linguistics](https://2026.aclweb.org/), ACL 2026
+Findings of the Association for Computational Linguistics, ACL 2026, pp. 40356-40370
 
 [**PDF**](https://arxiv.org/abs/2602.07023)
 
@@ -154,13 +522,12 @@ Zeping Li, Guancheng Wan, Keyang Chen, Yu Chen, Yiwen Zhao, Philip Torr, Guangna
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VisionDeepResearchBenchmark_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models**
 
-**Vision-deepresearch benchmark: Rethinking visual and textual search for multimodal large language models**
-
-Yu Zeng, Wenxuan Huang, Zhen Fang, Shuang Chen, Yufan Shen, Yishuo Cai, Xiaoman Wang, **Zhenfei Yin**, Lin Chen, Zehui Chen, Shiting Huang, Yiming Zhao, Xu Tang, Yao Hu, Philip Torr, Wanli Ouyang, Shaosheng Cao
+Yu Zeng*, Wenxuan Huang*<sup>†‡</sup>, Zhen Fang*, Shuang Chen, Yufan Shen, Yishuo Cai, Xiaoman Wang, **Zhenfei Yin<sup>‡</sup>**, Lin Chen, Zehui Chen, Shiting Huang, Yiming Zhao, Xu Tang, Yao Hu, Philip Torr, Wanli Ouyang, Shaosheng Cao<sup>†</sup>
 
 Preprint 2026
 
@@ -174,12 +541,11 @@ Preprint 2026
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/Tool_Mem_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
 **Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents**
 
-Zeping Li, Hongru Wang, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai, **Zhenfei Yin<sup>‡</sup>**
+Zeping Li, Hongru Wang<sup>†</sup>, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang Chen, Yixin Cao, Guangnan Ye, Hongfeng Chai<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**
 
-[The 64th Annual Meeting of the Association for Computational Linguistics](https://2026.aclweb.org/), Main Conference, ACL 2026
+\emph{Rethinking the Role of Entropy in Optimizing Tool-Use Behaviors for Large Language Model Agents. Annual Meeting of the Association for Computational Linguistics, ACL 2026, Main Conference
 
 [**PDF**](https://arxiv.org/abs/2602.02050)
 
@@ -193,7 +559,7 @@ Zeping Li, Hongru Wang, Yiwen Zhao, Guanhua Chen, Yixia Li, Keyang Chen, Yixin C
 
 **Why Reasoning Fails to Plan: A Planning-Centric Analysis of Long-Horizon Decision Making in LLM Agents**
 
-Zehong Wang, Fang Wu, Hongru Wang, Xiangru Tang, Bolian Li, **Zhenfei Yin**, Yijun Ma, Yiyang Li, Weixiang Sun, Xiusi Chen, Yanfang Ye
+Zehong Wang<sup>†</sup>, Fang Wu, Hongru Wang, Xiangru Tang, Bolian Li, **Zhenfei Yin**, Yijun Ma, Yiyang Li, Weixiang Sun, Xiusi Chen, Yanfang Ye<sup>†</sup>
 
 Preprint 2026
 
@@ -204,12 +570,12 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VisionDeepResearch_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Vision-deepresearch: Incentivizing deepresearch capability in multimodal large language models**
+**Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models**
 
-Wenxuan Huang, Yu Zeng, Qiuchen Wang, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, **Zhenfei Yin**, Lin Chen, Zehui Chen, Xu Tang, Yao Hu, Philip Torr, Feng Zhao, Wanli Ouyang
+Wenxuan Huang*<sup>‡</sup>, Yu Zeng*, Qiuchen Wang*, Zhen Fang, Shaosheng Cao<sup>†</sup>, Zheng Chu, Qingyu Yin, Shuang Chen, **Zhenfei Yin**, Lin Chen, Zehui Chen, Xu Tang, Yao Hu, Shaohui Lin, Philip Torr, Feng Zhao, Wanli Ouyang<sup>†</sup>
 
 Preprint 2026
 
@@ -220,12 +586,12 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/TouchGuide_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **TouchGuide: Inference-Time Steering of Visuomotor Policies via Touch Guidance**
 
-Zhemeng Zhang, Jiahua Ma, Xincheng Yang, Xin Wen, Yuzhi Zhang, Boyan Li, Yiran Qin, Jin Liu, Can Zhao, Li Kang, Haoqin Hong, **Zhenfei Yin**, Philip Torr, Hao Su, Ruimao Zhang, Daolin Ma
+Zhemeng Zhang*, Jiahua Ma*, Xincheng Yang*, Xin Wen*, Yuzhi Zhang*, Boyan Li*, Yiran Qin<sup>‡</sup>, Jin Liu, Can Zhao, Li Kang, Haoqin Hong, **Zhenfei Yin**, Philip Torr, Hao Su, Ruimao Zhang, Daolin Ma<sup>†</sup>
 
 Preprint 2026
 
@@ -236,14 +602,14 @@ Preprint 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/MARS_Challenge_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 Workshop</div><img src='images/MARS_Challenge_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Advances and Innovations in the Multi-Agent Robotic System (MARS) Challenge**
 
-Li Kang, Heng Zhou, Xiufeng Song, Rui Li, Bruno NY Chen, Ziye Wang, Ximeng Meng, Stone Tao, Yiran Qin, Xiaohong Liu, Ruimao Zhang, Lei Bai, Yilun Du, Hao Su, Philip Torr, **Zhenfei Yin<sup>‡</sup>**
+Li Kang*, Heng Zhou*, Xiufeng Song*, Rui Li*, Bruno N.Y. Chen, Ziye Wang, Ximeng Meng, Stone Tao, Yiran Qin, Xiaohong Liu, Ruimao Zhang, Lei Bai, Yilun Du, Hao Su, Philip Torr, **Zhenfei Yin<sup>†</sup>**, Ruihao Gong, Yejun Zeng, Fengjun Zhong, Shenghao Jin, Jinyang Guo, Xianglong Liu, Xiaojun Jia, Tianqi Shan, Wenqi Ren, Simeng Qin, Jialing Yang, Xiaoyu Ma, Tianxing Chen, Zixuan Li, Zijian Cai, Yan Qin, Yusen Qin, Qiangyu Chen, Kaixuan Wang, Zhaoming Han, Yao Mu, Ping Luo, Yuanqi Yao, Haoming Song, Jan-Nico Zaech, Fabien Despinoy, Danda Pani Paudel, Luc Van Gool
 
-Technical Report, 2026
+Neural Information Processing Systems Workshop on Space in Vision, Language, and Embodied AI, NeurIPS-W 2025
 
 [**PDF**](https://arxiv.org/abs/2601.18733)
 
@@ -252,12 +618,12 @@ Technical Report, 2026
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Think3D_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Think3D: Thinking with Space for Spatial Reasoning**
 
-Zaibin Zhang, Yuhan Wu, Lianjie Jia, Yifan Wang, Zhongbo Zhang, Yijiang Li, Binghao Ran, Fuxi Zhang, Zhuohan Sun, **Zhenfei Yin<sup>‡</sup>**, Lijun Wang, Huchuan Lu
+Zaibin Zhang*, Yuhan Wu*, Lianjie Jia*, Yifan Wang, Zhongbo Zhang, Yijiang Li<sup>‡</sup>, Binghao Ran, Fuxi Zhang, Zhuohan Sun, **Zhenfei Yin**, Lijun Wang, Huchuan Lu
 
 Preprint 2026
 
@@ -266,8 +632,6 @@ Preprint 2026
 </div>
 </div>
 
-<!-- ===================== 2025 Papers ===================== -->
-
 <!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026 Workshop</div><img src='images/RoboSafe_2000x1200_src.png' alt="sym" width="100%"></div></div>
@@ -275,9 +639,9 @@ Preprint 2026
 
 **RoboSafe: Safeguarding Embodied Agents via Executable Safety Logic**
 
-Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, **Zhenfei Yin**, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu, Xianglong Liu
+Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, **Zhenfei Yin**, Tianlin Li, Jian Yang, Yaodong Yang, Aishan Liu<sup>†</sup>, Xianglong Liu
 
-[The First Workshop on Efficient Spatial Reasoning](https://sites.google.com/ucsd.edu/efficient-spatial-reasoning/home), ICLR 2026, Oral Presentation, Best Paper Award
+International Conference on Learning Representations Workshop, ICLR-W 2026, Oral, Best Paper Award
 
 [**PDF**](https://arxiv.org/abs/2512.21220)
 
@@ -291,9 +655,9 @@ Le Wang, Zonghao Ying, Xiao Yang, Quanchen Zou, **Zhenfei Yin**, Tianlin Li, Jia
 
 **From Word to World: Can Large Language Models be Implicit Text-based World Models?**
 
-Yixia Li, Hongru Wang, Jiahao Qiu, **Zhenfei Yin**, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, Guanhua Chen, Heng Ji, Mengdi Wang
+Yixia Li, Hongru Wang<sup>†</sup>, Jiahao Qiu, **Zhenfei Yin**, Dongdong Zhang, Cheng Qian, Zeping Li, Pony Ma, Guanhua Chen<sup>†</sup>, Heng Ji
 
-[The 64th Annual Meeting of the Association for Computational Linguistics](https://2026.aclweb.org/), Main Conference, ACL 2026
+Annual Meeting of the Association for Computational Linguistics, ACL 2026
 
 [**PDF**](https://arxiv.org/abs/2512.18832)
 
@@ -307,41 +671,76 @@ Yixia Li, Hongru Wang, Jiahao Qiu, **Zhenfei Yin**, Dongdong Zhang, Cheng Qian, 
 
 **Memory in the Age of AI Agents**
 
-Yuyang Hu<sup>*</sup>, Shichun Liu<sup>*</sup>, Yanwei Yue<sup>*</sup>, Guibin Zhang<sup>*</sup>, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, Shihan Dou, Zhiheng Xi, Senjie Jin, Jiejun Tan, Yanbin Yin, Jiongnan Liu, Zeyu Zhang, Zhongxiang Sun, Yutao Zhu, Hao Sun, Boci Peng, Zhenrong Cheng, Xuanbo Fan, Jiaxin Guo, Xinlei Yu, Zhenhong Zhou, Zewen Hu, Jiahao Huo, Junhao Wang, Yuwei Niu, Yu Wang, **Zhenfei Yin**, Xiaobin Hu, Yue Liao, Qiankun Li, Kun Wang, Wangchunshu Zhou, Yixin Liu, Dawei Cheng, Qi Zhang, Tao Gui, Shirui Pan, Yan Zhang, Philip Torr, Zhicheng Dou, Ji-Rong Wen, Xuanjing Huang, Yu-Gang Jiang, Shuicheng Yan
+Yuyang Hu*, Shichun Liu*, Yanwei Yue*, Guibin Zhang*, Boyang Liu, Fangyi Zhu, Jiahang Lin, Honglin Guo, Shihan Dou, Zhiheng Xi, Senjie Jin, Jiejun Tan, Yanbin Yin, Jiongnan Liu, Zeyu Zhang, Zhongxiang Sun, Yutao Zhu, Hao Sun, Boci Peng, Zhenrong Cheng, Xuanbo Fan, Jiaxin Guo, Xinlei Yu, Zhenhong Zhou, Zewen Hu, Jiahao Huo, Junhao Wang, Yuwei Niu, Yu Wang, **Zhenfei Yin**, Xiaobin Hu, Yue Liao, Qiankun Li, Kun Wang, Wangchunshu Zhou, Yixin Liu, Dawei Cheng, Qi Zhang, Tao Gui, Shirui Pan, Yan Zhang, Philip Torr, Zhicheng Dou, Ji-Rong Wen, Xuanjing Huang, Yu-Gang Jiang, Shuicheng Yan
 
 Preprint 2025
 
 [**PDF**](https://arxiv.org/abs/2512.13564)
+
 </div>
 </div>
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/placeholder_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/Actial_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Actial: Activate Spatial Reasoning Ability of Multimodal Large Language Models**
+
+Xiaoyu Zhan*, Wenxuan Huang*<sup>‡</sup>, Hao Sun*, Xinyu Fu, Changfeng Ma, Shaosheng Cao<sup>†</sup>, Bohan Jia, Shaohui Lin, **Zhenfei Yin**, Lei Bai, Wanli Ouyang, Yuanqi Li, Jie Guo, Yanwen Guo<sup>†</sup>
+
+Neural Information Processing Systems, NeurIPS 2025
+
+[**PDF**](https://arxiv.org/abs/2511.01618)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LiveSearchBench_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge**
 
-Heng Zhou<sup>*</sup>, Ao Yu<sup>*</sup>, Yuchen Fan<sup>*</sup>, Jianing Shi, Li Kang, Hejia Geng, Yongting Zhang, Yutao Fan, Yuhao Wu, Tiancheng He, Yiran Qin, Lei Bai<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**
+Heng Zhou*, Ao Yu*, Yuchen Fan*, Jianing Shi, Li Kang, Hejia Geng, Yongting Zhang, Yutao Fan, Yuhao Wu, Tiancheng He, Yiran Qin, Lei Bai<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**
 
-Preprint 2025
+\emph{LiveSearchBench: An Automatically Constructed Benchmark for Retrieval and Reasoning over Dynamic Knowledge. Preprint
 
 [**PDF**](https://arxiv.org/abs/2511.01409)
+
 </div>
 </div>
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/SecureWebArena_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VFXMaster_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context Learning**
+
+Baolu Li*, Yiming Zhang*, Qinghe Wang*<sup>‡</sup>, Liqian Ma<sup>†</sup>, Xiaoyu Shi, Xintao Wang, Pengfei Wan, **Zhenfei Yin**, Yunzhi Zhuge, Huchuan Lu, Xu Jia<sup>†</sup>
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2510.25772)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026 Findings</div><img src='images/SecureWebArena_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SecureWebArena: A Holistic Security Evaluation Benchmark for LVLM-based Web Agents**
 
-Zonghao Ying<sup>*</sup>, Yangguang Shao<sup>*</sup>, Jianle Gan, Gan Xu, Junjie Shen, Wenxin Zhang, Quanchen Zou, Junzheng Shi, **Zhenfei Yin**, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+Zonghao Ying*, Yangguang Shao*, Jianle Gan, Gan Xu, Wenxin Zhang, Quanchen Zou, Junzheng Shi, **Zhenfei Yin**, Mingchuan Zhang, Aishan Liu<sup>†</sup>, Xianglong Liu
 
-[Findings of the Association for Computational Linguistics](https://2026.aclweb.org/), ACL 2026
+Findings of the Association for Computational Linguistics, ACL 2026, pp. 11986-11998
 
 [**PDF**](https://arxiv.org/abs/2510.10073)
+
 </div>
 </div>
 
@@ -352,11 +751,12 @@ Zonghao Ying<sup>*</sup>, Yangguang Shao<sup>*</sup>, Jianle Gan, Gan Xu, Junjie
 
 **CoMAS: Co-Evolving Multi-Agent Systems via Interaction Rewards**
 
-Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Wanli Ouyang, Lei Bai<sup>‡</sup>
+Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, **Zhenfei Yin<sup>†</sup>**, Philip Torr, Wanli Ouyang<sup>†</sup>, Lei Bai<sup>†</sup>
 
-[The Fourteenth International Conference on Learning Representations](https://iclr.cc/Conferences/2026), ICLR 2026
+International Conference on Learning Representations, ICLR 2026, pp. 32373-32394
 
 [**PDF**](https://arxiv.org/abs/2510.08529)
+
 </div>
 </div>
 
@@ -367,26 +767,12 @@ Xiangyuan Xue, Yifan Zhou, Guibin Zhang, Zaibin Zhang, Yijiang Li, Chen Zhang, *
 
 **A-MemGuard: A Proactive Defense Framework for LLM-Based Agent Memory**
 
-Qianshan Wei<sup>*</sup>, Tengchao Yang<sup>*</sup>, Yaochen Wang<sup>*</sup>, Xinfeng Li<sup>‡</sup>, Lijun Li, **Zhenfei Yin**, Yi Zhan, Thorsten Holz, Zhiqiang Lin, XiaoFeng Wang
+Qianshan Wei*, Tengchao Yang*, Yaochen Wang*, Xinfeng Li<sup>†</sup>, Lijun Li, **Zhenfei Yin<sup>‡</sup>**, Yi Zhan, Thorsten Holz, Zhiqiang Lin, XiaoFeng Wang
 
 Preprint 2025
 
 [**PDF**](https://arxiv.org/abs/2510.02373)
-</div>
-</div>
 
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LatentEvolve_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**
-
-Guibin Zhang, Fanci Meng, Guancheng Wan, Zherui Li, Kun Wang, **Zhenfei Yin**, Lei Bai, Shuicheng Yan
-
-Preprint 2025
-
-[**PDF**](https://arxiv.org/abs/2509.24771)
 </div>
 </div>
 
@@ -397,11 +783,60 @@ Preprint 2025
 
 **Scaling Behaviors of LLM Reinforcement Learning Post-Training: An Empirical Study in Mathematical Reasoning**
 
-Zelin Tan, Hejia Geng, Mulei Zhang, Xiaohang Yu, Guancheng Wan, Yifan Zhou, Qiang He, Xiangyuan Xue, Heng Zhou, Yutao Fan, Zhongzhi Li, Zaibin Zhang, Guibin Zhang, Chen Zhang<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**, Lei Bai
+Zelin Tan, Hejia Geng, Xiaohang Yu, Mulei Zhang, Guancheng Wan, Yifan Zhou, Qiang He, Xiangyuan Xue, Heng Zhou, Yutao Fan, Zhongzhi Li, Zaibin Zhang, Guibin Zhang, Chen Zhang<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**, Philip Torr, Lei Bai
 
-[The 64th Annual Meeting of the Association for Computational Linguistics](https://2026.aclweb.org/), Main Conference, ACL 2026, Oral Presentation
+Annual Meeting of the Association for Computational Linguistics, ACL 2026, Main Conference, Oral
 
 [**PDF**](https://arxiv.org/abs/2509.25300)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/LatentEvolve_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LatentEvolve: Self-Evolving Test-Time Scaling in Latent Space**
+
+Guibin Zhang*, Fanci Meng*, Guancheng Wan, Zherui Li, Kun Wang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai, Shuicheng Yan
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2509.24771)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/DiagnoseLocalizeAlign_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Diagnose, Localize, Align: A Full-Stack Framework for Reliable LLM Multi-Agent Systems under Instruction Conflicts**
+
+Guancheng Wan*, Leixin Sun*, Longxu Dou, Zitong Shi, Fang Wu, Eric Hanchen Jiang, Wenke Huang, Guibin Zhang, Hejia Geng, Xiangru Tang, **Zhenfei Yin<sup>‡</sup>**, Yizhou Sun, Wei Wang
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2509.23188)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/SciReasoner_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines**
+
+Yizhou Wang, Chen Tang, Han Deng, Jiabei Xiao, Jiaqi Liu, Jianyu Wu, Jun Yao, Pengze Li, Encheng Su, Lintao Wang, Guohang Zhuang, Yuchen Ren, Ben Fei, Ming Hu, Xin Chen, Dongzhan Zhou, Junjun He, Xiangyu Yue, **Zhenfei Yin**, Jiamin Wu, Qihao Zheng, Yuhao Zhou, Huihui Xu, Chenglong Ma, Yan Lu, Wenlong Zhang, Chunfeng Song, Philip Torr, Shixiang Tang<sup>†</sup>, Xinzhu Ma<sup>†</sup>, Wanli Ouyang, Lei Bai
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2509.21320)
+
 </div>
 </div>
 
@@ -410,13 +845,14 @@ Zelin Tan, Hejia Geng, Mulei Zhang, Xiaohang Yu, Guancheng Wan, Yifan Zhou, Qian
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2026</div><img src='images/Eigen-1_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Eigen-Agent: Adaptive Multi-Agent Scientific Reasoning with Monitor-Based RAG**
+**Eigen-1: Adaptive Multi-Agent Refinement with Monitor-Based RAG for Scientific Reasoning**
 
-Xiangru Tang<sup>*</sup>, Wanghan Xu<sup>*</sup>, Yujie Wang<sup>*</sup>, Zijie Guo<sup>*</sup>, Daniel Shao, Jiapeng Chen, Cixuan Zhang, Ziyi Wang, Lixin Zhang, Guancheng Wan, Wenlong Zhang, Lei Bai, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Hanrui Wang, Di Jin
+Xiangru Tang*, Wanghan Xu*, Yujie Wang*, Zijie Guo*, Daniel Shao, Jiapeng Chen, Cixuan Zhang, Ziyi Wang, Lixin Zhang, Guancheng Wan, Wenlong Zhang, Lei Bai, **Zhenfei Yin<sup>†</sup>**, Philip Torr, Hanrui Wang, Di Jin
 
-[The Fourteenth International Conference on Learning Representations](https://iclr.cc/Conferences/2026), ICLR 2026
+International Conference on Learning Representations, ICLR 2026, pp. 20711-20751
 
 [**PDF**](https://arxiv.org/abs/2509.21193)
+
 </div>
 </div>
 
@@ -427,11 +863,12 @@ Xiangru Tang<sup>*</sup>, Wanghan Xu<sup>*</sup>, Yujie Wang<sup>*</sup>, Zijie 
 
 **Interleaving Reasoning for Better Text-to-Image Generation**
 
-Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao<sup>‡</sup>, Shixiang Tang, Yufan Shen, Qingyu Yin, Wenbo Hu, Xiaoman Wang, Yuntian Tang, Junbo Qiao, Yue Guo, Yao Hu, **Zhenfei Yin<sup>‡</sup>**, Philip Torr, Yu Cheng, Wanli Ouyang, Shaohui Lin<sup>‡</sup>
+Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao<sup>†</sup>, Shixiang Tang, Yufan Shen, Qingyu Yin, Wenbo Hu, Xiaoman Wang, Yuntian Tang, Junbo Qiao, Yue Guo, Yao Hu, **Zhenfei Yin<sup>†</sup>**, Philip Torr, Yu Cheng, Wanli Ouyang, Shaohui Lin<sup>†</sup>
 
-[The Fourteenth International Conference on Learning Representations](https://iclr.cc/Conferences/2026), ICLR 2026
+International Conference on Learning Representations, ICLR 2026, pp. 106153-106182
 
 [**PDF**](https://arxiv.org/abs/2509.06945)
+
 </div>
 </div>
 
@@ -442,26 +879,12 @@ Wenxuan Huang, Shuang Chen, Zheyong Xie, Shaosheng Cao<sup>‡</sup>, Shixiang T
 
 **The Landscape of Agentic Reinforcement Learning for LLMs: A Survey**
 
-Guibin Zhang<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiaohang Yu<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Michael Littman, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai<sup>‡</sup>
+Guibin Zhang*, Hejia Geng*, Xiaohang Yu*, **Zhenfei Yin<sup>†</sup>**, Zaibin Zhang, Zelin Tan, Heng Zhou, Zhongzhi Li, Xiangyuan Xue, Yijiang Li, Yifan Zhou, Yang Chen, Chen Zhang, Yutao Fan, Zihu Wang, Songtao Huang, Francisco Piedrahita-Velez, Yue Liao, Hongru Wang, Mengyue Yang, Heng Ji, Jun Wang, Shuicheng Yan, Philip Torr, Lei Bai<sup>†</sup>
 
-[Transactions on Machine Learning Research](https://jmlr.org/tmlr/), TMLR 2026
+Transactions on Machine Learning Research, TMLR 2026
 
 [**PDF**](https://arxiv.org/abs/2509.02547)
-</div>
-</div>
 
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/BMMR_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset**
-
-Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Guo<sup>*</sup>, Yufang Liu, Xiaoran Fan, Jiaqi Liu, Jingchao Ding, Wangmeng Zuo, **Zhenfei Yin<sup>‡</sup>**, Lei Bai, Tao Ji, Tao Gui<sup>‡</sup>, Qi Zhang, Philip Torr, Xuanjing Huang
-
-[The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
-
-[**PDF**](https://arxiv.org/abs/2507.03483) **|** [**Project Page**](https://bmmr.pages.dev/) **|** [**Code**](https://github.com/WooooDyy/BMMR/)
 </div>
 </div>
 
@@ -470,29 +893,94 @@ Zhiheng Xi<sup>*</sup>, Guanyu Li<sup>*</sup>, Yutao Fan<sup>*</sup>, Honglin Gu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/VeriGUI_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**VeriGUI: Verifiable Long-Chain GUI Dataset**
+**VeriWeb: Verifiable Long-Chain Web Benchmark for Agentic Information-Seeking**
 
-Shunyu Liu<sup>*</sup>, Minghao Liu<sup>*</sup>, Huichi Zhou, Zhenyu Cui, Yang Zhou, Yuhao Zhou, Wendong Fan, Ge Zhang, Jiajun Shi, Weihao Xuan, Jiaxing Huang, Shuang Luo, Fang Wu, Heli Qi, Qingcheng Zeng, Ziqi Ren, Jialiang Gao, Jindi Lv, Junjie Wang, Aosong Feng, Heng Zhou, Wangchunshu Zhou, **Zhenfei Yin**, Wenlong Zhang, Guohao Li, Wenhao Yu, Irene Li, Lei Ma, Lei Bai, Qunshu Lin, Mingli Song, Dacheng Tao
+Shunyu Liu<sup>‡</sup>, Minghao Liu<sup>‡</sup>, Huichi Zhou, Zhenyu Cui, Yang Zhou, Yuhao Zhou, Jialiang Gao, Heng Zhou, Yunhao Yang, Wendong Fan, Puzhen Zhang, Ge Zhang, Jiajun Shi, Weihao Xuan, Jiaxing Huang, Shuang Luo, Fang Wu, Heli Qi, Qingcheng Zeng, Junjie Wang, Aosong Feng, Jindi Lv, Sicong Jiang, Ziqi Ren, Wangchunshu Zhou, **Zhenfei Yin<sup>‡</sup>**, Wenlong Zhang, Guohao Li, Wenhao Yu, Lei Ma, Lei Bai, Qunshu Lin, Mingli Song<sup>†</sup>, Dacheng Tao<sup>†</sup>
 
 Preprint 2025
 
-[**PDF**](https://arxiv.org/abs/2508.04026) **|** [**Code**](https://github.com/VeriGUI-Team/VeriGUI)
-</div>
-</div>
+[**PDF**](https://arxiv.org/abs/2508.04026)
 
+</div>
+</div>
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/VIKI-R_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/WhenAutonomyGoesRogue_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**When Autonomy Goes Rogue: Preparing for Risks of Multi-Agent Collusion in Social Systems**
+
+Qibing Ren*, Sitao Xie*, Longxuan Wei*, **Zhenfei Yin**, Junchi Yan, Lizhuang Ma<sup>†</sup>, Jing Shao<sup>†</sup>
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2507.14660)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B</div><img src='images/BMMR_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**BMMR: A Large-Scale Bilingual Multimodal Multi-Discipline Reasoning Dataset**
+
+Zhiheng Xi*<sup>†</sup>, Guanyu Li*, Yutao Fan*, Honglin Guo*, Yufang Liu, Xiaoran Fan, Jiaqi Liu, Jingchao Ding, Wangmeng Zuo, **Zhenfei Yin<sup>†</sup>**, Lei Bai, Tao Ji, Tao Gui<sup>†</sup>, Qi Zhang, Philip Torr, Xuanjing Huang
+
+Neural Information Processing Systems, NeurIPS 2025, Datasets and Benchmarks Track
+
+[**PDF**](https://arxiv.org/abs/2507.03483)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/Position_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Position: Intelligent Science Laboratory Requires the Integration of Cognitive and Embodied AI**
+
+Sha Zhang, Suorong Yang, Tong Xie, Xiangyuan Xue, Zixuan Hu, Rui Li, Wenxi Qu, **Zhenfei Yin**, Tianfan Fu, Di Hu, Andres M. Bran, Nian Ran, Bram Hoex, Wangmeng Zuo, Philippe Schwaller, Wanli Ouyang, Lei Bai, Yanyong Zhang, Lingyu Duan, Shixiang Tang<sup>†</sup>, Dongzhan Zhou<sup>†</sup>
+
+Preprint 2025
+
+[**PDF**](https://arxiv.org/abs/2506.19613)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/AgentSafe_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**AgentSafe: Benchmarking the Safety of Embodied Agents on Hazardous Instructions**
+
+Zonghao Ying*, Le Wang*, Yisong Xiao, Jiakai Wang, Yuqing Ma, Jinyang Guo, **Zhenfei Yin**, Mingchuan Zhang, Aishan Liu, Xianglong Liu
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026
+
+[**PDF**](https://arxiv.org/abs/2506.14697)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B</div><img src='images/VIKI-R_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**
 
-Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, Heng Zhou<sup>*</sup>, Yiran Qin<sup>‡</sup>, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai<sup>‡</sup>, **Zhenfei Yin<sup>‡</sup>**
+Li Kang*, Xiufeng Song*, Heng Zhou*, Yiran Qin<sup>†</sup>, Jie Yang, Xiaohong Liu, Philip Torr, Lei Bai<sup>†</sup>, **Zhenfei Yin<sup>†</sup>**
 
-[The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
+\emph{VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning. Neural Information Processing Systems, NeurIPS 2025, Datasets and Benchmarks Track
 
 [**PDF**](https://arxiv.org/abs/2506.09049)
+
 </div>
 </div>
 
@@ -503,11 +991,28 @@ Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, Heng Zhou<sup>*</sup>, Yiran Qin<
 
 **LabUtopia: High-Fidelity Simulation and Hierarchical Benchmark for Scientific Embodied Agents**
 
-Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang, **Zhenfei Yin**, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan, Dongzhan Zhou<sup>‡</sup>, Shixiang Tang<sup>‡</sup>
+Rui Li*, Zixuan Hu*, Wenxi Qu*, Jinouwen Zhang, **Zhenfei Yin<sup>‡</sup>**, Sha Zhang, Xuantuo Huang, Hanqing Wang, Tai Wang, Jiangmiao Pang, Wanli Ouyang, Lei Bai, Wangmeng Zuo, Ling-Yu Duan<sup>†</sup>, Dongzhan Zhou<sup>†</sup>, Shixiang Tang<sup>†</sup>
 
-[The Thirty-Ninth Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2025), Datasets and Benchmarks Track, NeurIPS 2025
+Neural Information Processing Systems, NeurIPS 2025
 
 [**PDF**](https://arxiv.org/abs/2505.22634)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025 D&B</div><img src='images/EndoBench_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**EndoBench: A Comprehensive Evaluation of Multi-Modal Large Language Models for Endoscopy Analysis**
+
+Shengyuan Liu*, Boyun Zheng*, Wenting Chen*, Zhihao Peng, **Zhenfei Yin**, Jing Shao, Jiancong Hu, Yixuan Yuan<sup>†</sup>
+
+Neural Information Processing Systems, NeurIPS 2025, Datasets and Benchmarks Track
+
+[**PDF**](https://arxiv.org/abs/2505.23601)
+
 </div>
 </div>
 
@@ -518,11 +1023,12 @@ Rui Li<sup>*</sup>, Zixuan Hu<sup>*</sup>, Wenxi Qu<sup>*</sup>, Jinouwen Zhang,
 
 **X-MAS: Towards Building Multi-Agent Systems with Heterogeneous LLMs**
 
-Rui Ye<sup>*</sup>, Xiangrui Liu<sup>*</sup>, Qimin Wu, Xianghe Pang, **Zhenfei Yin**, Lei Bai, Siheng Chen<sup>‡</sup>
+Rui Ye*, Xiangrui Liu*, Qimin Wu, Xianghe Pang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai, Siheng Chen<sup>†</sup>
 
 Preprint 2025
 
 [**PDF**](https://arxiv.org/abs/2505.16997)
+
 </div>
 </div>
 
@@ -533,11 +1039,28 @@ Preprint 2025
 
 **MASLab: A Unified and Comprehensive Codebase for LLM-based Multi-Agent Systems**
 
-Rui Ye, Keduan Huang, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, Jiaqi Su, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, **Zhenfei Yin**, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai<sup>‡</sup>, Siheng Chen<sup>‡</sup>
+Rui Ye*, Keduan Huang*, Qimin Wu, Yuzhu Cai, Tian Jin, Xianghe Pang, Xiangrui Liu, Jiaqi Su, Chen Qian, Bohan Tang, Kaiqu Liang, Jiaao Chen, Yue Hu, **Zhenfei Yin<sup>†</sup>**, Rongye Shi, Bo An, Yang Gao, Wenjun Wu, Lei Bai<sup>†</sup>, Siheng Chen<sup>†</sup>
 
 Preprint 2025
 
 [**PDF**](https://arxiv.org/abs/2505.16988)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/CompBench_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**CompBench: Benchmarking Complex Instruction-guided Image Editing**
+
+Bohan Jia*, Wenxuan Huang*, Yuntian Tang*, Junbo Qiao, Jincheng Liao, Shaosheng Cao<sup>†</sup>, Fei Zhao, Zhaopeng Feng, Zhouhong Gu, **Zhenfei Yin**, Lei Bai, Wanli Ouyang, Lin Chen, Yao Hu, Zihan Wang, Yuan Xie, Shaohui Lin<sup>†</sup>
+
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2026
+
+[**PDF**](https://arxiv.org/abs/2505.12200)
+
 </div>
 </div>
 
@@ -548,11 +1071,28 @@ Preprint 2025
 
 **AI-Driven Automation Can Become the Foundation of Next-Era Science of Science Research**
 
-Renqi Chen<sup>*</sup>, Haoyang Su<sup>*</sup>, Shixiang Tang, **Zhenfei Yin**, Qi Wu, Hui Li, Ye Sun, Nanqing Dong<sup>‡</sup>, Wanli Ouyang, Philip Torr
+Renqi Chen*, Haoyang Su*, Shixiang Tang, **Zhenfei Yin**, Qi Wu, Hui Li, Ye Sun, Nanqing Dong<sup>†</sup>, Wanli Ouyang, Philip Torr
 
 Preprint 2025
 
 [**PDF**](https://arxiv.org/abs/2505.12039)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VLIPP_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**
+
+Xindi Yang*, Baolu Li*, Yiming Zhang, **Zhenfei Yin<sup>†</sup>**, Lei Bai<sup>†</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu Jia<sup>†</sup>
+
+International Conference on Computer Vision, ICCV 2025, pp. 12360-12370
+
+[**PDF**](https://arxiv.org/abs/2503.23368)
+
 </div>
 </div>
 
@@ -563,40 +1103,12 @@ Preprint 2025
 
 **RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints**
 
-Yiran Qin<sup>*</sup>, Li Kang<sup>*</sup>, Xiufeng Song<sup>*</sup>, **Zhenfei Yin<sup>‡</sup>**, Xiaohong Liu, Xihui Liu, Ruimao Zhang<sup>‡</sup>, Lei Bai<sup>‡</sup>
+Yiran Qin*, Li Kang*, Xiufeng Song*, **Zhenfei Yin<sup>†</sup>**, Xiaohong Liu, Xihui Liu, Ruimao Zhang<sup>†</sup>, Lei Bai<sup>†</sup>
 
-[International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
+International Conference on Computer Vision, ICCV 2025, pp. 10075-10085
 
-[**PDF**](https://arxiv.org/abs/2503.16408) **|** [**Project Page**](https://iranqin.github.io/robofactory/)
-</div>
-</div>
+[**PDF**](https://arxiv.org/abs/2503.16408)
 
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Reso_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
-
-Heng Zhou<sup>*</sup>, Hejia Geng<sup>*</sup>, Xiangyuan Xue, Li Kang, Yiran Qin, Zhiyong Wang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>
-
-[Empirical Methods in Natural Language Processing](https://2025.emnlp.org/), EMNLP 2025, Oral Presentation, SAC Highlight Award, Outstanding Paper Candidates(Top 1%)
-
-[**PDF**](https://arxiv.org/abs/2503.02390) **|** [**Code**](https://github.com/hengzzzhou/ReSo)
-</div>
-</div>
-<!-- ------------------------------------------------------------- -->
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/VLIPP_2000x1200_src.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**VLIPP: Towards Physically Plausible Video Generation with Vision and Language Informed Physical Prior**
-
-Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>‡</sup>, Liqian Ma, Zhiyong Wang, Jianfei Cai, Tien-Tsin Wong, Huchuan Lu, Xu Jia<sup>‡</sup>
-
-[International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
-
-[**PDF**](https://arxiv.org/abs/2503.23368) **|** [**Project Page**](https://madaoer.github.io/projects/physically_plausible_video_generation/)
 </div>
 </div>
 
@@ -607,28 +1119,28 @@ Xindi Yang, Baolu Li, Yiming Zhang, **Zhenfei Yin<sup>‡</sup>**, Lei Bai<sup>�
 
 **MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems**
 
-Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin**, Siheng Chen<sup>‡</sup>, Jing Shao<sup>‡</sup>
+Rui Ye, Shuo Tang, Rui Ge, Yaxin Du, **Zhenfei Yin<sup>‡</sup>**, Siheng Chen<sup>†</sup>, Jing Shao<sup>†</sup>
 
-[Forty-Second International Conference on Machine Learning](https://icml.cc/), ICML 2025
-
-[ICLR 2025 Workshop on Reasoning and Planning for Large Language Models](https://workshop-llm-reasoning-planning.github.io/), 2025
+International Conference on Machine Learning, ICML 2025
 
 [**PDF**](https://arxiv.org/abs/2503.03686)
+
 </div>
 </div>
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/Reso_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review**
+**ReSo: A Reward-driven Self-organizing LLM-based Multi-Agent System for Reasoning Tasks**
 
-Rui Ye<sup>*</sup>, Xianghe Pang<sup>*</sup>, Jingyi Chai, Jiaao Chen, **Zhenfei Yin**, Zhen Xiang, Xiaowen Dong, Jing Shao, Siheng Chen<sup>‡</sup>
+Heng Zhou*, Hejia Geng*, Xiangyuan Xue, Li Kang, Yiran Qin, Zhiyong Wang, **Zhenfei Yin<sup>†</sup>**, Lei Bai<sup>†</sup>
 
-Preprint, 2024
+Conference on Empirical Methods in Natural Language Processing, EMNLP 2025
 
-[**PDF**](https://arxiv.org/abs/2412.01708) **|** [**Project Page**](https://rui-ye.github.io/BadLLMReviewer)
+[**PDF**](https://arxiv.org/abs/2503.02390)
+
 </div>
 </div>
 
@@ -639,282 +1151,366 @@ Preprint, 2024
 
 **B-VLLM: A Vision Large Language Model with Balanced Spatio-Temporal Tokens**
 
-Zhuqiang Lu, **Zhenfei Yin<sup>‡</sup>**, Mengwei He, Zhihui Wang, Zicheng Liu, Zhiyong Wang, Kun Hu<sup>‡</sup>
+Zhuqiang Lu, **Zhenfei Yin<sup>†</sup>**, Mengwei He, Zhihui Wang, Zicheng Liu, Zhiyong Wang, Kun Hu<sup>†</sup>
 
-[International Conference on Computer Vision](https://iccv.thecvf.com/Conferences/2025), ICCV 2025
+International Conference on Computer Vision, ICCV 2025, pp. 24549-24559
 
-[**PDF**](https://arxiv.org/abs/2412.09919) **|** [**Code**](https://github.com/zhuqiangLu/B-VLLM)
+[**PDF**](https://arxiv.org/abs/2412.09919)
+
 </div>
 </div>
 
 <!-- ------------------------------------------------------------- -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS-W 2024</div><img src='/images/OASIS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/BadLLMReview_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**OASIS: Open Agents Social Interaction Simulations on One Million Agents**
+**Are We There Yet? Revealing the Risks of Utilizing Large Language Models in Scholarly Peer Review**
 
-Ziyi Yang<sup>*</sup>, Zaibin Zhang<sup>*</sup>, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, **Zhenfei Yin<sup>‡</sup>**, Guohao Li<sup>‡</sup>, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao<sup>‡</sup>
+Rui Ye*, Xianghe Pang*, Jingyi Chai, Jiaao Chen, **Zhenfei Yin<sup>‡</sup>**, Zhen Xiang, Xiaowen Dong, Jing Shao, Siheng Chen<sup>†</sup>
 
-[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+Preprint 2024
 
-[**PDF**](https://arxiv.org/abs/2411.11581) **|** [**Project Page**](https://oasis.camel-ai.org/) **|** [**Code**](https://github.com/camel-ai/oasis)
+[**PDF**](https://arxiv.org/abs/2412.01708)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024 Workshop</div><img src='/images/OASIS_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**OASIS: Open Agent Social Interaction Simulations with One Million Agents**
+
+Ziyi Yang*, Zaibin Zhang*, Zirui Zheng, Yuxian Jiang, Ziyue Gan, Zhiyu Wang, Zijian Ling, Jinsong Chen, Martz Ma, Bowen Dong, Prateek Gupta, Shuyue Hu, **Zhenfei Yin<sup>†</sup>**, Guohao Li<sup>†</sup>, Xu Jia, Lijun Wang, Bernard Ghanem, Huchuan Lu, Chaochao Lu, Wanli Ouyang, Yu Qiao, Philip Torr, Jing Shao<sup>†</sup>
+
+Neural Information Processing Systems Workshop on Open-World Agents, NeurIPS-W 2024
+
+[**PDF**](https://arxiv.org/abs/2411.11581)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='/images/worldsimbench_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **WorldSimBench: Towards Video Generation Models as World Simulators**
 
-Yiran Qin<sup>*</sup>, Zhelun Shi<sup>*</sup>, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li, **Zhenfei Yin<sup>†</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>‡</sup>, Lei Bai<sup>‡</sup>, Wanli Ouyang, Ruimao Zhang<sup>‡</sup>
+Yiran Qin*, Zhelun Shi*, Jiwen Yu, Xijun Wang, Enshen Zhou, Lijun Li, **Zhenfei Yin<sup>‡</sup>**, Xihui Liu, Lu Sheng, Jing Shao<sup>†</sup>, Lei Bai<sup>†</sup>, Wanli Ouyang, Ruimao Zhang<sup>†</sup>
 
-[Forty-Second International Conference on Machine Learning](https://icml.cc/), ICML 2025
+International Conference on Machine Learning, ICML 2025
 
-[**PDF**](https://arxiv.org/abs/2410.18072) **|** [**Project Page**](https://iranqin.github.io/WorldSimBench.github.io/)
+[**PDF**](https://arxiv.org/abs/2410.18072)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='/images/sciteam_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Two Heads Are Better Than One: A Multi-Agent System Has the Potential to Improve Scientific Idea Generation**
+**Many Heads Are Better Than One: Improved Scientific Idea Generation by a LLM-Based Multi-Agent System**
 
-Haoyang Su<sup>*</sup>, Renqi Chen<sup>*</sup>, Shixiang Tang<sup>‡</sup>, Xinzhe Zheng, Jingzhe Li, **Zhenfei Yin**, Wanli Ouyang, Nanqing Dong<sup>‡</sup>
+Haoyang Su*, Renqi Chen*, Shixiang Tang<sup>†</sup>, **Zhenfei Yin<sup>‡</sup>**, Xinzhe Zheng, Jinzhe Li, Biqing Qi, Qi Wu, Hui Li, Wanli Ouyang, Philip Torr, Bowen Zhou, Nanqing Dong<sup>†</sup>
 
-[The 63rd Annual Meeting of the Association for Computational Linguistics](https://2025.aclweb.org/), Main Conference, ACL 2025
+Annual Meeting of the Association for Computational Linguistics, ACL 2025, Main Conference
 
-[**PDF**](https://arxiv.org/abs/2410.09403) **|** [**Project Page**](https://open-sciencelab.github.io/Social_Science/)
+[**PDF**](https://arxiv.org/abs/2410.09403)
+
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/GenderBiaVLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='images/GenderBiaVLM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **GenderBias-VL: Benchmarking Gender Bias in Vision Language Models via Counterfactual Probing**
 
-Yisong Xiao, Aishan Liu, QianJia Cheng, **Zhenfei Yin**, Siyuan Liang, Jiapeng Li, Jing Shao, Xianglong Liu<sup>‡</sup>, Dacheng Tao
+Yisong Xiao, Aishan Liu, QianJia Cheng, **Zhenfei Yin**, Siyuan Liang, Jiapeng Li, Jing Shao, Xianglong Liu, Dacheng Tao
 
-Preprint, 2024
+International Journal of Computer Vision, Vol. 133, No. 12, pp. 8332-8355
 
 [**PDF**](https://arxiv.org/abs/2407.00600)
+
 </div>
 </div>
 
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='/images/spavl_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Model**
 
-Yongting Zhang<sup>*</sup>, Lu Chen<sup>*</sup>, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, **Zhenfei Yin**, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui<sup>‡</sup>, Jing Shao<sup>‡</sup>
+Yongting Zhang*, Lu Chen*, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, **Zhenfei Yin<sup>‡</sup>**, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao<sup>†</sup>, Tao Gui<sup>†</sup>, Jing Shao<sup>†</sup>
 
-[The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/), CVPR 2025
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2025
 
-[**PDF**](https://arxiv.org/abs/2406.12030) **|** [**Code**](https://github.com/EchoseChen/SPA-VL-RLHF)
+[**PDF**](https://arxiv.org/abs/2406.12030)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='/images/RH20T-P_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **RH20T-P: A Primitive-Level Robotic Dataset Towards Composable Generalization Agents**
 
-Zeren Chen<sup>*</sup>, Zhelun Shi<sup>*</sup>, Xiaoya Lu<sup>*</sup>, Lehan He<sup>*</sup>, Sucheng Qian, Hao Shu Fang, **Zhenfei Yin<sup>†</sup>**, Wanli Ouyang, Jing Shao<sup>‡</sup>, Yu Qiao, Cewu Lu, Lu Sheng<sup>‡</sup>
+Zeren Chen*, Zhelun Shi*, Xiaoya Lu*, Lehan He*, Sucheng Qian, **Zhenfei Yin<sup>‡</sup>**, Wanli Ouyang, Jing Shao<sup>†</sup>, Yu Qiao, Cewu Lu<sup>†</sup>, Lu Sheng<sup>†</sup>
 
-[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.iros25.org/), IROS 2025
+IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025
 
-[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+[**PDF**](https://arxiv.org/abs/2403.19622)
 
-[**PDF**](https://arxiv.org/abs/2403.19622) **|** [**Project Page**](https://sites.google.com/view/rh20t-primitive/main)
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='/images/CH^3EF_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Assessment of Multimodal Large Language Models in Alignment with Human Values**
 
-Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, Zaibin Zhang, Lijun Li, Yongting Zhang, **Zhenfei Yin**, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>‡</sup>
+Zhelun Shi*, Zhipin Wang*, Hongxing Fan*, Zaibin Zhang, Lijun Li, Yongting Zhang, **Zhenfei Yin<sup>‡</sup>**, Lu Sheng<sup>†</sup>, Yu Qiao, Jing Shao<sup>†</sup>
 
-Preprint, 2024
+Preprint 2024
 
-[**PDF**](https://arxiv.org/abs/2403.17830) **|** [**Project Page**](https://openlamm.github.io/ch3ef/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2403.17830)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2025</div><img src='/images/MineDreamer_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MineDreamer: Learning to Follow Instructions via Chain-of-Imagination for Simulated-World Control**
+**Chain-of-Imagination for Reliable Instruction Following in Decision Making**
 
-Enshen Zhou<sup>*</sup>, Yiran Qin<sup>*</sup>, **Zhenfei Yin**, Yuzhou Huang, Ruimao Zhang<sup>‡</sup>, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+Enshen Zhou*, Yiran Qin*, **Zhenfei Yin**, Yuzhou Huang, Ruimao Zhang<sup>†</sup>, Lu Sheng<sup>†</sup>, Yu Qiao, Jing Shao<sup>‡</sup>
 
-[IEEE/RSJ International Conference on Intelligent Robots and Systems](https://www.iros25.org/), IROS 2025
+IEEE/RSJ International Conference on Intelligent Robots and Systems, IROS 2025
 
-[NeurIPS Workshop on Open-World Agents](https://sites.google.com/view/open-world-agents), 2024
+[**PDF**](https://arxiv.org/abs/2403.12037)
 
-[**PDF**](https://arxiv.org/abs/2403.12037) **|** [**Project Page**](https://sites.google.com/view/minedreamer/main) **|** [**Code**](https://github.com/Zhoues/MineDreamer)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='/images/tracing360_1134x680_src.PNG' alt="sym" width="100%"></div></div>
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024 Findings</div><img src='/images/tracing360_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Towards Tracing Trustworthiness Dynamics: Revisiting Pre-training Period of Large Language Models**
 
-Chen Qian<sup>*</sup>, Jie Zhang<sup>*</sup>, Wei Yao<sup>*</sup>, Dongrui Liu, **Zhenfei Yin**, Yu Qiao, Yong Liu<sup>‡</sup>, Jing Shao<sup>‡</sup>
+Chen Qian*, Jie Zhang*, Wei Yao*, Dongrui Liu, **Zhenfei Yin**, Yu Qiao, Yong Liu<sup>†</sup>, Jing Shao<sup>†</sup>
 
-[The 62nd Annual Meeting of the Association for Computational Linguistics](https://2024.aclweb.org/), Findings, ACL 2024
+Findings of the Association for Computational Linguistics, ACL 2024, pp. 4864-4888
 
-[**PDF**](https://arxiv.org/abs/2402.19465) **|** [**Code**](https://github.com/ChnQ/TracingLLM)
+[**PDF**](https://arxiv.org/abs/2402.19465)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/308p_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **From GPT-4 to Gemini and Beyond: Assessing the Landscape of MLLMs on Generalizability, Trustworthiness and Causality through Four Modalities**
 
-Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jing Shao<sup>‡</sup>, Jingyi Deng, Jinlan Fu, Kexin Huang, Kunchang Li, Lijun Li, Limin Wang, Lu Sheng, Meiqi Chen, Ming Zhang, Qibing Ren, Sirui Chen, Tao Gui, Wanli Ouyang, Yali Wang, Yan Teng, Yaru Wang, Yi Wang, Yinan He, Yingchun Wang, Yixu Wang, Yongting Zhang, Yu Qiao<sup>‡</sup>, Yujiong Shen, Yurong Mou, Yuxi Chen, Zaibin Zhang, Zhelun Shi, **Zhenfei Yin<sup>†</sup>**, Zhipin Wang
+Chaochao Lu, Chen Qian, Guodong Zheng, Hongxing Fan, Hongzhi Gao, Jie Zhang, Jing Shao<sup>†</sup>, Jingyi Deng, Jinlan Fu, Kexin Huang, Kunchang Li, Lijun Li, Limin Wang, Lu Sheng, Meiqi Chen, Ming Zhang, Qibing Ren, Sirui Chen, Tao Gui, Wanli Ouyang, Yali Wang, Yan Teng, Yaru Wang, Yi Wang, Yinan He, Yingchun Wang, Yixu Wang, Yongting Zhang, Yu Qiao<sup>†</sup>, Yujiong Shen, Yurong Mou, Yuxi Chen, Zaibin Zhang, Zhelun Shi, **Zhenfei Yin<sup>‡</sup>**, Zhipin Wang
 
-Technical Report, 2024
+Technical Report 2024
 
 [**PDF**](https://arxiv.org/abs/2401.15071)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='/images/DQA_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-modal Language Models**
+**Depicting Beyond Scores: Advancing Image Quality Assessment through Multi-Modal Language Models**
 
-Zhiyuan You<sup>*</sup>, Zheyuan Li<sup>*</sup>, Jinjin Gu<sup>*</sup>, **Zhenfei Yin**, Tianfan Xue<sup>‡</sup>, Chao Dong<sup>‡</sup>
+Zhiyuan You*, Zheyuan Li*, Jinjin Gu*, **Zhenfei Yin<sup>‡</sup>**, Tianfan Xue<sup>†</sup>, Chao Dong<sup>†</sup>
 
-[The 18th European Conference on Computer Vision](https://eccv.ecva.net/Conferences/2024), ECCV 2024
+European Conference on Computer Vision, ECCV 2024, pp. 259-276
 
-[**PDF**](https://arxiv.org/abs/2312.08962) **|** [**Project Page**](https://depictqa.github.io/) **|** [**Code**](https://github.com/XPixelGroup/DepictQA)
+[**PDF**](https://arxiv.org/abs/2312.08962)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='/images/MP5_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MP5: A Multi-modal Open-ended Embodied System in Minecraft via Active Perception**
+**MP5: A Multi-Modal Open-Ended Embodied System in Minecraft via Active Perception**
 
-Yiran Qin<sup>*</sup>, Enshen Zhou<sup>*</sup>, Qichang Liu<sup>*</sup>, **Zhenfei Yin**, Lu Sheng<sup>‡</sup>, Ruimao Zhang<sup>‡</sup>, Yu Qiao, Jing Shao<sup>†</sup>
+Yiran Qin*, Enshen Zhou*, Qichang Liu*, **Zhenfei Yin<sup>‡</sup>**, Lu Sheng<sup>†</sup>, Ruimao Zhang<sup>†</sup>, Yu Qiao, Jing Shao<sup>‡</sup>
 
-[The IEEE/CVF Conference on Computer Vision and Pattern Recognition](https://cvpr.thecvf.com/Conferences/2024), CVPR 2024
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, CVPR 2024, pp. 16307-16316
 
-[**PDF**](https://arxiv.org/abs/2312.07472) **|** [**Project Page**](https://iranqin.github.io/MP5.github.io/) **|** [**Code**](https://github.com/IranQin/MP5)
+[**PDF**](https://arxiv.org/abs/2312.07472)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/ChEF_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **ChEF: A Comprehensive Evaluation Framework for Standardized Assessment of Multimodal Large Language Models**
 
-Zhelun Shi<sup>*</sup>, Zhipin Wang<sup>*</sup>, Hongxing Fan<sup>*</sup>, **Zhenfei Yin**, Lu Sheng<sup>‡</sup>, Yu Qiao, Jing Shao<sup>‡</sup>
+Zhelun Shi*, Zhipin Wang*, Hongxing Fan*, **Zhenfei Yin<sup>‡</sup>**, Lu Sheng<sup>†</sup>, Yu Qiao, Jing Shao<sup>†</sup>
 
-Technical Report, 2024
+Technical Report 2023
 
-[**PDF**](https://arxiv.org/abs/2311.02692) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2311.02692)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='/images/Octavius_1092x720_src.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Octavius: Mitigating Task Interference in MLLMs via LoRA-MoE**
 
-Zeren Chen<sup>*</sup>, Ziqin Wang<sup>*</sup>, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>†</sup>**, Si Liu, Lu Sheng<sup>‡</sup>, Wanli Ouyang, Jing Shao<sup>‡</sup>
+Zeren Chen*, Ziqin Wang*, Zhen Wang, Huayang Liu, **Zhenfei Yin<sup>‡</sup>**, Si Liu, Lu Sheng<sup>†</sup>, Wanli Ouyang, Yu Qiao, Jing Shao<sup>†</sup>
 
-[The Twelfth International Conference on Learning Representations](https://iclr.cc/Conferences/2024), ICLR 2024
+International Conference on Learning Representations, ICLR 2024
 
-[**PDF**](https://arxiv.org/abs/2311.02684) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
+[**PDF**](https://arxiv.org/abs/2311.02684)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2023</div><img src='/images/LAMM_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **LAMM: Language-Assisted Multi-Modal Instruction-Tuning Dataset, Framework, and Benchmark**
 
-**Zhenfei Yin<sup>*</sup>**, Jiong Wang<sup>*</sup>, Jianjian Cao<sup>*</sup>, Zhelun Shi<sup>*</sup>, Dingning Liu, Mukai Li, Xiaoshui Huang, Zhiyong Wang, Lu Sheng, Lei Bai<sup>‡</sup>, Jing Shao<sup>‡</sup>, Wanli Ouyang
+**Zhenfei Yin<sup>*</sup>**, Jiong Wang*, Jianjian Cao*, Zhelun Shi*, Dingning Liu, Mukai Li, Lu Sheng, Lei Bai<sup>†</sup>, Xiaoshui Huang, Zhiyong Wang, Jing Shao<sup>†</sup>, Wanli Ouyang
 
-[The Thirty-Seventh Annual Conference on Neural Information Processing Systems](https://neurips.cc/Conferences/2023), Datasets and Benchmarks Track, NeurIPS 2023
+Advances in Neural Information Processing Systems, NeurIPS 2023, Vol. 36, pp. 26650-26685
 
-[**PDF**](https://arxiv.org/abs/2306.06687) <strong><span class='show_paper_citations' data='ngPR1dIAAAAJ:WF5omc3nYNoC'></span></strong> **|** [**Project Page**](https://openlamm.github.io/) **|** [**Code**](https://github.com/OpenGVLab/LAMM)
-<!-- - The multi-modal instruction tuning dataset, benchmark evaluation codebase, and training framework have all been open-sourced, along with projects expanding applications on embodied agents. -->
+[**PDF**](https://arxiv.org/abs/2306.06687)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICME 2024</div><img src='/images/pointclip_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **3D Point Cloud Pre-Training with Knowledge Distilled from 2D Images**
 
-Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huang<sup>‡</sup>
+Yuan Yao, Yuanhan Zhang, **Zhenfei Yin**, Jiebo Luo, Wanli Ouyang, Xiaoshui Huang<sup>†</sup>
 
-[IEEE International Conference on Multimedia and Expo](https://2024.ieeeicme.org/), 2024
+IEEE International Conference on Multimedia and Expo, ICME 2024, pp. 1-6
 
 [**PDF**](https://arxiv.org/abs/2212.08974)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/OmniBenchmark_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Benchmarking Omni-Vision Representation Through the Lens of Visual Realms**
+**Benchmarking Omni-Vision Representation through the Lens of Visual Realms**
 
-Yuanhan Zhang, **Zhenfei Yin<sup>†</sup>**, Jing Shao<sup>‡</sup>, Ziwei Liu
+Yuanhan Zhang, **Zhenfei Yin<sup>‡</sup>**, Jing Shao<sup>†</sup>, Ziwei Liu
 
-[European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
+European Conference on Computer Vision, ECCV 2022, pp. 594-611
 
-[**PDF**](https://arxiv.org/abs/2207.07106) **|** [**Project Page**](https://zhangyuanhan-ai.github.io/OmniBenchmark/) **|** [**Code**](https://github.com/ZhangYuanhan-AI/OmniBenchmark)
+[**PDF**](https://arxiv.org/abs/2207.07106)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='/images/xlearner_1134x680_src.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **X-Learner: Learning Cross Sources and Tasks for Universal Visual Representation**
 
-Yinan He<sup>*</sup>, Gengshi Huang<sup>*</sup>, Siyu Chen<sup>*</sup>, Jianing Teng<sup>*</sup>, Kun Wang, **Zhenfei Yin**, Lu Sheng, Ziwei Liu, Yu Qiao, Jing Shao<sup>‡</sup>
+Yinan He*, Gengshi Huang*, Siyu Chen*, Jianing Teng*, Kun Wang, **Zhenfei Yin**, Lu Sheng, Ziwei Liu, Yu Qiao, Jing Shao<sup>†</sup>
 
-[European Conference on Computer Vision](https://eccv2022.ecva.net/), 2022
+European Conference on Computer Vision, ECCV 2022, pp. 509-528
 
 [**PDF**](https://arxiv.org/abs/2203.08764)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV</div><img src='/images/Bamboo_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Bamboo: Building Mega-Scale Vision Dataset Continually with Human-Machine Synergy**
 
-Yuanhan Zhang<sup>*</sup>, Qinghong Sun<sup>*</sup>, Yichun Zhou<sup>*</sup>, Zexin He<sup>*</sup>, **Zhenfei Yin<sup>†</sup>**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao<sup>‡</sup>, Ziwei Liu
+Yuanhan Zhang*, Qinghong Sun*, Yichun Zhou*, Zexin He*, **Zhenfei Yin<sup>†</sup>**, Kun Wang, Lu Sheng, Yu Qiao, Jing Shao<sup>†</sup>, Ziwei Liu
 
-International Journal of Computer Vision 10.1007/s11263-025-02450-2
+International Journal of Computer Vision, Vol. 133, No. 8, pp. 5806-5821
 
-[**PDF**](https://arxiv.org/abs/2203.07845) **|** [**Code**](https://github.com/ZhangYuanhan-AI/Bamboo)
+[**PDF**](https://arxiv.org/abs/2203.07845)
+
 </div>
 </div>
+
+<!-- ------------------------------------------------------------- -->
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='images/OnetoTransferAll_2000x1200_src.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**One to Transfer All: A Universal Transfer Framework for Vision Foundation Model with Few Data**
+
+Yujie Wang*, Junqin Huang*, Mengya Gao*, Yichao Wu*, **Zhenfei Yin<sup>‡</sup>**, Ding Liang, Junjie Yan
+
+Technical Report 2021
+
+[**PDF**](https://arxiv.org/abs/2111.12386)
+
+</div>
+</div>
+
+<!-- ------------------------------------------------------------- -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech. Report</div><img src='/images/INTERN_2000x1200_src.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **INTERN: A New Learning Paradigm Towards General Vision**
 
-Jing Shao<sup>*</sup>, Siyu Chen<sup>*</sup>, Yangguang Li<sup>*</sup>, Kun Wang<sup>*</sup>, **Zhenfei Yin<sup>*</sup>**, Yinan He<sup>*</sup>, Jianing Teng<sup>*</sup>, Qinghong Sun<sup>*</sup>, Mengya Gao<sup>*</sup>, Jihao Liu<sup>*</sup>, Gengshi Huang<sup>*</sup>, Guanglu Song, Yichao Wu, Yuming Huang, Fenggang Liu, Huan Peng, Shuo Qin, Chengyu Wang, Yujie Wang, Conghui He, Ding Liang, Yu Liu, Fengwei Yu, Junjie Yan, Dahua Lin, Xiaogang Wang, Yu Qiao<sup>‡</sup>
+Jing Shao*, Siyu Chen*, Yangguang Li*, Kun Wang*, **Zhenfei Yin*<sup>‡</sup>**, Yinan He*, Jianing Teng*, Qinghong Sun*, Mengya Gao*, Jihao Liu*, Gengshi Huang*, Guanglu Song, Yichao Wu, Yuming Huang, Fenggang Liu, Huan Peng, Shuo Qin, Chengyu Wang, Yujie Wang, Conghui He, Ding Liang, Yu Liu, Fengwei Yu, Junjie Yan, Dahua Lin, Xiaogang Wang, Yu Qiao<sup>†</sup>
 
-Technical Report, 2021
+Technical Report 2021
 
-[**PDF**](https://arxiv.org/abs/2111.08687) **|** [**Code**](https://github.com/OpenGVLab)
+[**PDF**](https://arxiv.org/abs/2111.08687)
+
 </div>
 </div>
-<!-- ------------------------------------------------------------- -->
 
 <span class='anchor' id='-professional-service'></span>
 
