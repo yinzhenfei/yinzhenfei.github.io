@@ -41,7 +41,7 @@ I am recruiting across three places at once, and the same people often move betw
 
 - **Frontier problems.** You work on questions at the edge of what current models can do, not on incremental variants.
 - **Real mentorship.** We start from executing well-defined research and move towards defining your own problems and leading a direction.
-- **Systems and open source.** Our work ships as paper plus system plus community: MARS, LabUtopia, OASIS, MASLab, CAMEL and others total 60,000+ GitHub stars.
+- **Systems and open source.** Our work ships as paper plus system plus community: MARS, LabUtopia, OASIS, MASLab, CAMEL, Gen-Verse and others total 60,000+ GitHub stars.
 - **A global network.** Long-running collaborations with groups at Oxford, Stanford, Princeton, UIUC, UCL, CUHK, Peking University and Fudan, plus industry ties through [PhAI Labs](https://phai-labs.com/en/). Strong students get support for international visits, internship referrals, and PhD or postdoc applications.
 
 **How to apply.** Email me at [jeremyyin@robots.ox.ac.uk](mailto:jeremyyin@robots.ox.ac.uk) with your CV and a short note on what you want to work on and why, and say which of the three you have in mind. A strong background helps but is not required; curiosity, persistence and the willingness to go deep matter more.
